@@ -1,0 +1,2232 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "9eI77hvnCjyPpvXEAbN0k6tiGd0",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 665451,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ihyO30Xxxi_nCaYhc-gaRWJ7ons",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ub_wGeQmaNY"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-13T04:56:32Z",
+        "channelId": "UCPEz5hiM0-imNPL08-9rvwQ",
+        "title": "아빠 탈모 보고 식은땀 흘린 고준희가 매일 쓴다는 두피 케어템? 😱",
+        "description": "\"이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\" 아빠 탈모 때문에 두피 관리에 완전 진심 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ub_wGeQmaNY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ub_wGeQmaNY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ub_wGeQmaNY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ub_wGeQmaNY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ub_wGeQmaNY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "셀럽잇템",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-13T04:56:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5nxlRqCM2NmS69euCIUrHU_Govw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rm40pcZLGts"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-04T05:24:42Z",
+        "channelId": "UChYNbCYqVwQNzi5lgU2DB8w",
+        "title": "늦지 않았을 때 시작해야 할 2030 두피 케어",
+        "description": "출처_가을의 온도.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rm40pcZLGts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rm40pcZLGts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rm40pcZLGts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rm40pcZLGts/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rm40pcZLGts/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쉽도",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-04T05:24:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9ZO8O3cqTHYzLxmQ038mgXpN7HU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w-wl5IuVUW4"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-28T09:01:39Z",
+        "channelId": "UCMYFfUu0IHJTF7J4hE-1lGg",
+        "title": "병원 시술보다 효과 좋습니다... 지금 당장 쟁여놓아야 할 올리브영 탈모꿀템 추천드려요! | 올영세일",
+        "description": "남성의 잃어버린 모발을 다시 찾아가는 길 모발이식은 이건민    ‍⚕️ 모발이식 예약이 어려우셨던 분들을 위해, 간편하게 신청하실 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w-wl5IuVUW4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w-wl5IuVUW4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w-wl5IuVUW4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w-wl5IuVUW4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w-wl5IuVUW4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이건민의 풍성한 이야기",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-28T09:01:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0W_xbJ8Qdg_dKIREXz37Kq0HZ9k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DVHgIXhpE7w"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T09:00:20Z",
+        "channelId": "UCMYFfUu0IHJTF7J4hE-1lGg",
+        "title": "&quot;500원으로 탈모 관리를?&quot; 이거 알려줬더니 환자가 안와요…ㅠㅠ 다이소 역대급 탈모 꿀템",
+        "description": "남성의 잃어버린 모발을 다시 찾아가는 길 모발이식은 이건민    ‍⚕️ 모발이식 예약이 어려우셨던 분들을 위해, 간편하게 신청하실 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DVHgIXhpE7w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DVHgIXhpE7w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DVHgIXhpE7w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DVHgIXhpE7w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DVHgIXhpE7w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이건민의 풍성한 이야기",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T09:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Kehq3oP3ae9rtobnyL-IuJE1KI4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b0HH_a19CJM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T05:19:00Z",
+        "channelId": "UC8jMkS3G78mAccd4ZAHRsIA",
+        "title": "[수원역 헤드스파] 두피 피로 풀리는 힐링 마사지",
+        "description": "수원역 근처에서 두피 피로 풀리는 헤드스파를 찾고 계신가요? 1인 프라이빗 살롱 미인헤어에서 시원하고 편안한 두피 힐링 케어를 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b0HH_a19CJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b0HH_a19CJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b0HH_a19CJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b0HH_a19CJM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b0HH_a19CJM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "미인헤어",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T05:19:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TYHi-Hks7brrkMV8jz3zMWDE8pw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i8DP9iCVa94"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-30T04:00:14Z",
+        "channelId": "UCWuyxGA4DdK-S8yfx3bBXCA",
+        "title": "꿀두피 숱부자의 찐템가득 홈헤드스파 루틴🧖🏻‍♀️💈",
+        "description": "찐템 가득 홈헤드스파•••    ‍♀️   꿀두피 + 숱부자 + 비단결 한 큐에 끝내는 루틴으로 말아왔어요     저는 민감+건성 두피라 얼굴 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i8DP9iCVa94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i8DP9iCVa94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i8DP9iCVa94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i8DP9iCVa94/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i8DP9iCVa94/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "디모_dimo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-30T04:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pdo-RJqAjaWAP8VHxlDaTV-wWPQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ggfeU1Juv1E"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-25T23:00:27Z",
+        "channelId": "UCOvLpcPdabPCTzju6HJh-Vw",
+        "title": "머리 감아도 정수리 냄새 날 때? 신기루·봉태규가 극찬한 두피템 실물",
+        "description": "머리 감아도 스멀스멀 올라오던 정수리 냄새를 1초 만에 싹 잡아준다는 신기루·봉태규의 인생 헤어토닉 전격 공개! 두피에 톡톡 바르 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ggfeU1Juv1E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ggfeU1Juv1E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ggfeU1Juv1E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ggfeU1Juv1E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ggfeU1Juv1E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "언니최고",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-25T23:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GklN4C48sVZmClLrdjAgOakCiak",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t9KOrUqBXf0"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-14T09:00:23Z",
+        "channelId": "UCMYFfUu0IHJTF7J4hE-1lGg",
+        "title": "탈모 걸린 의사가 추천하는 올리브영 두피 꿀템",
+        "description": "남성의 잃어버린 모발을 다시 찾아가는 길 모발이식은 이건민    ‍⚕️ 모발이식 예약이 어려우셨던 분들을 위해, 간편하게 신청하실 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t9KOrUqBXf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t9KOrUqBXf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t9KOrUqBXf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t9KOrUqBXf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t9KOrUqBXf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이건민의 풍성한 이야기",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-14T09:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I4vbwYr57HgwB03hxokMvz46-18",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CQVy_kHWSpM"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-08T22:24:14Z",
+        "channelId": "UCQFcCtNlYBn3mHv24xUR1VA",
+        "title": "무조건 매일 쓴다는 윤승아 두피케어 필수템",
+        "description": "프로필 하단 링크에서 ➡️ '607' 검색하시면 제품을 확인할 수 있습니다☺️ 팔로우와 공유도 꼭! 부탁드립니다^-^ “좋아요”는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CQVy_kHWSpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CQVy_kHWSpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CQVy_kHWSpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CQVy_kHWSpM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CQVy_kHWSpM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스타슈퍼",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-08T22:24:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9JSEcCMULXweByBsjsHiBTYurwc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XSADpjBdy6U"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-10T08:38:27Z",
+        "channelId": "UCtoWBl674cBBWldZ1rJl6Jw",
+        "title": "류혜영이 5통이나 비운 두피관리템",
+        "description": "탈모는 없지만 모발이 얇아 두피 관리에 진심인 류혜영 그녀가 올리브영에 가면 무조건 쓸어담는다는 찐 애정템들을 아낌없이 공개 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XSADpjBdy6U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XSADpjBdy6U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XSADpjBdy6U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XSADpjBdy6U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XSADpjBdy6U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "24시 뷰티타임",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-10T08:38:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2ExfsI3RjSCBfRikSUorprtc3fs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kcDlcK9mg9g"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-29T10:45:37Z",
+        "channelId": "UCtgE4LyeI-Y2ZADVA-ogRaw",
+        "title": "탈모병원 원장이 직접 쓰는 올리브영 두피 탈모템 2가지",
+        "description": "강남 탈모병원 원장이 직접 써보고 추천하는 올리브영 두피 탈모템 2가지를 영상에서 확인해 주세요! 영상속 제품은 영상 왼쪽 사진 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kcDlcK9mg9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kcDlcK9mg9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kcDlcK9mg9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kcDlcK9mg9g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kcDlcK9mg9g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "핫한걸",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-29T10:45:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k7BmCCe99vKr0kpjff7nJQYkfho",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T6zVcvqktGs"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-24T09:00:16Z",
+        "channelId": "UCHGQ20v_QtgcRnS_7qrt79Q",
+        "title": "50대 고현정 풍성한 볼륨을 살려주는 두피케어 비밀 #고현정 #두피케어 #정수리볼륨 #헤어꿀팁 #머리숱 # #쇼핑쇼츠 #꿀템 #쇼츠추천",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T6zVcvqktGs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T6zVcvqktGs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T6zVcvqktGs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T6zVcvqktGs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T6zVcvqktGs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "유니크픽",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-24T09:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jZKb69WsnKqkcqCjdGNO_xbG2Nc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kkACweQui_U"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-12T00:03:26Z",
+        "channelId": "UCDqpfE18iFWQ2R5kZ5PKuOw",
+        "title": "#두피케어 #두피 #탈모",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kkACweQui_U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kkACweQui_U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kkACweQui_U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kkACweQui_U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kkACweQui_U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뉴코드스튜디오 Newcode Studio",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-12T00:03:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pOxYwTq6gdXWuVmYHgRIst8QQ4A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5zdUY3zGifI"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-18T12:05:17Z",
+        "channelId": "UCbFuGHjwTvoIy3SzL6eJZ5w",
+        "title": "손담비가 추천하는 두피 케어! 모발 볼륨까지 한 번에 잡는 방법",
+        "description": "출산 후 탈모 고민이셨던 손담비님이 직접 쓰고 효과 본 두피 단백질 케어 방법 공개합니다! 두피 열은 내려주고 끈적임 없이 모발 볼륨 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5zdUY3zGifI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5zdUY3zGifI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5zdUY3zGifI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5zdUY3zGifI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5zdUY3zGifI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "셀소녀",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-18T12:05:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XWd1DIHE9HMI8ogFzb6u-mVtFv8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3Zq2h1As-d0"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-02T08:39:00Z",
+        "channelId": "UCiiF9-2Aodh5zya7AenwUXw",
+        "title": "한국 K-두피 관리에 영혼까지 털려버린 외국인 반응 #shorts",
+        "description": "한국에서만 경험할 수 있다는 전설의 15단계 K-두피 스케일링 & 온열 폭포 스파! 1년 만에 다시 서울을 찾은 외국인 커플이 직접 18만 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3Zq2h1As-d0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3Zq2h1As-d0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3Zq2h1As-d0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3Zq2h1As-d0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3Zq2h1As-d0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "한교양 시니어",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-02T08:39:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gsiaQc7MGgBAUoTJF8P9ifo2bB4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IFBo19nE_uQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-30T04:30:20Z",
+        "channelId": "UCCo1IfEs_F_d-h3SYH_4AOg",
+        "title": "정수리 냄새 잡는 두피 스크럽 #두피케어 #두피스케일러 #머리떡짐",
+        "description": "쇼핑 커넥트 링크로 구매 시 수수료를 받습니다. https://naver.me/G3v6GN0x 아침에 감아도 금방 떡지는 머리? 모공 속 묵은 각질이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IFBo19nE_uQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IFBo19nE_uQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IFBo19nE_uQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IFBo19nE_uQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IFBo19nE_uQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "binna liu",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-30T04:30:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5spYpbvJByEE_qIM8L85ucreTqI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4HfGLFt7jVw"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-12T09:38:43Z",
+        "channelId": "UCUyKiATtPb335omBWsUD5nw",
+        "title": "베트남 힐링 케어 | 두피케어",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4HfGLFt7jVw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4HfGLFt7jVw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4HfGLFt7jVw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4HfGLFt7jVw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4HfGLFt7jVw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "베트남 황제 힐링케어",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-12T09:38:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4B2fqQJnEx4ka1dM3fy4GaI2zzA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XzYHiJPs644"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-18T08:45:01Z",
+        "channelId": "UCEzESZF5UAeiK871wikdy9g",
+        "title": "탈모인들 환호한다는 단돈 5천원 다이소 두피앰플 | 현진행중 #탈모 #탈모예방 #두피 #두피관리",
+        "description": "탈모 제품은 죄다 비싸다는 편견은 버리세요! 다이소에서 구할 수 있는 찐 탈모구원템? 요즘 많이 보이는 탈모 케어 제품 3가지를 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XzYHiJPs644/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XzYHiJPs644/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XzYHiJPs644/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XzYHiJPs644/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XzYHiJPs644/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/XzYHiJPs644/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "현진행중",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-18T08:45:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dUDX2O5IVAUAFjN2h-sB2yxDigs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-t7WsGb-YmM"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-20T05:26:25Z",
+        "channelId": "UC1ZhBh-iwdIFgnGemfm8ODQ",
+        "title": "코스트코에서 발견한 똑똑한 드라이기! 무아스두피&amp;헤어드라이기 솔직후기💈 #육아템 #유료광고",
+        "description": "요즘 머리를 감고 나면 빠지는 머리카락 때문에 드라이기까지 꼼꼼하게 찾아보게 됐어요  ! 이번에 사용해본 제품은 무아스두피&헤어 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-t7WsGb-YmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-t7WsGb-YmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-t7WsGb-YmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-t7WsGb-YmM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-t7WsGb-YmM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리쮸 LIZZU ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-20T05:26:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9OlvJwhBLvdWeephF9vlnC4nN6o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Nkxt-7xDNUI"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-11T09:55:31Z",
+        "channelId": "UCiNYFC4aTo4J26muy9xZ4bQ",
+        "title": "여배우 탈모 걱정 없애주는 두피 케어템",
+        "description": "잦은 헤어 변화로 두피가 약한 여배우들이 찾은 탈모걱정 끝판왕템으로 이건 거의 N통째 쓸 만큼 헤어 열감 확실해서 두피케어에 직빵 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nkxt-7xDNUI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nkxt-7xDNUI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nkxt-7xDNUI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nkxt-7xDNUI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nkxt-7xDNUI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "픽바이브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-11T09:55:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EElcnnhC5mGesBbc1dmJ4mxsLkk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DHwbbfMQvwk"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-01T12:39:48Z",
+        "channelId": "UCYEEtPL7IlSvNCLL9k5UQyg",
+        "title": "ASMR💆긴장이 스르르 풀리는 새로운 두피관리 풀코스",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DHwbbfMQvwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DHwbbfMQvwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DHwbbfMQvwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DHwbbfMQvwk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DHwbbfMQvwk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MIKA ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-01T12:39:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v7ELlJLntmOQv_QsXW7aUC1ELnY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7QrIzquk1bk"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-06T14:50:46Z",
+        "channelId": "UCHWxbmzQ1G9voAQ6B_EJTtw",
+        "title": "나빼고 다 두피 관리하고 있더라 .. 매일 쓰는 두피 관리 힐링템 추천 💖 | 바디프렌드 미니 두피올케어 홈케어 두피마사지기, 10만원대 선물 추천",
+        "description": "협찬 #광고 안녕하세요 여러분 뽀송한물만두입니당 ㅎㅎ 오늘은 바디프렌드미니 두피 올케어라는 제품을 소개해드리는 영상 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7QrIzquk1bk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7QrIzquk1bk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7QrIzquk1bk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7QrIzquk1bk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7QrIzquk1bk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뽀송한물만두",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-06T14:50:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SlVoQUXtrKSFZ46ipK8Y055ruFM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c1Dgzy2PPks"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-12T11:45:56Z",
+        "channelId": "UCETksGzxCCBfT_A22cj-kJw",
+        "title": "자꾸 떡지는 머리 두피 열 해결법 #두피관리 #헤드스파 #머리떡짐",
+        "description": "오후만 되면 떡지는 머리와 갈라지는 정수리 고민 끝! 두피 열을 내리고 노폐물을 싹 비우는 확실한 5단계 두피 홈케어 루틴으로 하루 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c1Dgzy2PPks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c1Dgzy2PPks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c1Dgzy2PPks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c1Dgzy2PPks/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c1Dgzy2PPks/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코코킴",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-12T11:45:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RKW6dLjnpQPFgUebe9BiLf8HaZg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BR9aJ_rV6E0"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-17T15:49:49Z",
+        "channelId": "UCXnnuSiNhCM6LpvrTvCibIA",
+        "title": "미용실 갈 필요 없음! RED LED 두피케어에 반려동물 모드까지 [무아스두피&amp;헤어드라이기, 코스트코드라이기, 두피케어]",
+        "description": "안녕하세요! 오늘 영상에서는 집에서도 미용실 급 두피 케어와 온 가족(댕댕이 포함!) 맞춤 드라이가 가능한 무아스 두피 & 헤어 스마트 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BR9aJ_rV6E0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BR9aJ_rV6E0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BR9aJ_rV6E0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BR9aJ_rV6E0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BR9aJ_rV6E0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "슬기로운데레사",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-17T15:49:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1m3e-mYsLhBwJfsmvNuz7OkEJzs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vlWECTxB3uY"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-05T04:04:19Z",
+        "channelId": "UC9pR3MoUeYJnJ7JwlgwRygA",
+        "title": "지루성 두피염 10년 동안 별짓 다 해보고🥲 결국 효과 본 방법🔥",
+        "description": "10년 넘게 지루성 두피염과 모낭염으로 고생하며 샴푸, 식단, 클리닉까지 다 해봤지만, 결국 가장 확실한 해결책은 '피부과 진료' ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vlWECTxB3uY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vlWECTxB3uY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vlWECTxB3uY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vlWECTxB3uY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vlWECTxB3uY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "한무드",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-05T04:04:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qo76Mkkj_vzqvpx8wNEan4GaMm4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QrYeHtOrM1A"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-30T23:00:14Z",
+        "channelId": "UCDNSHsNpLjGIg4Q0d6_3mIw",
+        "title": "매일 하는 두피 관리 이렇게 하세요 #두피케어 #탈모 #관리법",
+        "description": "매일 하는 두피 관리 이렇게 하세요 #두피케어 #탈모 #관리법 앰플 바르려고 손에만 묻히고 계셨나요? ✨ 두피 앰플빗 ✓ 앰플을 빗 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QrYeHtOrM1A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QrYeHtOrM1A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QrYeHtOrM1A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QrYeHtOrM1A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QrYeHtOrM1A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/QrYeHtOrM1A/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "깐깐대디숏핑",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-30T23:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C9VKOsA9uKnfEPz5JutCAKf8jj8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ec-2h8SlOAk"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-05T23:54:09Z",
+        "channelId": "UC__WXyg5PwdRo71CRNomiXg",
+        "title": "여자 연예인들의 리얼 모발 관리법 #연예인 #부스터토닉 #두피케어 #shorts #탈모관리 #김세정 #탈모 #환승연애나연 #두피관리 #리필드",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ec-2h8SlOAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ec-2h8SlOAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ec-2h8SlOAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ec-2h8SlOAk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ec-2h8SlOAk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "라이프성장설계",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-05T23:54:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ybt3ib9WLBk4PB3hBnxbRMqhdMU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BeubZvPNTNk"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-12T11:33:31Z",
+        "channelId": "UCsc1XEmqGTLeqi9D3y77YVg",
+        "title": "두피 속 묵은 각질 10초 만에 싹 #두피케어 #두피스케일링 #정수리냄새 #각질제거 #두피가려움",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BeubZvPNTNk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BeubZvPNTNk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BeubZvPNTNk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BeubZvPNTNk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BeubZvPNTNk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이지살림&건강레시피",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-12T11:33:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zOqhppVhYpHGBRKx1wlP3O2m-FU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ec33pWbkLZQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-06T08:48:46Z",
+        "channelId": "UCFZyKyhCpld7baMNVLYobAg",
+        "title": "10년째 쓴다는 한혜진의 두피/모발 케어템 2가지",
+        "description": "2주마다 뿌리염색을 해도 끄떡없는 톱모델의 두피&모발 케어 비법 공개! 떡짐 zero 노워시 트리트먼트부터 모근을 탄탄하게 세워주는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ec33pWbkLZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ec33pWbkLZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ec33pWbkLZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ec33pWbkLZQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ec33pWbkLZQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "셀럽픽Zip",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-06T08:48:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NbCRnpVyVH_fjclbt6QWuMMuaxc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JZp_CD23Kv4"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-18T10:36:35Z",
+        "channelId": "UC0HSw1vtQDKFprGUmQbsb1g",
+        "title": "이래서 다들 난리였구나..?#두피케어",
+        "description": "두피케어 진심인 분들 어떤 느낌인지 딱 오죠?ㅋㅋ 두피에 쓱쓱 빗어주면서 마사지해주면 앰플이 흘러내리지 않고 두피 사이사이 쏙쏙 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JZp_CD23Kv4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JZp_CD23Kv4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JZp_CD23Kv4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JZp_CD23Kv4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JZp_CD23Kv4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뷰티르 ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-18T10:36:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HyIEfyqkFthDggomkBIF1jDfeCg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O_EW0Q6WqDs"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-11T12:00:25Z",
+        "channelId": "UC2bglG-SJXPUtZduhbjiHFw",
+        "title": "두피 관리 늦기 전에 시작해야 하는 이유 한혜진 추천템 공개",
+        "description": "한혜진도 탈모 느꼈을 땐 이미 늦었다고 경악한 바로 그 헤어라인 비결! 얼굴 털까지 두꺼워져서 손 꼭 닦아야 한다는 진짜 효과 미친 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O_EW0Q6WqDs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O_EW0Q6WqDs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O_EW0Q6WqDs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O_EW0Q6WqDs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O_EW0Q6WqDs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "샤인템",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-11T12:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E9R7GKHvaTqdKvp2aDzq4E99HXM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pVcgI8PxV8g"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-23T11:50:28Z",
+        "channelId": "UCHF1XNmObq5C6p-Nl2FEv6Q",
+        "title": "환절기 두피 가려움 잡는 꿀팁 #두피관리 #두피케어 #두피가려움",
+        "description": "이 포스팅은 네이버 쇼핑 커넥트 활동의 일환으로, 판매 발생 시 수수료를 제공받습니다. https://naver.me/F05FhgFw 환절기 가려운 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pVcgI8PxV8g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pVcgI8PxV8g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pVcgI8PxV8g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pVcgI8PxV8g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pVcgI8PxV8g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "보리별",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-23T11:50:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jH_LQWF_ZG-kxL7aA2HeB0_zxaY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jXuqJ5jRVw4"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-22T00:05:31Z",
+        "channelId": "UCPkwijR7As6_P6vpdEiROcw",
+        "title": "그냥 샴푸가 아닙니다! 두피케어와 힐링을 동시에! 모드라인 헤드스파✨",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jXuqJ5jRVw4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jXuqJ5jRVw4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jXuqJ5jRVw4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jXuqJ5jRVw4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jXuqJ5jRVw4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "서울 강서구 마곡 헤드스파 모드라인",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-22T00:05:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uWmLzU_z7xe4DUcWSjKN1_Gclp8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "faJaosjuSOw"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-12T10:18:35Z",
+        "channelId": "UCriUurzi2RyLpRUEcK1-K6w",
+        "title": "고현정이 피부보다 목숨 거는 역대급 두피 케어 핵심 팁! #고현정 #아베다 #샴푸추천 #탈모예방 #머리숱관리",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/faJaosjuSOw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/faJaosjuSOw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/faJaosjuSOw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/faJaosjuSOw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/faJaosjuSOw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "다들뭐써?",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-12T10:18:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JB3EDeKLhCmgSPC3NPrYqH_IveM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BZdmgpHtsG4"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-12T12:06:38Z",
+        "channelId": "UCCA79ib5cDY0eqrYtp2rWQg",
+        "title": "두피 케어를 받고 나니, 더 잘생겨졌다는 직원! 사랑스런 눈빛으로 저를 바라보네요! (ft. 명품토탈케어)",
+        "description": "돌총각이 운영하는 멀티 기념품샵 “동마켓”이 확장 이전 오픈을 했습니다 구글 지도 링크 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BZdmgpHtsG4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BZdmgpHtsG4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BZdmgpHtsG4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BZdmgpHtsG4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BZdmgpHtsG4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/BZdmgpHtsG4/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "베트남 돌총각 - Growing Korean Guy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-12T12:06:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b0jtM44sPzM5yf6zY3ZSeSB8wFw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mQkHCNyNh7U"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-04T05:03:03Z",
+        "channelId": "UChfnEbevp_QEZ2vPF-1b9UA",
+        "title": "서울대 의료진이 탈모를 파고든 과정 #두피관리 #스칼프케어 #재클린이모 #병권 #shorts #리필드 #서울대 #SBS #부스터토닉 #탈모",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mQkHCNyNh7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mQkHCNyNh7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mQkHCNyNh7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mQkHCNyNh7U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mQkHCNyNh7U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스킨케어매거진",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-04T05:03:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BvS0dOpKIWdqfG7g7F_iZE1xN5k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dqT0cWxYySg"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-28T23:00:17Z",
+        "channelId": "UCyke7HkEqwJ5R-Bv-ch6JlA",
+        "title": "미용실 스태프들도 쓴다는 두피 케어 치트키, 앰플 빗",
+        "description": "요즘 미용실에서 많이 쓴다는 앰플 빗인데 구조가 꽤 신박합니다. 빗 안에 두피 앰플을 직접 넣고 빗질만 하면 되는 방식이더라고요.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dqT0cWxYySg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dqT0cWxYySg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dqT0cWxYySg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dqT0cWxYySg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dqT0cWxYySg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/dqT0cWxYySg/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "살림의맛",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-28T23:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Di5AcVAbK0PLfMhzgG3NZ6MlfcM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LHwAq4QCPd0"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-28T14:37:56Z",
+        "channelId": "UCKZbwEhZNvjaFazhkiJKwJA",
+        "title": "[두피케어 리뷰] 정수리 탈모를 2개월 후 다시 확인을 했습니다",
+        "description": "두피케어 #탈모관리 #탈모샴푸 #여성탈모 #탈모후기 #탈모케어존 #동의생모 #두피관리 #탈모고민 두피를 연구합니다 여성 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LHwAq4QCPd0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LHwAq4QCPd0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LHwAq4QCPd0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LHwAq4QCPd0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LHwAq4QCPd0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "탈모케어존 대표원장 오대표",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-28T14:37:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AEJKtPtnKWb2XdO7zZv2rrhBSfA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Zaz4a79euXY"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-02T03:00:02Z",
+        "channelId": "UChxAdiaEM6pHfpFRzzosL1A",
+        "title": "두피 관리 귀찮은 사람에게 딱인 아이템",
+        "description": "비싼 앰플 손으로 바르다가 바닥에 다 흘리셨죠? 빗으면서 두피 깊숙이 직접 주입해 보세요! 정수리 냄새, 비듬, 두피 열감까지 10초 만 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zaz4a79euXY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zaz4a79euXY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zaz4a79euXY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zaz4a79euXY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zaz4a79euXY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "봐버림",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-02T03:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EHSsvQlGAnybn1LN0o5QzOZKoWs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vMaUS5DTh24"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-04T05:21:17Z",
+        "channelId": "UCHvcsWHB8E_SHD-hbEDvDfg",
+        "title": "서울대 의료진이 탈모를 연구하면서 알게된 것 #두피관리 #꿀템 #탈모관리 #부스터토닉 #리필드 #탈모 #서울대 #스칼프케어 #SBS #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vMaUS5DTh24/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vMaUS5DTh24/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vMaUS5DTh24/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vMaUS5DTh24/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vMaUS5DTh24/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스킨케어가이드북",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-04T05:21:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-4DlSQEflhXwV5SF0poRtqZ8D5s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FsquJWj8fQ4"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-23T10:15:11Z",
+        "channelId": "UCBCcOcZvjLNPvwOCsr_qZxA",
+        "title": "장원영처럼 비단 머릿결 만들고 싶다면 두피케어 조합",
+        "description": "장원영처럼 찰랑거리는 비단 머릿결 만드는 샤워 전 필수 루틴! 샴푸 전 딱 1분 투자로 노폐물 제거하고 미친 윤기 찾아주는 헤어 비결 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FsquJWj8fQ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FsquJWj8fQ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FsquJWj8fQ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FsquJWj8fQ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FsquJWj8fQ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스타템",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-23T10:15:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HNbdDtdb1DEqux0u9moAtmyXf1Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cDQ2fc-c6SA"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-20T01:17:54Z",
+        "channelId": "UChnlxWhHC6Uen7jmOANahTA",
+        "title": "머리 잘 감아도 비듬 생기는 이유 #비듬 #비듬원인 #두피케어",
+        "description": "이 포스팅은 네이버 쇼핑 커넥트 활동의 일환으로, 판매 발생 시 수수료를 제공받습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cDQ2fc-c6SA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cDQ2fc-c6SA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cDQ2fc-c6SA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cDQ2fc-c6SA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cDQ2fc-c6SA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "봉봉댁",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-20T01:17:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tsX8TlAJ7AIROVl8Cekwajl8cUE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1_ld30qcVaY"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-16T00:00:39Z",
+        "channelId": "UCESNo4q7mGYjP-ZGie3ce7A",
+        "title": "두피가 민감하고 자꾸 빨개진다면? 예민한 두피 붉은기 싹 진정시켜주는 라우시 윌로우바크 샴푸 추천 #라우시 #윌로우바크샴푸 #민감성두피 #두피진정 #두피케어 #샴푸추천",
+        "description": "[채널 프로필 27번]에서 바로 확인해 보세요! 두피가 너무 예민하고 쉽게 붉어지는 민감성 두피라면 필수 체크! 지인들에게 추천했을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1_ld30qcVaY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1_ld30qcVaY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1_ld30qcVaY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1_ld30qcVaY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1_ld30qcVaY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스타찐템비밀창고",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-16T00:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EdEqq3VNfIn3jl28DuG0sM5CPlI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q5icJAs-ADI"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-20T09:34:18Z",
+        "channelId": "UCrsMIogLAk06fmEaEb3gn7Q",
+        "title": "명절증후근 스트레스 날려 #목동두피 #목동탈모 #스트레스해소 #두피케어 #헤드스파",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q5icJAs-ADI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q5icJAs-ADI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q5icJAs-ADI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q5icJAs-ADI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q5icJAs-ADI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "두탈히",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-20T09:34:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dyqdh9Lkm1ra0n1dCXf3bhwpLEo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3m3dJu-tBGU"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-04T04:53:39Z",
+        "channelId": "UCjxYmE99GBGJnKUlgtiTNvg",
+        "title": "서울대 의료진이 탈모를 연구하면 생기는 변화 #두피케어 #SBS #부스터토닉 #정보 #두피관리 #shorts #서울대 #탈모 #리필드",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3m3dJu-tBGU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3m3dJu-tBGU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3m3dJu-tBGU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3m3dJu-tBGU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3m3dJu-tBGU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "웰니스에디션",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-04T04:53:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GeZ5bSSWbpd8MbVPqjdbpPfhC1Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PlaX6R5INnU"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-05T11:06:31Z",
+        "channelId": "UC6r9qnocYlirtQBA30LkiTA",
+        "title": "두피 뾰루지...원인을 알면 해결책도 보여요!  #두피관리 #두피케어 #두피여드름",
+        "description": "\"매일 감는데도 두피 뾰루지가 그대로라면? \" 샴푸를 바꾸고 연고를 발라봐도 좀처럼 낫지 않는 두피 트러블. 그동안 많이 답답하고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PlaX6R5INnU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PlaX6R5INnU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PlaX6R5INnU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PlaX6R5INnU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PlaX6R5INnU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "오늘의 뷰티템",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-05T11:06:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BHoyzUcEKyqUHCsfxS3y1F96mZw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KeOgLm33TNA"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-04T08:12:56Z",
+        "channelId": "UCvPZHKkh1-xMQtupF0Z0Vzg",
+        "title": "연예인 스타일링에서 헤어가 중요한 이유 #두피케어 #두피관리 #재클린이모 #shorts #부스터토닉 #탈모관리 #쓰깔르 #정보 #탈모 #리필드",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KeOgLm33TNA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KeOgLm33TNA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KeOgLm33TNA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KeOgLm33TNA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KeOgLm33TNA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "건강미노트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-04T08:12:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H0pv-e_joUYIHiPqkQxttbTz__A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NV2VQl1P37I"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-04T08:28:46Z",
+        "channelId": "UCgkVg5smdHhuepCf4ef1q-Q",
+        "title": "연예인들이 헤어에 목숨 거는 이유 #부스터토닉 #shorts #두피케어 #재클린이모 #병권 #리필드 #쓰깔르 #탈모 #두피관리",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NV2VQl1P37I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NV2VQl1P37I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NV2VQl1P37I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NV2VQl1P37I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NV2VQl1P37I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "건강한결",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-04T08:28:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eJys4ra83GIlwpEngzhl2RTYqns",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RSyBG3FuGkE"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-26T12:25:45Z",
+        "channelId": "UCGyq7KfHCzInPO5qFxJoRjw",
+        "title": "정수리 떡짐 해결 두피 스케일링 #두피스케일링 #두피케어 #머리떡짐",
+        "description": "감아도 가렵고 떡지는 머리, 원인은 모공 속 노폐물! 주 1~2회 '두피 스케일링'으로 기름기와 열감을 싹 비워보세요. 지문 마사지와 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RSyBG3FuGkE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RSyBG3FuGkE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RSyBG3FuGkE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RSyBG3FuGkE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RSyBG3FuGkE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "평범한 오늘을 특별하게",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-26T12:25:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "acgmyKh7g-m6tOWQB7gJjh6_nvg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DaCg2NdmW9o"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-16T09:15:59Z",
+        "channelId": "UCJzopDsoHs4iPbD-1AvT9PQ",
+        "title": "어른여자 분위기 만들어주는 두피케어 3단계✅",
+        "description": "9n년생이라면 무조건 공감하시죠? 나이 들수록 빽빽한 정수리, 꽉찬 M자 라인이 얼마나 중요한지   현직 탈모샴푸 MD가 집에서 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DaCg2NdmW9o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DaCg2NdmW9o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DaCg2NdmW9o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DaCg2NdmW9o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DaCg2NdmW9o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Motifull l 모티풀",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-16T09:15:59Z"
+      }
+    }
+  ]
+}

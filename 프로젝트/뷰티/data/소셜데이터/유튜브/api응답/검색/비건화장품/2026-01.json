@@ -1,0 +1,2197 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "uOa1APbpJ4g8pHanc106naHAwaw",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 13938,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OaIMAuABifPqNr6T-lQkxHCukYA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DYtPri6dCb4"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-31T11:27:20Z",
+        "channelId": "UCyJhkGn3HfsOMYoS-32znWw",
+        "title": "비건화장품 전문가반 26.3월 개강! 해질녘공방에서",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DYtPri6dCb4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DYtPri6dCb4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DYtPri6dCb4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DYtPri6dCb4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DYtPri6dCb4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "민서현입니다.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-31T11:27:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N8SN13oHTdrvdHp9Uyayq_KXtu4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YmXt2EOWuyk"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-08T04:57:41Z",
+        "channelId": "UCEBF6c1tg8hZg6IuNjwzhbQ",
+        "title": "@베르비아떼 @스킨케어 @비건 화장품  Korean ",
+        "description": "안티에이징 특허성분 배합 이벤트 행사중 #like #funny #kpop #dance #안티에이징.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YmXt2EOWuyk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YmXt2EOWuyk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YmXt2EOWuyk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YmXt2EOWuyk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YmXt2EOWuyk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Top hair",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-08T04:57:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BLxN5hvR-3XO2-P6vVy4EdFKWdQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Iq37BWpudPI"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-22T11:13:52Z",
+        "channelId": "UCH3zBwBhAM21DeJcMQRkBTg",
+        "title": "❤️추천 비건화장품 촉촉함 가득! 저자극 수분 스킨으로 피부를 편안하게 💧✨",
+        "description": "본 영상은 네이버 쇼핑커넥트 수수료를 제공받습니다. 구매링크: https://naver.me/5JG9ksZw [00:00] 1. 이니스프리 그린티 히알루 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iq37BWpudPI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iq37BWpudPI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iq37BWpudPI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Iq37BWpudPI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Iq37BWpudPI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "템트립",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-22T11:13:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9PAt1MqVe6j-N2vIIqQBP5bOO-g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xrrAGRay4YU"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-29T15:17:58Z",
+        "channelId": "UCxERRDLtm9t9zHawgGM_YeQ",
+        "title": "모공때까지 쏙 빼는 비건 클렌징폼 추천 #나이트케어 #클렌징폼 #비건화장품",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xrrAGRay4YU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xrrAGRay4YU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xrrAGRay4YU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xrrAGRay4YU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xrrAGRay4YU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "수수",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-29T15:17:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QcjdCKOuCfstyqwZHBx1TRq3qYo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K6321N6jNvM"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-28T02:04:22Z",
+        "channelId": "UCqZ3lcB-oemzessdbl-0Yng",
+        "title": "식물성 콜라겐 100% 비건 뿌리모 번 라인 Live! 리프팅 광채 비결+단독 혜택까지🎁 #비건화장품 #천연샴푸",
+        "description": "This stream is created with #PRISMLiveStudio.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K6321N6jNvM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K6321N6jNvM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K6321N6jNvM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K6321N6jNvM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "위즐리라이프",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-28T02:04:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_pyBlkIpauGXBYZx-egFPdIQCo4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HTNUyJxmHeU"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-07T07:19:37Z",
+        "channelId": "UCCdIEETJYb9a5fbMGyMh4SA",
+        "title": "[제품제공] #다이소 신상 #팩클렌저 솔직리뷰  #kbeauty #채비공간 #비건화장품 #다이소화장품 #다이소클렌징 #다이소품절템",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HTNUyJxmHeU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HTNUyJxmHeU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HTNUyJxmHeU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HTNUyJxmHeU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HTNUyJxmHeU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뚱이의 코덕일기",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-07T07:19:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "az5FHxSFePglw3bZlBD8dgP7tCc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pxVAXcQAvQk"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-05T00:08:37Z",
+        "channelId": "UCtY5jGloovb8RggTW0jMnQQ",
+        "title": "다이소 품절대란 팩클렌저? 채비공간 비건 팩 클렌저😘@chaebgonggan_official#제품제공 #채비공간 #비건화장품 #팩클렌저 #다이소화장품 #다이소클렌징 #다이소품절템",
+        "description": "다이소 채비공간 비건 팩클렌저 가격 : 5000원 데일리 클렌징 & 팩 기능 1. 병풀팩클렌저 (진정세안) 2. 어성초팩클렌저 (피지쓱싹) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pxVAXcQAvQk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pxVAXcQAvQk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pxVAXcQAvQk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pxVAXcQAvQk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pxVAXcQAvQk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정신쀼",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-05T00:08:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TwIMXC6iVQKXlFo_wUBLP_Uo5bw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rjgaBy8eqmc"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-06T04:55:02Z",
+        "channelId": "UCYiYXxi_BQNRirZiK8kpbrQ",
+        "title": "달바 비건 핑크 톤업 선크림 리얼 후기",
+        "description": "쇼핑커넥트 활동의 일환으로 일정의 수수료를 지급받습니다. 피부 고민별 맞춤 달바 선케어 라인업과 베스트셀러 핑크 톤업 선크림 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rjgaBy8eqmc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rjgaBy8eqmc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rjgaBy8eqmc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rjgaBy8eqmc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rjgaBy8eqmc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "하이데이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-06T04:55:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mCNVjHtryBC5aEMlfUU6lDe4FPk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8IBH5piDZyI"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-22T07:19:13Z",
+        "channelId": "UCkGJPRfVGP1kzkUb439ROXA",
+        "title": "다이소 난리난 비건 팩클렌저 🫧",
+        "description": "다이소 비건 팩클렌저 3종 비교 - 고운 쌀겨 팩클렌저 5000원 – 피부결 매끈 + 산뜻함 - 차분 여린 병풀 팩클렌저 5000원 – 진정 + ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8IBH5piDZyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8IBH5piDZyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8IBH5piDZyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8IBH5piDZyI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8IBH5piDZyI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "무죄한 소비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-22T07:19:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O42_04RJf7Gp6QLVahEGdTlKB5M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U75L4MU-7lk"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-12T03:09:08Z",
+        "channelId": "UCCELjCK1hxaKTiqPm1FsAoA",
+        "title": "[제품제공]#다이소 쫀득떡솝 채비공간 팩클렌저 30초 리뷰 🍡",
+        "description": "제품제공 @chaebgonggan_official #채비공간 #비건화장품 #팩클렌저 #다이소화장품 #다이소클렌징 #다이소품절템.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U75L4MU-7lk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U75L4MU-7lk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U75L4MU-7lk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U75L4MU-7lk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U75L4MU-7lk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "유진 YUZIN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-12T03:09:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oQkMeZZtsWFkr39_0a2i87pc3xQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S4mJutDOL9o"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-18T03:21:19Z",
+        "channelId": "UCNYzpuiK7JlWOzkyJj0OCRA",
+        "title": "홈케어에 딱 좋은 다이소 꿀템 추천🍯💛#다이소화장품#다이소#다이소꿀템#다이소뷰티",
+        "description": "chaebgonggan_official #채비공간 #비건화장품 #팩클렌저 #다이소화장품 #다이소클렌징 #다이소품절템 #제품제공.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S4mJutDOL9o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S4mJutDOL9o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S4mJutDOL9o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S4mJutDOL9o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S4mJutDOL9o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "연스메틱",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-18T03:21:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H3xEFCH2jOnBJXzk-W0SyGV_f9c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N9FuPrehTjw"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-09T23:15:09Z",
+        "channelId": "UC1ZhBh-iwdIFgnGemfm8ODQ",
+        "title": "다이소 난리난 비건 팩클렌저 3종 비교🫧5000원에 팩+세안이 동시에? #다이소",
+        "description": "팩 케어랑 클렌징을 한 번에 끝내고 싶을 때 써본 다이소 채비공간 비건 팩클렌저 3종 비교   팩처럼 올렸다가 1분 후 문지르면 세안 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N9FuPrehTjw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N9FuPrehTjw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N9FuPrehTjw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N9FuPrehTjw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N9FuPrehTjw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리쮸 LIZZU ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-09T23:15:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6MdqeJZzDCmvG2OS2s9yGEhcI8w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kkHHcZUWnBw"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-13T02:50:29Z",
+        "channelId": "UCTHL9HAJXPQbl036rmetQhw",
+        "title": "[AI 콘텐츠] 비건 스킨케어 화장품 쇼핑몰 영상 제작",
+        "description": "비건 스킨케어 화장품 브랜드의 정체성과 가치를 효과적으로 전달하기 위해, 쇼핑몰 웹사이트(홈페이지)를 목적으로 브랜드 영상을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kkHHcZUWnBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kkHHcZUWnBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kkHHcZUWnBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kkHHcZUWnBw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "크리디웍스 | 뷰티 · 브랜드 전문",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-13T02:50:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nxCZ2BdSjpH2AI7Zbc3Vv9YmZ9U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dMrV9mP4ANI"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-23T17:37:21Z",
+        "channelId": "UC2Eeb9GipSE87JM5KfjGWCw",
+        "title": "미코언니 라이브에서만 초.특.가./ 오직 금요일 오후8시👈🔹구독🙏     #미코언니 #비건화장품 #병원화장품 #기미관리 #콜라겐",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dMrV9mP4ANI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dMrV9mP4ANI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dMrV9mP4ANI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dMrV9mP4ANI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dMrV9mP4ANI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "미코언니💜린다몰",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-23T17:37:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FAxPjXOhYJJ2A9XQo5q-rN4CTDQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Bz1WTsikWjc"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-25T15:13:10Z",
+        "channelId": "UCixWbbv7i5BKKpzueGMbp-A",
+        "title": "melixir 멜릭서 비건 립 버터 찐 후기 | 카카오톡 선물하기 추천 | 립밤 추천",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bz1WTsikWjc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bz1WTsikWjc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bz1WTsikWjc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bz1WTsikWjc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bz1WTsikWjc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "sorivela",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-25T15:13:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ys7PBxOFgVnnOgHmDo_JZZW5OEo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NShbkaf3_kk"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-18T02:00:24Z",
+        "channelId": "UCTqY_zakM6OHJgtF3zwCQvg",
+        "title": "눈가주름 메꿔주는 비건버터 크림 추천✨",
+        "description": "[소프트 아이 살버터] 튜브라 양 조절 쉬워요 체온에 닿자마자 버터처럼 스르르 흡수돼요 ✨ 끈적임 없이 쫀쫀한 보호막 형성 눈 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NShbkaf3_kk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NShbkaf3_kk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NShbkaf3_kk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NShbkaf3_kk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NShbkaf3_kk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SONATURAL 쏘내추럴",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-18T02:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kDOoTPbV0-ROeaL0m37rsbe9DxQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yBf4k2H_2E0"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-29T04:08:47Z",
+        "channelId": "UCLgRKoPn1C00MfwM6FFAMVQ",
+        "title": "#daiso #다이소꿀템 #다이소 #다이소쇼핑 #다이소추천템 #다이소추천 #다이소화장품 #채비공간 #비건화장품 #kbeauty",
+        "description": "문의 폭주! 영상 속 제품 정보는 제 채널 홈 '프로필 링크'에서 바로 확인 가능합니다! \" https://inpk.link/rasullang (쿠팡 파트너스 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yBf4k2H_2E0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yBf4k2H_2E0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yBf4k2H_2E0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yBf4k2H_2E0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yBf4k2H_2E0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "라헬픽",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-29T04:08:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uR7RxqGMbb64bKnTpHWtIbn1-_Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r_nDv6HK2uI"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-15T08:35:49Z",
+        "channelId": "UCTHL9HAJXPQbl036rmetQhw",
+        "title": "[아임웹 템플릿] 비건 스킨케어 화장품 쇼핑몰 제작",
+        "description": "클라이언트의 이해를 돕기 위해 아임웹(imweb) 웹빌더를 활용한 웹사이트 템플릿을 제작하였습니다. 아임웹은 별도의 개발 없이도 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r_nDv6HK2uI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r_nDv6HK2uI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r_nDv6HK2uI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r_nDv6HK2uI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r_nDv6HK2uI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "크리디웍스 | 뷰티 · 브랜드 전문",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-15T08:35:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6TPNEAMyR2tTITk6Z0lLZkmMwRQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Losf1PGrpco"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-26T22:15:01Z",
+        "channelId": "UCYF__YbEsX2DreruuWxWIqA",
+        "title": "아로마티카, 충성도 높은 고객의 비밀 #아로마티카  #비건  #친환경",
+        "description": "왜 아로마티카 같은 브랜드는 한 번 쓰면 잘 안 바꿀까? 아로마티카는 천연·비건 화장품과 샴푸를 만드는 브랜드입니다. 하지만 이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Losf1PGrpco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Losf1PGrpco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Losf1PGrpco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Losf1PGrpco/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Losf1PGrpco/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김고래",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-26T22:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w94bFERKqinwJeBtRAVDOJFnVLY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fYH3pBEu0-0"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-08T16:56:21Z",
+        "channelId": "UC_6_8_rMUaxR_aHJAxSRFVg",
+        "title": "#제품제공 다이소에서 쫀득 팩클렌저를 살 수 있다 ! ! 다이소 X 채비공간 팩클렌저 3종 출시 🌿🍃🍚 | #다이소 #채비공간 #다이소화장품 #비건화장품",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fYH3pBEu0-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fYH3pBEu0-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fYH3pBEu0-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fYH3pBEu0-0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fYH3pBEu0-0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "미나 MINA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-08T16:56:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d_hBzXeT0hrOkRj-biiWzZMr_Ao",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eQUnW7eb0cw"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-09T14:45:06Z",
+        "channelId": "UCyUJb8aY_K0rEMuoOFOZskw",
+        "title": "더엔비피 레고 올인원 미스틱 어플리케이터 #미니화장품 #비건화장품",
+        "description": "화장품 찾다가 약속 늦는 사람 손? ‍♀️ 섀도우, 립, 라이너, 브러쉬까지 하나로 합체 완료! 더엔비피 미스틱 어플리케이터로 파우치 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eQUnW7eb0cw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eQUnW7eb0cw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eQUnW7eb0cw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eQUnW7eb0cw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "더엔비피(TheN.B.P)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-09T14:45:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Pg2Yg2_-nweLVITP10aPyxWcwgQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eA0IdQ7D4nA"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-27T13:54:37Z",
+        "channelId": "UCfB6tfd_lURd3X89Ihdi3cQ",
+        "title": "아떼 비건 선크림☀️ 촉촉하고 순한 무기자차! 민감 피부도 안심?",
+        "description": "이 포스팅은 네이버 쇼핑 커넥트 활동의 일환으로, 판매 발생 시 수수료를 제공받습니다. 안녕하세요! 오늘은 아떼 비건 릴리프 선크림 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eA0IdQ7D4nA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eA0IdQ7D4nA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eA0IdQ7D4nA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eA0IdQ7D4nA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eA0IdQ7D4nA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀템포착",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-27T13:54:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MptQ1IfMaum91C9LSbefYfbi9hE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A3iInE8Zd7s"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-09T08:00:25Z",
+        "channelId": "UC1sFAlfMbjhRHhIJaX23ecw",
+        "title": "비건뷰티 롬앤 글래스팅 멜팅 밤 #립 #비건 #롬앤 #립밤 #뷰티",
+        "description": "쿠팡 꿀템, 다이소 등 꿀템 중심으로 생활에 바로 도움이 되는 상품들을 카테고리별로 정리해 소개합니다. ❤️영상에 나온 제품은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A3iInE8Zd7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A3iInE8Zd7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A3iInE8Zd7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A3iInE8Zd7s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A3iInE8Zd7s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "픽랩",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-09T08:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Bm293jNZHbk4JfFu-YySTqzQlUk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ypkZAt5Eltg"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-15T22:01:17Z",
+        "channelId": "UChrVwPka5uxZ_lmU06C0-kA",
+        "title": "다이소 이제 떡으로 세안을 한다구요!?🙌",
+        "description": "다이소 이제 떡으로 세안을 한다구요!?   요즘 sns대란템이라는 떡솝클렌저가 다이소 채비공간에도 비건제품으로 나왔더라구요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ypkZAt5Eltg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ypkZAt5Eltg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ypkZAt5Eltg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ypkZAt5Eltg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ypkZAt5Eltg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "corinne 코린",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-15T22:01:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ba_jkjXGZYwn-IX99huo_CX8P3Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sEDnuPto7mg"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-26T02:01:01Z",
+        "channelId": "UCTqY_zakM6OHJgtF3zwCQvg",
+        "title": "✨ 주름고민 없애주는 비건 크림? ✨",
+        "description": "[소프트 아이 살버터] 피부에 닿아도 괜찮을까? 비건 아이살버터라 안심이에요 성분부터 제조까지 Vegan Care 눈가에도 부담 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sEDnuPto7mg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sEDnuPto7mg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sEDnuPto7mg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sEDnuPto7mg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sEDnuPto7mg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SONATURAL 쏘내추럴",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-26T02:01:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GgEZObDeRBfgwOYkFOfPUZ8YEEY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y5-AnWji3TA"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-27T05:55:38Z",
+        "channelId": "UCIzT48ab2dAeSz0m_lzaOxw",
+        "title": "쏘그레인 귀리 화장품 🌾 #클린뷰티 #비건뷰티 스킨케어 🥦 Korean Clean Beauty Vegan Oat Skincare SO GRAIN #피부장벽강화 진정 영양케어",
+        "description": "이렇게 귀리로 피부를 채워보세요! 트라이-오트 베리어™ 소 오트 라인 독자성분으로 피부 장벽과 진정 케어를 해 줘요. 끈적임 없이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y5-AnWji3TA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y5-AnWji3TA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y5-AnWji3TA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y5-AnWji3TA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y5-AnWji3TA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "@𝐕𝐢𝐨𝐧𝐧𝐬_𝐕𝐥𝐨𝐠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-27T05:55:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tl7Vvlbn22trJqtdTOLNs3HqLNM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BLJMGydVw28"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-26T05:44:28Z",
+        "channelId": "UC94PK9uFzPvsMI5HY7TDuLA",
+        "title": "[15그램] 이너감 비건 라이트업 오일 #컨셉필름 #광고",
+        "description": "비건 인증 완료한 라이트업 오일을 경험해 보세요! 저자극 포뮬러로 Y존 피부를 부드럽고 산뜻하게 케어해요 ✓L22 지질 복합체 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BLJMGydVw28/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BLJMGydVw28/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BLJMGydVw28/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BLJMGydVw28/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BLJMGydVw28/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "15그램",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-26T05:44:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2Ij5rZ4EMHVYZtEaeBUR4MV8CXI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xAoCDcN77SQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-03T00:01:15Z",
+        "channelId": "UCPYPvEdDbHM5-TEaCVSnZ5A",
+        "title": "건성 피부 다 드루와!!💦 #제품제공#쌀토너#쌀크림#풀리쌀토너 #풀리쌀크림#쌀세라에센스토너#쌀세라캡슐크림#피부장벽#FULLY#비건화장품",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xAoCDcN77SQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xAoCDcN77SQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xAoCDcN77SQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xAoCDcN77SQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xAoCDcN77SQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아지",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-03T00:01:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lZfWqsMcXouc00QTc_pNzerviKY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lTGJIMSaWew"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-01T05:01:12Z",
+        "channelId": "UCVoHnhwRlBbjgrA4ARo7o8g",
+        "title": "속눈썹이 쑥쑥 자라나는 마법 같은 제품들! 비건뷰티 꿀템 공개",
+        "description": "이 영상은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. ⬇️ 영상 속 제품 링크가 궁금하면 아래 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lTGJIMSaWew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lTGJIMSaWew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lTGJIMSaWew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lTGJIMSaWew/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lTGJIMSaWew/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알리만밤새도록봐요",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-01T05:01:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ggEwnpYNSZBYkgJvpuNnc3zCXy4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HTWOlLwOjKI"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-01T12:54:01Z",
+        "channelId": "UCV8DM7_sX4GpkEp-S_UMiQA",
+        "title": "#제품제공 피부 장벽 탄탄하게 잡아주는 ㄹㅈㄷ 비건 기초템🌾",
+        "description": "쌀토너 #쌀크림 #풀리쌀토너 #풀리쌀크림 #쌀세라에센스토너 #쌀세라캡슐크림 #피부장벽 #물광피부 #FULLY #기초는풀리 #비건 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HTWOlLwOjKI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HTWOlLwOjKI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HTWOlLwOjKI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HTWOlLwOjKI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HTWOlLwOjKI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "찌니꾸",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-01T12:54:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AQuU5dp2qImsAWPAl5tg6VUbMCc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "weqn4fvRyK8"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-22T13:35:12Z",
+        "channelId": "UCz6SH4BpFCxqwggrJKwC-UA",
+        "title": "지금 사용하는 수딩젤의 뒷면을 살펴보세요. 바로 이성분이 보일겁니다.",
+        "description": "안녕하세요! 제이린 코스메틱 스튜디오 입니다. \"성분 좋대서 비싸게 주고 샀는데, 바르자마자 얼굴에서 때가 나온다?\" 천연 화장품 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/weqn4fvRyK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/weqn4fvRyK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/weqn4fvRyK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/weqn4fvRyK8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/weqn4fvRyK8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "제이린 코스메틱 스튜디오",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-22T13:35:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VhYaJpg3jM55BarmcfTXHfQMhjU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DSXaUij-F60"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-30T15:00:33Z",
+        "channelId": "UC10HZ8cJOj50liANj_eY4wg",
+        "title": "31b] 비건뷰티 달바 화이트 트러플 프라임 인텐시브 세럼",
+        "description": "영상 속 제품은 프로필 링크에서 확인하세요 또는 상품은 아래 바로가기를 복사하여 붙혀넣기 바랍니다. 바로가시는 아래 URL을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DSXaUij-F60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DSXaUij-F60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DSXaUij-F60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DSXaUij-F60/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DSXaUij-F60/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dolomite",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-30T15:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E-Dt7mQVm6_THSP6vGAHGAhG5GA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DmVKNPDNq-I"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-30T02:00:12Z",
+        "channelId": "UCTqY_zakM6OHJgtF3zwCQvg",
+        "title": "저자극 비건 주름케어, 살버터 보습 🌿",
+        "description": "[소프트 아이 살버터] 악건성·예민 피부도 부담 없는 비건 버터 자극 없이 편안하게 감싸는 고보습 케어 쫀쫀하게 속건조를 잡아 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DmVKNPDNq-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DmVKNPDNq-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DmVKNPDNq-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DmVKNPDNq-I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DmVKNPDNq-I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SONATURAL 쏘내추럴",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-30T02:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "73i5QO49XVjd25rZmrPE44DDUTs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aRg3JKf7EG8"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-25T17:25:15Z",
+        "channelId": "UCizQCWWwqvVxReNMfTXcCog",
+        "title": "Fermented + vegan = soft, calm, glowing skin #VeganSkincare  #SkincareRoutine #SkinCareShorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aRg3JKf7EG8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aRg3JKf7EG8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aRg3JKf7EG8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aRg3JKf7EG8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aRg3JKf7EG8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lu ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-25T17:25:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rbCoTKdqnfiapx0WyYlBTTZNBB4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MgFT4CUK3EI"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-16T09:00:43Z",
+        "channelId": "UChFc7I9kxPDyAsQrSFP4KuQ",
+        "title": "한국의 전통이 해외에선 프리미엄이 된다고?!",
+        "description": "한국의 전통이 해외에선 프리미엄이 된다고? 한국에서 너무 익숙한 재료들,글로벌 시장에서는 '정통성과 독창성'의 상징이 될 수 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MgFT4CUK3EI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MgFT4CUK3EI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MgFT4CUK3EI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MgFT4CUK3EI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MgFT4CUK3EI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "화장품만드는여자",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-16T09:00:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8dPcDk60SxGEyiRs3Xv7vU0KyDM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oKOVi8XptfU"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-25T15:11:02Z",
+        "channelId": "UCOditpIA-wuJ5Yn4ZkQjvew",
+        "title": "쫀쫀 거품! 비건 밀크 페이셜 워시로 촉촉한 피부 만들기",
+        "description": "이 포스팅은 네이버 쇼핑 커넥트 활동의 일환으로, 판매 발생 시 수수료를 제공받습니다. 안녕하세요! 오늘은 쫀쫀한 거품으로 촉촉 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oKOVi8XptfU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oKOVi8XptfU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oKOVi8XptfU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oKOVi8XptfU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oKOVi8XptfU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리뷰메이트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-25T15:11:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jKBV79cTF-xzUy8DitNNMzTJui0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y1hfX2i3v3o"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-12T13:14:51Z",
+        "channelId": "UCPgMTV9u6UJWJE7cSGT_nLw",
+        "title": "Why my routine starts with 7 vegan peptides? #mizon #peptideserum #kbeauty #peptides #skincare",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y1hfX2i3v3o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y1hfX2i3v3o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y1hfX2i3v3o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y1hfX2i3v3o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y1hfX2i3v3o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kira: Korean Stories",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-12T13:14:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tB2fvf2DtL3ddMPS0KdLnKFcRD8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pBD0Ab-S2mM"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-07T04:00:49Z",
+        "channelId": "UCTqY_zakM6OHJgtF3zwCQvg",
+        "title": "눈가 주름 잡는 비건 아이템✨",
+        "description": "[소프트 아이 살버터] 눈가 고민 있을 때 가볍게 녹여 바르면 끝   주름 생기기 쉬운 부위에 살포시 얹어 탄력 케어   수분 꽉 채워 광채 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pBD0Ab-S2mM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pBD0Ab-S2mM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pBD0Ab-S2mM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pBD0Ab-S2mM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pBD0Ab-S2mM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SONATURAL 쏘내추럴",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-07T04:00:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sf05zuGuK9n0UNsaaSta7G5_1-w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uzcQV7faEls"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-14T02:12:58Z",
+        "channelId": "UCmeRBCPkoN1M13Ut5ZKNlRg",
+        "title": "글로벌 진출 EVE VEGAN이 함께합니다 !",
+        "description": "글로벌표준인증원과 인증에 대해 더욱 궁금하다면!? 홈페이지: www.gsckorea.co.kr 이메일: [email removed] 전화번호: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uzcQV7faEls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uzcQV7faEls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uzcQV7faEls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uzcQV7faEls/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uzcQV7faEls/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GSC(글로벌표준인증원)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-14T02:12:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lKG0HhsDcClXjjQ0zv9kAy5sTKA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s3-FBKtaWIQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-16T17:53:28Z",
+        "channelId": "UC2Eeb9GipSE87JM5KfjGWCw",
+        "title": "비싼 미백앰플 사기전에 ,비타민스틱으로관리해보세요😘 궁금하시면 댓글에 비타민스틱 남겨주세요~😊#비건화장품 #유리드 #비타민관리 #비타스틱 #uriid",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s3-FBKtaWIQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s3-FBKtaWIQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s3-FBKtaWIQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s3-FBKtaWIQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s3-FBKtaWIQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "미코언니💜린다몰",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-16T17:53:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DEmVEZd0xPvF4YZMU3Q46GjuzGo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tHJBFbKe3qM"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-21T04:00:52Z",
+        "channelId": "UCTqY_zakM6OHJgtF3zwCQvg",
+        "title": "비건 아이크림으로 탄탄 케어✨",
+        "description": "[소프트 아이 살버터] 동물성 성분 없는 비건 크림   눈가에 부드럽게 밀착돼 답답함 ZERO   가볍게 스며들어 산뜻 보습   미백·주름 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tHJBFbKe3qM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tHJBFbKe3qM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tHJBFbKe3qM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tHJBFbKe3qM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tHJBFbKe3qM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SONATURAL 쏘내추럴",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-21T04:00:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ud1ytTXV6dCLGcYluBEOGuev6P8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GMH6A6gN9Vw"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-24T11:55:21Z",
+        "channelId": "UCmpgyQt41fRttTKavambewA",
+        "title": "츠키 Pick!💕벗겨지는 손톱 복구템, 비건 손톱영양제, 손톱강화제, 포인드 FOIND",
+        "description": "이 영상은 포인드의 유료광고가 포함되어 있습니다 - Business inquires: [email removed] - instagram: mina.ina.h - vlog ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GMH6A6gN9Vw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GMH6A6gN9Vw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GMH6A6gN9Vw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GMH6A6gN9Vw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GMH6A6gN9Vw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mina.이나.h",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-24T11:55:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JVUc8AhBzctNYexjxw-Leqwz33o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BCOOd7CALTk"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-19T22:24:02Z",
+        "channelId": "UCZR8ltsBkzQHyJPZd75pWEA",
+        "title": "Vegan Kombucha Tea Duo Set #duo #essence #skincare #cream #vegan #shorts #koreanglassskin #fyp",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BCOOd7CALTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BCOOd7CALTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BCOOd7CALTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BCOOd7CALTk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BCOOd7CALTk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rosa Rosal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-19T22:24:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g6fr3LqBQOWS24OE9C4ZFKVyiyc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vtmUn-YOF-Q"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-10T06:00:52Z",
+        "channelId": "UCTqY_zakM6OHJgtF3zwCQvg",
+        "title": "안심하고 바르는 비건 아이크림✨",
+        "description": "[소프트 아이 살버터] 밤낮으로 얇은 피부에 살포시 고보습을 채워줘요   식물성 살버터가 부드럽게 녹아 산뜻하게 쏙 흡수돼요   비건 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vtmUn-YOF-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vtmUn-YOF-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vtmUn-YOF-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vtmUn-YOF-Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vtmUn-YOF-Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SONATURAL 쏘내추럴",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-10T06:00:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sVA_I76G2n6eMTqT8flVmnEVoWw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z0h9Dhv4CbE"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-09T01:37:03Z",
+        "channelId": "UCEz1PYzke1hjAof2sQn74ng",
+        "title": "년 가성비 인기제품 BEST10 유기농 화장품추천! 아무거나 사지마세요!",
+        "description": "유기농 화장품 2026년 역대급 최신 인기제품 best10 구매 및 쇼핑정보는 더보기/고정댓글을 참조하세요. ▽▽▽▽▽▽▽▽ 영상 속 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z0h9Dhv4CbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z0h9Dhv4CbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z0h9Dhv4CbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z0h9Dhv4CbE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z0h9Dhv4CbE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코끼리 마트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-09T01:37:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wUduX_2HXPYHR7mfl_7zdQS7TI4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b-sTodCplv0"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-27T19:01:45Z",
+        "channelId": "UCXEAR4wbN3LXg25CUAOpbbQ",
+        "title": "Vegan SPFs for Everyday Use 🌱 | Why Sunscreen Is a Year-Round Habit",
+        "description": "Sunscreen isn't just for summer, it's a daily skincare essential, no matter the season. In this video, we're sharing vegan ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b-sTodCplv0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b-sTodCplv0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b-sTodCplv0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b-sTodCplv0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b-sTodCplv0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Care to Beauty",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-27T19:01:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OXLaAlyBy1rYOZJaUWOiRGf7pUs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LEWA8TcbHbc"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-09T08:01:00Z",
+        "channelId": "UCBPmUW4MtpY_JoihRNYwujQ",
+        "title": "Looking for vegan PDRN? 🩵🌊✨ #isntree #veganpdrn #pdrn #slowaging #kbeauty",
+        "description": "Looking for vegan PDRN? Look no further with the @isntree gim PDRN LINE! ✨ isntree gim pdrn hydro bouncy ampoule ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LEWA8TcbHbc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LEWA8TcbHbc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LEWA8TcbHbc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LEWA8TcbHbc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LEWA8TcbHbc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ima / skincare + makeup 💞",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-09T08:01:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qPxvwmZf4exliI5Odjp_famNZ1E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tpnZL5vb8Jw"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-30T09:21:35Z",
+        "channelId": "UC-oAxdhXrwsKSYEUr2zxB9Q",
+        "title": "#제품제공 Vegan calming serum 🌿 - HYGGEE own vegan calming serum  #hyggee #kbeauty #진정세럼 #calmingserum",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tpnZL5vb8Jw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tpnZL5vb8Jw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tpnZL5vb8Jw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tpnZL5vb8Jw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tpnZL5vb8Jw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Romelom 롱롬",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-30T09:21:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8WpC2xECyVmQ3wDi26eKkCnxsCU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3WzvOlLEQlI"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-01T16:58:57Z",
+        "channelId": "UCvIpGg76XdxLkC3JjtpqoPA",
+        "title": "Vegan brands that I use for my skincare #vegan #veganlife #veganlifestyle #veganskincare",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3WzvOlLEQlI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3WzvOlLEQlI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3WzvOlLEQlI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3WzvOlLEQlI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3WzvOlLEQlI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vegan in Finland ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-01T16:58:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rBNk2VKq5xoTPzMEDwfckPgKqrA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fJNRSoej1t0"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-14T08:42:17Z",
+        "channelId": "UCgFvAzZHITT5FdK8Lfpi2ww",
+        "title": "이건 재구매각… 다이소 클렌저 추천템 💚 | 채비공간 🍃@chaebgonggan_official#제품제공 #채비공간 #비건화장품 #팩클렌저 #다이소화장품 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fJNRSoej1t0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fJNRSoej1t0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fJNRSoej1t0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fJNRSoej1t0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fJNRSoej1t0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "슴넷다여!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-14T08:42:17Z"
+      }
+    }
+  ]
+}

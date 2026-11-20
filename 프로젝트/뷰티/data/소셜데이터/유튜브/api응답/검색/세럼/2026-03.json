@@ -1,0 +1,2222 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "hj_PDCj6lATuBmbEfPg2SkRBm1I",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 839666,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xb7eMib2tCOJYwJRMPdVNzA9KVc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g1du-ZJ0yGc"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-02T11:42:40Z",
+        "channelId": "UCa7Da-TmIoXbyjBCx9pvv4g",
+        "title": "찐 화잘먹 세럼 찾았다. #톤28 #화잘먹세럼",
+        "description": "화잘먹세럼 #올영세일추천템 #올영세럼추천 ​⁠ #TOUN28 #톤28 #올리브영 #크림앤세럼 #화잘먹 #화잘먹세럼 #말차라떼세럼 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g1du-ZJ0yGc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g1du-ZJ0yGc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g1du-ZJ0yGc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g1du-ZJ0yGc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g1du-ZJ0yGc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지니츄",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-02T11:42:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1ciWL_NNhbdg-SEO8fRlGFigQDA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BFEWsho3ex4"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-17T08:21:27Z",
+        "channelId": "UCK7v-eIsfif6b-Df8jJ343Q",
+        "title": "99%가 모르는 세럼 제대로 쓰는 법",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BFEWsho3ex4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BFEWsho3ex4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BFEWsho3ex4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BFEWsho3ex4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BFEWsho3ex4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "일타의사 박영진",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-17T08:21:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qG5pWhL8hz_EAb0QbWP_dL4pcH8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_mmlp4zwBpM"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-08T10:30:17Z",
+        "channelId": "UCb8_UiUdnM9S7r1aYPAsSMw",
+        "title": "✨피부 타입별 딱 맞는 인생 세럼 추천💧",
+        "description": "1️⃣ 지성+좁쌀 : 라운드랩 소나무 진정 세럼   진정 속도가 진짜 미쳤어용! 소나무 추출물과 시카 성분의 황금 비율로 좁쌀 여드름을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_mmlp4zwBpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_mmlp4zwBpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_mmlp4zwBpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_mmlp4zwBpM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_mmlp4zwBpM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "헤블 HEBLE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-08T10:30:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-TxaGBQGdBXGS5kN6nktNpzEaBg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ct9sebZauhA"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-08T10:00:28Z",
+        "channelId": "UCdLwMtqz0GwDXRPO_bgKwbw",
+        "title": "광고❌ 여드름 종류별 트러블 세럼 추천 💚",
+        "description": "여드름도 종류마다 관리법이 다르다는 거 알고 있었나요? 피부과 안 가고 홈케어 할 때 트러블 종류별로 세럼만 바꿔도 효과가 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ct9sebZauhA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ct9sebZauhA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ct9sebZauhA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ct9sebZauhA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ct9sebZauhA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리뷰히",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-08T10:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "T0qtA01SokadMklL7oZW2BW4cQg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UklewSp0uX0"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-04T11:06:21Z",
+        "channelId": "UCJ1Mdr2ITlYfc5Qf4hcUySA",
+        "title": "세럼 바를 때 최악의 실수들",
+        "description": "스킨케어 #피부관리 #속건조 #보습 #세럼 #앰플 세수하고 얼굴 바짝 말린 상태에서 수분 세럼 바르시나요? 당장 멈추세요! 오히려 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UklewSp0uX0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UklewSp0uX0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UklewSp0uX0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UklewSp0uX0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UklewSp0uX0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아토피키 : 30년 아토피 생존 스킨케어",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-04T11:06:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G3jMpLT-JwxVidmNy84xDSia6QU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5dIvW3XUoXA"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-02T08:05:00Z",
+        "channelId": "UCBEvSDXPu2rsaI7pRV9W1UQ",
+        "title": "와.. 가격 이래도 돼 ⁉️ 저렴이 트러블 흔적세럼 3월 올영세일 만원 추천템💵",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5dIvW3XUoXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5dIvW3XUoXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5dIvW3XUoXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5dIvW3XUoXA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5dIvW3XUoXA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꼬다쾃 CODAQUATT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-02T08:05:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b_mkRTT-LyBj-Ce2GhqsfdPBpWw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ByOVV69l0Ro"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-08T12:17:16Z",
+        "channelId": "UCeOC_1yOLoTBxmWRuKKfMCg",
+        "title": "육아맘의 깔단걀피부 비법 #네리티아세럼파운데이션 #파운데이션추천 #메이크업 #꿀템",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ByOVV69l0Ro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ByOVV69l0Ro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ByOVV69l0Ro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ByOVV69l0Ro/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ByOVV69l0Ro/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "막내누나",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-08T12:17:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g626zRa-x9jG6AYNZ7IXi1v5ufo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pUfWWycQcWU"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-02T12:41:02Z",
+        "channelId": "UCD7NoUeFAHCNpOKlO2yLdZA",
+        "title": "올영세일 때 놓쳐서는 안될 템! 프리메라 비타티놀 세럼 PDRN 나이아-10 세럼 !! 미백 &amp; 탄력이 고민이라면 프리메라 세럼으로 정착하세요 😍#올영세일",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pUfWWycQcWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pUfWWycQcWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pUfWWycQcWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pUfWWycQcWU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pUfWWycQcWU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "체서콩",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-02T12:41:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rv71_WYWSrBqAq5xgOy4xJRJz0c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o3YCG-upxVo"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-24T08:46:28Z",
+        "channelId": "UCK7v-eIsfif6b-Df8jJ343Q",
+        "title": "99%가 모르는 세럼 실수 5가지😱ㅣ나중에 후회하지 말고 꼭 ‘이걸’ 알고 사용하세요!",
+        "description": "피부 좋아지려고 세럼 바르는데, 오히려 트러블 나고 피부가 더 건조해진 적 있으신가요? 사실 많은 분들이 세럼을 '잘못된 순서'나 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o3YCG-upxVo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o3YCG-upxVo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o3YCG-upxVo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o3YCG-upxVo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o3YCG-upxVo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "일타의사 박영진",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-24T08:46:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JblRjEjvbXyHbbLmCsSzBPsGNk0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "myIIETc_fok"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-17T11:01:30Z",
+        "channelId": "UCYsv-IHC-B-DiVMmJuqibcg",
+        "title": "요즘 잘나가는 BEST세럼 비교 분석❗(올리브영 1등템~😘) 피부별 제형별 맞는 세럼 찾기",
+        "description": "안녕하세요 제이나입니다. (광고❌) 오늘은 요즘 잘 판매되고 있고 잘나가고 있는 세럼들을 비교 분석해 드리려고 합니다☑️ 요즘 잘 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/myIIETc_fok/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/myIIETc_fok/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/myIIETc_fok/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/myIIETc_fok/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/myIIETc_fok/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "제이나 [Jaina]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-17T11:01:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c9su6pV1mIVORi6K81j3Bl5CJrI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B_iDSr8JOm8"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-07T10:22:29Z",
+        "channelId": "UCIwR9zG_Y6aMqp4u5KACi_Q",
+        "title": "나의 정병치료제 메디힐 PDRN 세럼+팩🩵",
+        "description": "올영 세일 종료 5시간 남음 메디힐 PDRN 오마카세로 환절기 모공쫀쫀결광피부 ㄱㄱ   #mediheal #메디힐팩 #메디힐세럼 #메디 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B_iDSr8JOm8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B_iDSr8JOm8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B_iDSr8JOm8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B_iDSr8JOm8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B_iDSr8JOm8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "율코 yul.cosmetic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-07T10:22:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QpYf1ptVzxWQs-uNDxZIS82cDnk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0KTrZIJvzjE"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-14T14:30:01Z",
+        "channelId": "UCpUzrw2t0CnT_cdTHVBAtPw",
+        "title": "레티놀 세럼 중에 단 하나의 NO.1을 가질 영광의 주인공을 바로 공개하겠습니다!!",
+        "description": "레티놀 세럼 중 단 하나! 진짜 'NO.1'의 자리를 차지할 영광의 주인공은?! 요즘 레티놀 제품 진짜 많죠? 하지만 효과와 안정성, 피부 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0KTrZIJvzjE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0KTrZIJvzjE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0KTrZIJvzjE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0KTrZIJvzjE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0KTrZIJvzjE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "진서연의 NO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-14T14:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PHEQAqV5p5dCly9jYQgKxbM6aYw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_OkidNzsGLo"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-19T11:01:04Z",
+        "channelId": "UCvGvf3Lk0Z5reU544g_SzPg",
+        "title": "메디힐 마데카소사이드 흔적 세럼! 팩폭리뷰",
+        "description": "영상 내 태그된 쿠팡 링크로 구매 시, 수수료를 받아 내돈내산 콘텐츠 제작에 도움이 됩니다. ✓ 인스타그램 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_OkidNzsGLo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_OkidNzsGLo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_OkidNzsGLo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_OkidNzsGLo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_OkidNzsGLo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "비트 BTE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-19T11:01:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cqo2dZk62FuZ9DwpyZL1J7lF1vk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CNNrhWUqlpY"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-03T08:59:03Z",
+        "channelId": "UCKAwUq0rYJ7JVkwK-XWADnQ",
+        "title": "세럼 바를 때 의외로 진짜 많이 하는 실수 TOP3",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CNNrhWUqlpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CNNrhWUqlpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CNNrhWUqlpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CNNrhWUqlpY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CNNrhWUqlpY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "박지윤의 피부 설명서",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-03T08:59:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vk2euwVyM6Pwu1YXC2cW_1c6Gx4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7fUUC2mhOPU"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-15T23:00:14Z",
+        "channelId": "UCR-rSr__YloP08_byJvVd9w",
+        "title": "비타민C세럼 2주쓰면 생기는 변화?! 👀",
+        "description": "여러분! 오늘은 2주동안 비타민C 세럼을 꾸준히 써보고 남기는 후기에요 저는 관심은 있었지만 비타민c 앰플이 자극적일까봐 써보 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7fUUC2mhOPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7fUUC2mhOPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7fUUC2mhOPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7fUUC2mhOPU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7fUUC2mhOPU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지우원",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-15T23:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_HnWoX6bhR3RucbMJ080fvpI2YA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lI9URwSH7NQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-27T11:01:17Z",
+        "channelId": "UCjrTg7jI1dyzaFSyie8tIBw",
+        "title": "🔥SNS에서 난리난🔥 중티st 네리티아 세럼 파운데이션 솔직리뷰🤔📝(ft.더 좋은 제품 알랴드림) #릴스파데 #SNS템리뷰 #파데리뷰",
+        "description": "https://www.instagram.com/woorini/ 안녕하세요~~ 여러분  !!! 벌써 금요일이라니~~~~ 이번 주도 어떻게 흐른지 후다닥 지나 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lI9URwSH7NQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lI9URwSH7NQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lI9URwSH7NQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lI9URwSH7NQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lI9URwSH7NQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/lI9URwSH7NQ/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "우린",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-27T11:01:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BFU89s34CekFUN065QPnDAbicFM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EdznH4kMkcg"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-20T10:18:06Z",
+        "channelId": "UCd7icqUv7f8k2E6n4WOCIQg",
+        "title": "세럼 바를 때 혹시 손으로 문지르시나요?",
+        "description": "스킨케어 #피부관리 #홈케어 #세럼바르는법 #피부좋아지는법 세럼 바를 때 혹시 손으로 문지르시나요? 아... 이러면 비싼 세럼 성분, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EdznH4kMkcg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EdznH4kMkcg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EdznH4kMkcg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EdznH4kMkcg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EdznH4kMkcg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "피부결",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-20T10:18:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k-TMgPgP77i8Ao_Qus27D07T2F4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B7oMdYwYWzA"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-07T16:48:21Z",
+        "channelId": "UCE6cqTb1JwW-Z3FoQG1DngA",
+        "title": "기미 잡티 고민이면 이거 사세요‼️ 올리브영 색소침착 세럼 추천 TOP5 #올리브영추천템 #올리브영 #기미잡티",
+        "description": "올리브영에서 효과본 기미잡티 추천템 best 5 #kbeauty #koreanskincare #skincareroutine #skincaretips.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B7oMdYwYWzA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B7oMdYwYWzA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B7oMdYwYWzA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B7oMdYwYWzA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B7oMdYwYWzA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리하패밀리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-07T16:48:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qzjZfmlffNLFFIxQt9sm2MukjOA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n6W8ff5N1_8"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-05T15:47:49Z",
+        "channelId": "UC4TQkPPeOfkWHLU14jFq7FA",
+        "title": "본셉 레티놀 탄력샷 바디 괄사 세럼 다이소에서 구입 #내돈내산 #다이소",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n6W8ff5N1_8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n6W8ff5N1_8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n6W8ff5N1_8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n6W8ff5N1_8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n6W8ff5N1_8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "my hand",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-05T15:47:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lMvZGgNz6ISAZqrDr2CtHfq46i8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "37HMnwC_9j8"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-03T10:00:04Z",
+        "channelId": "UC0ycRO3wLy0jW8bkpGyz_Lw",
+        "title": "히알루론산 세럼 바르고 더 건조해진 이유 | 올리브영추천템, 스킨케어, 기초제품",
+        "description": "피부관리 #동안관리 #레티놀 #피부장벽 #데이원클리닉강남본점 #얼굴디자인연구소.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/37HMnwC_9j8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/37HMnwC_9j8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/37HMnwC_9j8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/37HMnwC_9j8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/37HMnwC_9j8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "데이원의원 얼굴디자인연구소 面部设计研究所",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-03T10:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X355iCKzEuJgpcYe316y853UuQo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F3h1k2AhNBg"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-18T23:38:33Z",
+        "channelId": "UC3wmXZAsLYGINtBuZZOonLQ",
+        "title": "Torriden with CORTIS : 컨ㅋㅋ롤 세럼이요?",
+        "description": "Torriden with CORTIS! 컨트롤 못할 트러블은 없어! 계속 반복되는 피부 트러블* 이제는 원인부터 차단해야 할 때! CORTIS와 함께 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F3h1k2AhNBg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F3h1k2AhNBg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F3h1k2AhNBg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F3h1k2AhNBg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F3h1k2AhNBg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/F3h1k2AhNBg/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "torriden토리든",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-18T23:38:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G29okRmxlGVZs8_M4HFBHUL_7mM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z0ATW-Sso1g"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-10T10:59:47Z",
+        "channelId": "UCTKFuKkJdJ-2Xt9DntKNtfw",
+        "title": "컬러그램 탕후루 립세럼🍓🍇🌰",
+        "description": "컬러그램 탕후루 립세럼       존예 컬러 3가지 발라보기ᯓᡣ𐭩 ───── « ⋅ʚ♡ɞ⋅ » ───── 영상 속 제품  컬러그램 탕 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z0ATW-Sso1g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z0ATW-Sso1g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z0ATW-Sso1g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z0ATW-Sso1g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z0ATW-Sso1g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "가을립 ・ 1분컷 립발색💄",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-10T10:59:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a2QSYjHSsPtVmwGEFonE4e5QUWw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iajQB4opeao"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-28T14:30:28Z",
+        "channelId": "UCpUzrw2t0CnT_cdTHVBAtPw",
+        "title": "4주 동안 실험을 한 비타민C 세럼!! 과연 NO.1 주인공은 누가 될 것인가?!?",
+        "description": "4주간의 긴 여정 끝에 드디어 결과 발표✨ 직접 사용해본 비타민C 세럼 실험 한 결과가 지금 영상에서 공개!! 톤업 효과, 잡티 개선 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iajQB4opeao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iajQB4opeao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iajQB4opeao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iajQB4opeao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iajQB4opeao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "진서연의 NO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-28T14:30:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i_8nKdQvBNLTRez5WTr9DW5wUBU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bcNsZkFb42E"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-12T08:56:07Z",
+        "channelId": "UCjIbwxNNh8mASQlCIjJsMXw",
+        "title": "[HERO Film] HERA l 시그니아 코어 리프팅 세럼 바이탈 리프팅 크림 #히어로필름 #뷰티필름 #화장품바이럴광고 #제프미디어웍스",
+        "description": "[HERO Film] HERA l 시그니아 코어 리프팅 세럼 바이탈 리프팅 크림 Client | 헤라 HERA Production | 제프미디어웍스 Official ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bcNsZkFb42E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bcNsZkFb42E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bcNsZkFb42E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bcNsZkFb42E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bcNsZkFb42E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "제프미디어웍스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-12T08:56:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KwH2VRpaM6H-YlAe3FiQnl4_cVA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Kz2JDT4KwpU"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-29T04:17:32Z",
+        "channelId": "UC4PAS3ck6trKI0RsM2Nskew",
+        "title": "요즘 잘쓰는 세럼&amp;앰플 ❮내돈내산❯ 추천❤️",
+        "description": "영상 속 제품 리스트    ‍♀️ ✨ CLARINS 더블세럼 하이드릭 플러스 리피딕 시스템 라이트 텍스쳐 컴플리트 에이지 디파잉 콘센트 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kz2JDT4KwpU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kz2JDT4KwpU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kz2JDT4KwpU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kz2JDT4KwpU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kz2JDT4KwpU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "래띠 LAETI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-29T04:17:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DT15WSp1zy_YIek7j1fx5Jym7MY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Kv0GguHF13w"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-09T12:31:34Z",
+        "channelId": "UC68rO3xD3BiKMING4_zjLUg",
+        "title": "프리메라 비타티놀 바운시 리프트 세럼",
+        "description": "요즘 주변에서 추천하는 게 바로 이 제품이더라고요 - 그래서 구매했섭 레티놀보다 2.2배라고 하는데 전 좀 더 써봐야 알 거 같아요( ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kv0GguHF13w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kv0GguHF13w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kv0GguHF13w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kv0GguHF13w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kv0GguHF13w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "왓츠인마이라이프",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-09T12:31:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lzRUVvINKpCNYgt5NsUnk1pZFAc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "guIJz1HHB_o"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-05T18:37:10Z",
+        "channelId": "UCelBS5ybJLDkBtQbhLAWgkQ",
+        "title": "다이소 5천원 눈가 세럼 발견,, 생각보다 괜찮아요 #다이소뷰티 #kbeauty #가성비화장품 #skincare",
+        "description": "다이소에서 발견한 케어존 플러스 아이볼 세럼입니다. 롤러 타입이라 눈가 마사지하면서 바르기 편했고 수분감도 꽤 괜찮았어요.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/guIJz1HHB_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/guIJz1HHB_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/guIJz1HHB_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/guIJz1HHB_o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/guIJz1HHB_o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꽃샘뷰티",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-05T18:37:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0UMPy5zkB8NJWGwTNi7mzTjRcjg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-wPB0j1ixrM"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-19T00:02:21Z",
+        "channelId": "UC3wmXZAsLYGINtBuZZOonLQ",
+        "title": "Torriden with CORTIS : 컨ㅋㅋ롤 세럼이요?",
+        "description": "Torriden with CORTIS! 컨트롤 못할 트러블은 없어! 계속 반복되는 피부 트러블* 이제는 원인부터 차단해야 할 때! CORTIS와 함께 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-wPB0j1ixrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-wPB0j1ixrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-wPB0j1ixrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-wPB0j1ixrM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-wPB0j1ixrM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "torriden토리든",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-19T00:02:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZC2FfK-Y4Is9BdZhgQCQmwkWd58",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iQLFZppq5Zo"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-25T15:57:08Z",
+        "channelId": "UCsDtYL_aE6KjBPaL8tkKzVg",
+        "title": "설화수 자음생캡슐세럼 푸짐구성 극건성피부 강추 주름기능성세럼",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iQLFZppq5Zo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iQLFZppq5Zo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iQLFZppq5Zo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iQLFZppq5Zo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iQLFZppq5Zo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아모레윤슬yunseul_info ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-25T15:57:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pyUleZKjz7DHHXMWSqDrDo9tHGA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p2U0xlt5AB0"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-13T10:01:31Z",
+        "channelId": "UCEwxJejrLcBbucz47j0_iLw",
+        "title": "에스테틱 찐관리템 | 저자극 필세럼",
+        "description": "에스테틱 찐관리템 | 저자극 필세럼 각질은 올라오고 화장은 뜨는데 민감한 피부로 필링은 어려우셨다구요? 에스테틱에서는 이런 사람 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p2U0xlt5AB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p2U0xlt5AB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p2U0xlt5AB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p2U0xlt5AB0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p2U0xlt5AB0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "에르떼앙 피부ASmr",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-13T10:01:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5gOL4r-_Tnkce9bq5uuXOsCzW4w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A2M1MOj_zOg"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-24T08:09:15Z",
+        "channelId": "UCk57wlh8AjGpWDdOOHIR1Bw",
+        "title": "베이스 올리면 들뜨는 각질을 자극없이 다 없애주는 필링세럼? #자민경",
+        "description": "jaminkyung_official 요즘 날씨 너무 좋아서 오랜만에 나들이 가려고 준비했거든요••   그래서 베이스부터 딱 올렸는데 피부 각질 파티 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A2M1MOj_zOg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A2M1MOj_zOg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A2M1MOj_zOg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A2M1MOj_zOg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A2M1MOj_zOg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "또비니 DDOBINI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-24T08:09:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BrzVhZ3VGY-HUb9cLY1c2CYPSrw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G-F4agEDA4Q"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-06T03:40:19Z",
+        "channelId": "UCYTOV8FO_G17jlNbpclWXvA",
+        "title": "톤28 말차라떼 화잘먹세럼 #수분베이스 #앰플 #TOUN28 #톤28 #올리브영 #크림앤세럼 #화잘먹 #화잘먹세럼 #말차라떼세럼 #KBEAUTY",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G-F4agEDA4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G-F4agEDA4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G-F4agEDA4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G-F4agEDA4Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G-F4agEDA4Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뽀비트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-06T03:40:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f2DTVWphWRFwU9izCRZcPy2zKRQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kbH49V-5abM"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-23T13:01:17Z",
+        "channelId": "UCoiJWbHDTi1-Xpu0sePCcsA",
+        "title": "요즘 맨날 쓰는 선세럼! 진짜 좋아요🥹🖤 #포들 #선세럼 #선크림 #선크림추천",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kbH49V-5abM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kbH49V-5abM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kbH49V-5abM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kbH49V-5abM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kbH49V-5abM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "챠미",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-23T13:01:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yLl8h7mHkHIE1tjuVT1EAwI1uZY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6ta4FOaVzLw"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-01T12:30:04Z",
+        "channelId": "UC3ZQbE9FKR8TwHYqTNcIXQQ",
+        "title": "올영세일💚 6병 비운 인생세럼, 크림으로 나옴! (개발 단계부터 직접 참여했어요)",
+        "description": "https://www.instagram.com/hoon1on/ SNS https://linkon.id/hoon1on [email removed] 이 영상은 유료광고(파넬)를 포함 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6ta4FOaVzLw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6ta4FOaVzLw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6ta4FOaVzLw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6ta4FOaVzLw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6ta4FOaVzLw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HOONION",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-01T12:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8jiB6We8s1R2qlo7yH2N0wuDMOs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MdPAt7ZJKFY"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-17T10:38:01Z",
+        "channelId": "UCMi1127SFyQzL70lS4RR2Qw",
+        "title": "꽃립 개화 어클락 립세럼 간단 리뷰✨ #vegan #lip #makeup #review #lipserum #glowlip",
+        "description": "꽃립 개화 어클락 립세럼 간단 리뷰✨ ✓ 맑은 글로우 ✓ 가벼운 세럼 텍스처 ✓ 데일리 립으로 좋음 00AM / 3PM / 8PM 어떤 컬러가 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MdPAt7ZJKFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MdPAt7ZJKFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MdPAt7ZJKFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MdPAt7ZJKFY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MdPAt7ZJKFY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꽃립(KKOTLIP)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-17T10:38:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7oskDOvKZgpvxa44LbRyiNP27FY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y6Lf7LQ-zk4"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-18T11:30:12Z",
+        "channelId": "UCvEOjx72nV2ZWSr8L0tf35w",
+        "title": "요즘 드라이후 고객님들한테 많이 사용해 드리는달바 헤어세럼+헤어미스트🌸",
+        "description": "요즘 드라이후 고객님들한테 많이 사용해 드리는 달바 헤어세럼+헤어미스트   드라이후 헤어세럼으로 모발에 영양과 윤기 마무리는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y6Lf7LQ-zk4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y6Lf7LQ-zk4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y6Lf7LQ-zk4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y6Lf7LQ-zk4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y6Lf7LQ-zk4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정화",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-18T11:30:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "McZUDZaPv28rcSde-wm_m6dNOfs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hrmB8BgRuf4"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-17T08:52:17Z",
+        "channelId": "UCJ1Mdr2ITlYfc5Qf4hcUySA",
+        "title": "속건조 잡겠다고 토너, 에센스, 세럼, 앰플 다 바르시나요?",
+        "description": "앰플 #세럼 #토너 속건조 잡겠다고 토너, 세럼, 앰플 다 바르시나요? 당장 멈추세요! 점증제가 든 세럼과 앰플을 무작정 겹쳐 바르면 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hrmB8BgRuf4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hrmB8BgRuf4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hrmB8BgRuf4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hrmB8BgRuf4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hrmB8BgRuf4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아토피키 : 30년 아토피 생존 스킨케어",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-17T08:52:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1aFrCtHEZf1frsM6eXJQyNQ-t1w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bn5texlRbXA"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-11T11:39:24Z",
+        "channelId": "UCf5YBnIQWt_1ykfbQGGyDpg",
+        "title": "내돈내산 리뷰:: 아이소이 브라이트닝 카밍 스팟 세럼",
+        "description": "알고리즘.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bn5texlRbXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bn5texlRbXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bn5texlRbXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bn5texlRbXA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bn5texlRbXA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-11T11:39:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zY6mhP565GBdH73X11syLlBm0r0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MmrPsBMGRxs"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-01T11:36:01Z",
+        "channelId": "UCfPFiBWidNSh85ccwjj2WFg",
+        "title": "#광고 3월 올영세일 꼭사템! 아비브 어성초 세럼 카밍 드롭 더블 기획(50ml + 50ml): 48,000원➡️ 27,420원 (42%OFF) #아비브 #아비브세럼 #올영세일",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MmrPsBMGRxs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MmrPsBMGRxs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MmrPsBMGRxs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MmrPsBMGRxs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MmrPsBMGRxs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "퓨에드🩰",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-01T11:36:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4ZUEjj6cWWo5KJ9Z5jL-I6zMH8M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qWat8TmnVAs"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-23T10:55:56Z",
+        "channelId": "UCE7q5DzYcRYWObUNIpdO70A",
+        "title": "‼️쿠팡에서 이거 보이면 꼭 사세요!! 갓성비 선세럼 추천☀️",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qWat8TmnVAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qWat8TmnVAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qWat8TmnVAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qWat8TmnVAs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qWat8TmnVAs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뷰티마우스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-23T10:55:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nq-gNt1atNr3tGSzhkl0K6Op0Hw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iDSvnbMcFtg"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-01T14:15:56Z",
+        "channelId": "UCREwWGTy6b1nKqAbOnifZXg",
+        "title": "#제품제공 파넬 92세럼에 이어 크림 출시를(?) 파넬 시카마누 레드 리페어 크림💚✨ #파넬 #파넬크림 #파넬세럼 #올영세일추천템 #진정크림 #진정세럼",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iDSvnbMcFtg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iDSvnbMcFtg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iDSvnbMcFtg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iDSvnbMcFtg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iDSvnbMcFtg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "글로이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-01T14:15:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0S2-EtqBZ5yylN9F8YkqAI3BgN4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-ALltDGHMY4"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-02T07:50:35Z",
+        "channelId": "UCThBxZBrBvTZ4jycxOthl-A",
+        "title": "올리브영 세럼 깡 #올리브영 #세럼 #깡 #행사 #콜라보 #포카포장",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-ALltDGHMY4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-ALltDGHMY4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-ALltDGHMY4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-ALltDGHMY4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-ALltDGHMY4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "로Zㅔ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-02T07:50:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rCl3vhKP8dUfvNpOq220xdvcwFY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OhcHnquuZ6E"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-28T09:56:19Z",
+        "channelId": "UCRA4ZCOKHKS8GazxRIijb4A",
+        "title": "The savior for dull skin! Teashell serum is a must in my brightening skincare routine. #skincare",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OhcHnquuZ6E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OhcHnquuZ6E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OhcHnquuZ6E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OhcHnquuZ6E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OhcHnquuZ6E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Teashell",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-28T09:56:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jFrAnYcw5xmWHQ245F5XwxGuCcE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FT8-kXyfKow"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-17T16:32:09Z",
+        "channelId": "UCcRbaDgx9M28STOjAiGpgTg",
+        "title": "Nuevo Ultra Sérum SPF50+",
+        "description": "Ligero como un sérum, potente como un SPF 50+.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FT8-kXyfKow/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FT8-kXyfKow/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FT8-kXyfKow/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FT8-kXyfKow/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FT8-kXyfKow/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Eau Thermale Avène España",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-17T16:32:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Oud1l6HOLH1S2ktzMUQqBpM7Zxk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g2-fxGdoCEE"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-23T12:54:50Z",
+        "channelId": "UCfPFiBWidNSh85ccwjj2WFg",
+        "title": "#광고마녀공장 글루타치온 7 다크스팟 세럼 &amp; 패치💛 올영에서 만나볼 수 있으니 다들 꼭 써보세요🪽#마녀공장 #마녀공장세럼 #잡티세럼 #올영세럼",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g2-fxGdoCEE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g2-fxGdoCEE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g2-fxGdoCEE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g2-fxGdoCEE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g2-fxGdoCEE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "퓨에드🩰",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-23T12:54:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HmU-huhxajmZCD7plZei7pmJz9I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0M5SKxa5HBU"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-22T12:35:53Z",
+        "channelId": "UCbNMdCWBwjljPxDu8dfeHmg",
+        "title": "지성 유명템 한율 쑥 히알 세럼 건성한테도 좋을까?#제품제공",
+        "description": "지성, 수부지 유튜버들 사이에서 난리 난 한율 쑥히알 세럼 다들 알고리즘에 한 번쯤 떠서 보셨죠?! 리뷰에서도 호평이 쏟아지는 제품 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0M5SKxa5HBU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0M5SKxa5HBU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0M5SKxa5HBU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0M5SKxa5HBU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0M5SKxa5HBU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "박체리 cherry",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-22T12:35:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WN2BC0_07OSqQmYNg6VhS9pZK5w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JoAjwnXNDvQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-15T01:06:36Z",
+        "channelId": "UC4fGjnu_tQa60S8cHrYW1tA",
+        "title": "바르는 순간 바로 물광! 피부결이 달라지는 광채앰플세럼✨️퓨리영 글라스 스킨 리페어 세럼50ml#물광세럼 #광채세럼 #퓨리영세럼 #엔젤뷰티마켓 #엔젤뷰티",
+        "description": "바르는 순간 바로 물광! 피부결이 달라지는 광채앰플세럼✨️ 오후 2시 이전 주문 시 당일발송 -- 세안 후 한 번만 발라도 피부가 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JoAjwnXNDvQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JoAjwnXNDvQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JoAjwnXNDvQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JoAjwnXNDvQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JoAjwnXNDvQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "엔젤언니의 에스테틱화장품",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-15T01:06:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dy0tA2V1Vrw4hJ0L49mv4CmPPcM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mYVMlGDCzHs"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-28T12:29:38Z",
+        "channelId": "UC4KkateHnTqBTXUavun6hoA",
+        "title": "여드름,붉은피부 전용 버블세럼?🍎알디알디 rdrd 흡수력🔥",
+        "description": "여드름피부,붉은피부 전용 버블세럼?  알디알디 rdrd 흡수력 미쳤어   rdrd 레드 애플 락토 진정 팝핑 토너 여러분 저희가 선물을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mYVMlGDCzHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mYVMlGDCzHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mYVMlGDCzHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mYVMlGDCzHs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mYVMlGDCzHs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀자매",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-28T12:29:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-IfQhn09iYEWBiOK047rVECW4es",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p2WFW23awNE"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-10T00:03:27Z",
+        "channelId": "UCUKtw56xaBe7w6x3xOVN-Tw",
+        "title": "AHC | 다크모공 클리어 NEW 프로샷 포어 이레이저 세럼",
+        "description": "해결되지 않는 모공 고민? 문제는 다크모공* 저자극숏티큘™이 피부 속 깊게* 침투* 글로우티놀™*로 다크모공을 줄이고* 광채를 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p2WFW23awNE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p2WFW23awNE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p2WFW23awNE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p2WFW23awNE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p2WFW23awNE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AHC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-10T00:03:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IGoKzY-AUyjszx11Ew5c9zC9BNY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Axr6wYmi4fw"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-01T11:00:14Z",
+        "channelId": "UCT3XCWBiNy-mnS0awYq_trw",
+        "title": "원래 쓰던 수분 세럼도 효과 없을 때 꼭 써주는 세럼💧",
+        "description": "해당 영상은 유료 광고를 포함하고 있습니다. *채널 내 모든 영상의 무단 재배포 및 재가공을 금지합니다. (사전에 협의되지 않은 영상 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Axr6wYmi4fw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Axr6wYmi4fw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Axr6wYmi4fw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Axr6wYmi4fw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Axr6wYmi4fw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준돌",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-01T11:00:14Z"
+      }
+    }
+  ]
+}

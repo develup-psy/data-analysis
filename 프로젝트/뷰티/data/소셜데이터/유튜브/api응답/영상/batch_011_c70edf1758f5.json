@@ -1,0 +1,3507 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "PePJgAMZaIbdxwYudveNyNyIdew",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "I850eSMLtIROt6x2KwyZHWmHCU0",
+      "id": "sQeG2tWlF-M",
+      "snippet": {
+        "publishedAt": "2026-02-18T11:55:44Z",
+        "channelId": "UCfIoeCmzOOJbRdrrGK47gCw",
+        "title": "피부고민별로 추천하는 올리브영 미백 세럼 #올영추천템 #메디큐브 #아비브 #이니스프리 #넘버즈인",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sQeG2tWlF-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sQeG2tWlF-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sQeG2tWlF-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sQeG2tWlF-M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sQeG2tWlF-M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "예본 Ella ",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "피부고민별로 추천하는 올리브영 미백 세럼 #올영추천템 #메디큐브 #아비브 #이니스프리 #넘버즈인",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "48264",
+        "likeCount": "651",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yVwZ5D2s0YM7eUBpQhn64ns-itQ",
+      "id": "36aMeP9LfGI",
+      "snippet": {
+        "publishedAt": "2026-02-02T00:00:53Z",
+        "channelId": "UC3RaX8SIFWzjR00xUq0m0Ow",
+        "title": "SulwhasooㅣLumiwise Brightening Ampoule Serum (자정앰플세럼)ㅣ다시 짙어지지 않고 맑게 이어지는 피부 (6s VERSION)",
+        "description": "설화수의 새로운 브라이트닝\nNEW 자정앰플세럼\n\n시간이 지남에 따라 짙어지는\n피부 속 멜라닌 과증식을 바로 잡아주는\n자정앰플세럼으로다시 짙어지지 않고*\n맑게 이어지는 피부를 경험하세요\n\n* 사용 중단 1주 후 색소 침착 개선 유지 인체 적용 시험 결과, \n시험기간: 2024.10.28 ~ 2024.12.31, 시험대상: 30~55세 여성 31명\n\nSulwhasoo \nNEW Lumiwise Brightening Ampoule Serum\n\nVisibly brighten dark spots and \nenhance clarity for luminous skin\n\nCORRECT SIGNS OF DARK SPOTS TODAY.​​\nFORTIFY RADIANCE FOR TOMORROW.​\n\n#설화수 #sulwhasoo #자정앰플세럼 #LumiwiseBrighteningAmpouleSerum #임윤아 #LIMYOONA #BeLuminousWisely",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/36aMeP9LfGI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/36aMeP9LfGI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/36aMeP9LfGI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/36aMeP9LfGI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/36aMeP9LfGI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sulwhasoo",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "SulwhasooㅣLumiwise Brightening Ampoule Serum (자정앰플세럼)ㅣ다시 짙어지지 않고 맑게 이어지는 피부 (6s VERSION)",
+          "description": "설화수의 새로운 브라이트닝\nNEW 자정앰플세럼\n\n시간이 지남에 따라 짙어지는\n피부 속 멜라닌 과증식을 바로 잡아주는\n자정앰플세럼으로다시 짙어지지 않고*\n맑게 이어지는 피부를 경험하세요\n\n* 사용 중단 1주 후 색소 침착 개선 유지 인체 적용 시험 결과, \n시험기간: 2024.10.28 ~ 2024.12.31, 시험대상: 30~55세 여성 31명\n\nSulwhasoo \nNEW Lumiwise Brightening Ampoule Serum\n\nVisibly brighten dark spots and \nenhance clarity for luminous skin\n\nCORRECT SIGNS OF DARK SPOTS TODAY.​​\nFORTIFY RADIANCE FOR TOMORROW.​\n\n#설화수 #sulwhasoo #자정앰플세럼 #LumiwiseBrighteningAmpouleSerum #임윤아 #LIMYOONA #BeLuminousWisely"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1477",
+        "likeCount": "44",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "86TVr--_7P3fWkSKs2D8h4cp1yE",
+      "id": "M3loisIKAS4",
+      "snippet": {
+        "publishedAt": "2026-02-27T08:00:32Z",
+        "channelId": "UC7i_VE0lRXkTkRrsPLcIwTg",
+        "title": "7일 집중 흔적 케어 | 글루타치온 멜팅 세럼 패치🍀",
+        "description": "속까지 자리 잡은 흔적\n7일 집중 케어\n\n흔적 세럼을 그대로 굳힌\nNEW #멜팅세럼패치 \n\n4분할 커스터마이징 쉐입으로\n넓은 부위부터 좁은 부위까지\n부위별 맞춤 케어 🍀☁️💛\n\n중요한 일정 전 D-7\n글루타치온 7 다크스팟 세럼 패치로 \n다크서클·톤·흔적 관리를 시작해보세요!\n\n\n#마녀공장 #글루타치온7다크스팟세럼패치 #흔적케어 #글루타치온패치 #글루타치온 #다크서클 #manyo #glutathione #darkspots \n\n\n*흔적 : 색소침착(기미, 주근깨 등), 톤 등 피부 표면에 옅게 보이는 흔적 \n*피부 겉/속(UV mode 에서 감지되는) 색소침착(기미, 잡티, 주근깨) 개선 평가 / ㈜마리디엠 피부과학연구소 / 2025.12.08 ~ 2025. 12.26 / 제품 사용 전, 1주 사용 후 및 2주 사용 후 비교 / 22~39세 성인남녀 20명 / 개인차 있음 \n* 피부 톤 균일도 개선 평가, 눈 밑 다크서클 개선 평가 /  ㈜마리디엠 피부과학연구소 / 2025.12.08 ~ 2025.12.26 / 제품 사용 전, 1주 사용 후 및 2주 사용 후 비교/ 22~39세 성인남녀 20명 / 개인차 있음",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M3loisIKAS4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M3loisIKAS4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M3loisIKAS4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M3loisIKAS4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M3loisIKAS4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "마녀공장 manyo",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "7일 집중 흔적 케어 | 글루타치온 멜팅 세럼 패치🍀",
+          "description": "속까지 자리 잡은 흔적\n7일 집중 케어\n\n흔적 세럼을 그대로 굳힌\nNEW #멜팅세럼패치 \n\n4분할 커스터마이징 쉐입으로\n넓은 부위부터 좁은 부위까지\n부위별 맞춤 케어 🍀☁️💛\n\n중요한 일정 전 D-7\n글루타치온 7 다크스팟 세럼 패치로 \n다크서클·톤·흔적 관리를 시작해보세요!\n\n\n#마녀공장 #글루타치온7다크스팟세럼패치 #흔적케어 #글루타치온패치 #글루타치온 #다크서클 #manyo #glutathione #darkspots \n\n\n*흔적 : 색소침착(기미, 주근깨 등), 톤 등 피부 표면에 옅게 보이는 흔적 \n*피부 겉/속(UV mode 에서 감지되는) 색소침착(기미, 잡티, 주근깨) 개선 평가 / ㈜마리디엠 피부과학연구소 / 2025.12.08 ~ 2025. 12.26 / 제품 사용 전, 1주 사용 후 및 2주 사용 후 비교 / 22~39세 성인남녀 20명 / 개인차 있음 \n* 피부 톤 균일도 개선 평가, 눈 밑 다크서클 개선 평가 /  ㈜마리디엠 피부과학연구소 / 2025.12.08 ~ 2025.12.26 / 제품 사용 전, 1주 사용 후 및 2주 사용 후 비교/ 22~39세 성인남녀 20명 / 개인차 있음"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "421",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LQMcax1k5G85qErRhozYqMqm2l8",
+      "id": "bMJtwUt4hCI",
+      "snippet": {
+        "publishedAt": "2026-02-23T03:20:00Z",
+        "channelId": "UCYsv-IHC-B-DiVMmJuqibcg",
+        "title": "피부가 뒤집어졌을땐 레이어랩 판테놀 세럼❗️ 올리브영 판매중",
+        "description": "레이어랩이 드디어 올리브영에 입점했습니다! \n역대급 혜택까지 준비했으니 지금 올리브영에서 레이어랩을 만나보세요\n\n✅레이어랩 올영 단독 브랜드 기획전\n✅할인 기간 : 2월 23일~2월 28일\n🔥선착순 특별 증정 혜택🔥\n🔥올영세일보다 더 큰 혜택🔥\n\n📍판테놀 5% 세럼 30ml [+3일치 선착순 증정]\n42,000원 ➡️ 29,900원 (⚡29% OFF)\n\n📍 기미흔적 클리어 세럼 30ml [+기미흔적 세럼 15ml 선착순 증정]\n47,000원 ➡️ 35,200원 (⚡26% OFF)\n\n🔥100% 증정하는 리뷰 이벤트🔥\n(판테놀 세럼 한하여) 할인 기간에 구매하시고 리뷰 남겨주시면 무조건 5천원 올영 상품권 증정!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bMJtwUt4hCI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bMJtwUt4hCI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bMJtwUt4hCI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bMJtwUt4hCI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bMJtwUt4hCI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "제이나 [Jaina]",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "피부가 뒤집어졌을땐 레이어랩 판테놀 세럼❗️ 올리브영 판매중",
+          "description": "레이어랩이 드디어 올리브영에 입점했습니다! \n역대급 혜택까지 준비했으니 지금 올리브영에서 레이어랩을 만나보세요\n\n✅레이어랩 올영 단독 브랜드 기획전\n✅할인 기간 : 2월 23일~2월 28일\n🔥선착순 특별 증정 혜택🔥\n🔥올영세일보다 더 큰 혜택🔥\n\n📍판테놀 5% 세럼 30ml [+3일치 선착순 증정]\n42,000원 ➡️ 29,900원 (⚡29% OFF)\n\n📍 기미흔적 클리어 세럼 30ml [+기미흔적 세럼 15ml 선착순 증정]\n47,000원 ➡️ 35,200원 (⚡26% OFF)\n\n🔥100% 증정하는 리뷰 이벤트🔥\n(판테놀 세럼 한하여) 할인 기간에 구매하시고 리뷰 남겨주시면 무조건 5천원 올영 상품권 증정!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "45689",
+        "likeCount": "437",
+        "favoriteCount": "0",
+        "commentCount": "86"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MmV-OpW20iTzAuM39O5W9RAEi54",
+      "id": "mZBdHu_Glpk",
+      "snippet": {
+        "publishedAt": "2026-02-27T17:30:13Z",
+        "channelId": "UC-XLPtYxEpl7ZFJou0nJHwQ",
+        "title": "광고❌ 좁쌀, 요철에 찐으로 효과본 올영 세럼 추천🤍",
+        "description": "요철/좁쌀 고민이면 꼭 한 번 써봐👀🤍\n\n\n✅ [넘버즈인] 1번 판토텐산 액티브업 수딩세럼\n- 흐르는 물 제형의 수딩세럼\n- 빠른 흡수력\n- 끈적X\n\n✅ [닥터자르트] 세라마이딘 스킨 베리어 모이스쳐 리커버리 세럼\n- 장벽강화 세라마이드 성분\n- 근본 문제 해결 가능..\n- 쫀쫀 화잘먹 가능\n\n✅ [닥터지] 레드 블레미쉬 클리어 히알 시카 수딩 세럼\n- 히알 성분에 쿨링효과\n- 요철은 물론 여드름에도 효과적\n- 수분크림이랑 시너지 굿\n\n\n#올리브영추천템 #올영세일 #세럼추천 #좁쌀세럼 #요철삭제",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mZBdHu_Glpk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mZBdHu_Glpk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mZBdHu_Glpk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mZBdHu_Glpk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mZBdHu_Glpk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "결씨 kyeol_see",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "광고❌ 좁쌀, 요철에 찐으로 효과본 올영 세럼 추천🤍",
+          "description": "요철/좁쌀 고민이면 꼭 한 번 써봐👀🤍\n\n\n✅ [넘버즈인] 1번 판토텐산 액티브업 수딩세럼\n- 흐르는 물 제형의 수딩세럼\n- 빠른 흡수력\n- 끈적X\n\n✅ [닥터자르트] 세라마이딘 스킨 베리어 모이스쳐 리커버리 세럼\n- 장벽강화 세라마이드 성분\n- 근본 문제 해결 가능..\n- 쫀쫀 화잘먹 가능\n\n✅ [닥터지] 레드 블레미쉬 클리어 히알 시카 수딩 세럼\n- 히알 성분에 쿨링효과\n- 요철은 물론 여드름에도 효과적\n- 수분크림이랑 시너지 굿\n\n\n#올리브영추천템 #올영세일 #세럼추천 #좁쌀세럼 #요철삭제"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "88173",
+        "likeCount": "2381",
+        "favoriteCount": "0",
+        "commentCount": "45"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5ak-UeUTmsc9vFApHZ3lsWEW-9w",
+      "id": "Fp0tpidMgHo",
+      "snippet": {
+        "publishedAt": "2026-02-05T10:45:00Z",
+        "channelId": "UCqrNqg3UgVoD3Sa-F_TxuSA",
+        "title": "(*Eng) 2026 앰플 1위는? 올리브영 1위템부터~ 30여종 구매 추천!! 단 1개의 앰플을 찾아라!ㅣBest Serums by Directorpi",
+        "description": "안녕하세요, 디렉터파이입니다.\n사전에 유료 광고로 제작되지 않았으나 영상 업로드 이후, 일부 브랜드사에서 사용 계약 요청이 올 경우 일정 기간 ‘엠블럼 라이선스’를 사용할 수 있으며 해당 내용이 추가됩니다. *엠블럼 사용 기간이 끝나면, 해당 내용은 삭제됩니다.\n\n00:00 인트로\n00:55 수분, 진정, 장벽 앰플\n03:15 흔적, 톤 개선 앰플\n07:12 피지, 각질 개선 앰플\n10:11 모공 탄력/리프팅/영양 앰플\n15:46 TOP of TOP\n15:51 ∟수분, 진정+장벽 개선 TOP\n17:18 ∟여드름 진정+흔적 개선 TOP\n18:49 ∟여드름 진정+흔적 개선 TOP (저강도) \n19:38 ∟트러블 진정+톤 개선(미백) TOP\n21:01 ∟트러블 진정+톤 개선(미백) TOP (저강도) \n22:09 ∟모공 탄력/리프팅 TOP\n\n※본 영상 내 제품 용량과 가격은 공식 홈페이지를 기준으로 명기하고 있습니다. 따라서 유통처에 따라 제품 용량과 가격이 상이할 수 있습니다.\n\n✔ 2025-2026 앰플 리스트\n닥터지 레드 블레미쉬 클리어 수딩 액티브 에센스 80ml / 40,000원 \nDr.G R.E.D BLEMISH Clear Soothing Active Essence \n\n에스트라 아토베리어365 세라-히알 속수분 앰플 30ml / 33,000원\nAESTURA ATOBARRIER365 HYDRO CERA-HA AMPOULE\n\n토리든 다이브인 저분자 히알루론산 세럼 50ml / 22,000원 \nTorriden DIVE IN Low Molecular Hyaluronic Acid Serum\n\n브이티 글루카뮨 에센스 100ml / 23,000원\nVT GLUCAMUNE ESSENCE\n\n듀이트리 AC 딥 장벽 진정 앰플 60ml / 32,000원\nDEWYTREE AC DEEP MOISTURE BARRIER CALMING AMPOULE\n\n퍼셀 880억/mL 글루타치온 플렉서블 리포좀 30ml / 45,000원 \nPURCELL 88B/mL L-GLUTATHIONE FLEXIBLE LIPOSOME \n\n듀이트리 AC 딥 흔적 진정 앰플 60ml / 28,000원\nDEWYTREE AC DEEP BLEMISH CALMING AMPOULE \n\n아벤느 히알루론 액티브 B3 안티에이징 세럼 30ml / 55,000원\nAvene HYALURON ACTIV B3 Serum\n\n코스알엑스 더 알파-알부틴 2 디스컬러레이션 케어 세럼 50ml / 23,000원 \nCOSRX The Alpha-Arbutin 2 Discoloration Care Serum \n\n코스알엑스 더 나이아신아마이드 15 세럼 20ml / 23,000원\nCOSRX The Niacinamide 15 serum\n\n더마팩토리 나이아신아마이드 20% 세럼 30ml / 6,000원\nDerma factory niacinamide 20% serum \n\n라로슈포제 에빠끌라 울트라 컨센트레이티드 세럼 30ml / 51,000원 \nLA ROCHE POSAY ULTRA CONCENTRATED SERUM \n\n미모 바이 마몽드 로지-히알론 수분 앰플 50ml / 5,000원\nMIMO by MAMONDE Rosy-Hyalon MOLST AMPOULE\n\n아비브 어성초 테카 캡슐 세럼 카밍드롭 50ml / 32,000원 \nAbib Heartleaf TECA capsule serum Calming drop \n\n에스트라 에이시카 365 세럼 pH 4.5 *리뉴얼 40ml / 38,000원 \nAESTURA A-CICA365 SOOTHING RELIEF SERUM pH 4.5 \n\n셀라딕스 트러블 세범 리밸런싱 RX 131 앰플 30ml / 50,000원 \nCelladix Trouble Sebum Rebalancing 131 Ampoule \n\n샤넬 N°1 DE CHANEL 레드 까멜리아 리바이탈라이징 세럼 30ml / 167,000원\nN°1 DE CHANEL REVITALIZING SERUM\n\n성분에디터 그린토마토 NMN 포어 리프팅 앰플 40ml / 28,000원\nSUNGBOOM EDITOR Green Tomato NMN Pore Lifting Ampoule\n\n바이오던스 포어 퍼펙팅 콜라겐 펩타이드 세럼 30ml / 32,000원 \nBiodance PORE PERFECTING COLLAGEN PEPTIDE SERUM \n\n메디힐 PDRN 모공 탄력 세럼 40ml / 22,000원 \nMEDIHEAL PDRN LIFTING SERUM \n\n메디큐브 PDRN 핑크 펩타이드 앰플 30ml / 41,400원 \nmedicube PDRN PINK PEPTIDE SERUM \n\n리덴스 톤앤스팟 코렉터 앰플 30ml / 39,900원 \nRe:dence tone & spot corrector ampoule \n\n바이오힐 보 엔에이디 프리즈셀 글로우 파워 세럼 30ml / 39,000원 \nBIO HEAL BOH NAD-PRIZCELL™ GLOW POWER SERUM\n\n아이오페 XMD 스템3 클리니컬 리커버리 세럼 30ml / 63,000원 \nIOPE XMD STEM III CLINICAL RECOVERY SERUM \n\n랑콤 제니피끄 얼티미트 세럼 50ml / 198,000원 \nLANCOME GENIFIQUE ULTIMATE SERUM\n\n유세린 하이알루론 에피셀린 세럼 30ml / 69,000원\nEucerin HYALURON EPICELLINE SERUM\n\n✔기존 리뷰 제품\n웰라쥬 리얼 히알루로닉 블루100 앰플 100ml / 30,000원 \nWELLAGE REAL HYALURONIC BLUE AMPOULE \n\n비플레인 녹두 모공 타이트업 세럼 30ml / 24,000원\nbeplain MUNG BEAN PORE TIGHT-UP SERUM\n\n브링그린 징크테카 트러블 세럼 25ml / 22,000원 \nBRING GREEN ZINC TECA BLEMISH SERUM \n\n브이티 티엑스토닝 에센스 1000샷 30ml / 28,000원\nVT TX-toning Essence 1000 Shot\n\n에스트라 리제덤365 모공탄력 캡슐세럼 30ml / 48,000원\nAESTURA REGEDERM365 SKIN TIGHTENING CAPSULE SERUM \n\n아이오페 PDRN 카페인 샷 앰플 30ml / 50,000원 \nIOPE PDRN CAFFEINE SHOT\n──────────────────────────────────────── \nContact us! \n더파이 공식몰 (디렉터파이 MADE) https://thephi.co.kr/ \nBLOG http://blog.naver.com/brainpi \nINSTAGRAM https://www.instagram.com/directorpi__/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fp0tpidMgHo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fp0tpidMgHo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fp0tpidMgHo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fp0tpidMgHo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fp0tpidMgHo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "디렉터파이",
+        "tags": [
+          "디렉터파이앰플",
+          "세럼",
+          "에센스",
+          "앰플세럼에센스",
+          "2025앰플TOT"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "(*Eng) 2026 앰플 1위는? 올리브영 1위템부터~ 30여종 구매 추천!! 단 1개의 앰플을 찾아라!ㅣBest Serums by Directorpi",
+          "description": "안녕하세요, 디렉터파이입니다.\n사전에 유료 광고로 제작되지 않았으나 영상 업로드 이후, 일부 브랜드사에서 사용 계약 요청이 올 경우 일정 기간 ‘엠블럼 라이선스’를 사용할 수 있으며 해당 내용이 추가됩니다. *엠블럼 사용 기간이 끝나면, 해당 내용은 삭제됩니다.\n\n00:00 인트로\n00:55 수분, 진정, 장벽 앰플\n03:15 흔적, 톤 개선 앰플\n07:12 피지, 각질 개선 앰플\n10:11 모공 탄력/리프팅/영양 앰플\n15:46 TOP of TOP\n15:51 ∟수분, 진정+장벽 개선 TOP\n17:18 ∟여드름 진정+흔적 개선 TOP\n18:49 ∟여드름 진정+흔적 개선 TOP (저강도) \n19:38 ∟트러블 진정+톤 개선(미백) TOP\n21:01 ∟트러블 진정+톤 개선(미백) TOP (저강도) \n22:09 ∟모공 탄력/리프팅 TOP\n\n※본 영상 내 제품 용량과 가격은 공식 홈페이지를 기준으로 명기하고 있습니다. 따라서 유통처에 따라 제품 용량과 가격이 상이할 수 있습니다.\n\n✔ 2025-2026 앰플 리스트\n닥터지 레드 블레미쉬 클리어 수딩 액티브 에센스 80ml / 40,000원 \nDr.G R.E.D BLEMISH Clear Soothing Active Essence \n\n에스트라 아토베리어365 세라-히알 속수분 앰플 30ml / 33,000원\nAESTURA ATOBARRIER365 HYDRO CERA-HA AMPOULE\n\n토리든 다이브인 저분자 히알루론산 세럼 50ml / 22,000원 \nTorriden DIVE IN Low Molecular Hyaluronic Acid Serum\n\n브이티 글루카뮨 에센스 100ml / 23,000원\nVT GLUCAMUNE ESSENCE\n\n듀이트리 AC 딥 장벽 진정 앰플 60ml / 32,000원\nDEWYTREE AC DEEP MOISTURE BARRIER CALMING AMPOULE\n\n퍼셀 880억/mL 글루타치온 플렉서블 리포좀 30ml / 45,000원 \nPURCELL 88B/mL L-GLUTATHIONE FLEXIBLE LIPOSOME \n\n듀이트리 AC 딥 흔적 진정 앰플 60ml / 28,000원\nDEWYTREE AC DEEP BLEMISH CALMING AMPOULE \n\n아벤느 히알루론 액티브 B3 안티에이징 세럼 30ml / 55,000원\nAvene HYALURON ACTIV B3 Serum\n\n코스알엑스 더 알파-알부틴 2 디스컬러레이션 케어 세럼 50ml / 23,000원 \nCOSRX The Alpha-Arbutin 2 Discoloration Care Serum \n\n코스알엑스 더 나이아신아마이드 15 세럼 20ml / 23,000원\nCOSRX The Niacinamide 15 serum\n\n더마팩토리 나이아신아마이드 20% 세럼 30ml / 6,000원\nDerma factory niacinamide 20% serum \n\n라로슈포제 에빠끌라 울트라 컨센트레이티드 세럼 30ml / 51,000원 \nLA ROCHE POSAY ULTRA CONCENTRATED SERUM \n\n미모 바이 마몽드 로지-히알론 수분 앰플 50ml / 5,000원\nMIMO by MAMONDE Rosy-Hyalon MOLST AMPOULE\n\n아비브 어성초 테카 캡슐 세럼 카밍드롭 50ml / 32,000원 \nAbib Heartleaf TECA capsule serum Calming drop \n\n에스트라 에이시카 365 세럼 pH 4.5 *리뉴얼 40ml / 38,000원 \nAESTURA A-CICA365 SOOTHING RELIEF SERUM pH 4.5 \n\n셀라딕스 트러블 세범 리밸런싱 RX 131 앰플 30ml / 50,000원 \nCelladix Trouble Sebum Rebalancing 131 Ampoule \n\n샤넬 N°1 DE CHANEL 레드 까멜리아 리바이탈라이징 세럼 30ml / 167,000원\nN°1 DE CHANEL REVITALIZING SERUM\n\n성분에디터 그린토마토 NMN 포어 리프팅 앰플 40ml / 28,000원\nSUNGBOOM EDITOR Green Tomato NMN Pore Lifting Ampoule\n\n바이오던스 포어 퍼펙팅 콜라겐 펩타이드 세럼 30ml / 32,000원 \nBiodance PORE PERFECTING COLLAGEN PEPTIDE SERUM \n\n메디힐 PDRN 모공 탄력 세럼 40ml / 22,000원 \nMEDIHEAL PDRN LIFTING SERUM \n\n메디큐브 PDRN 핑크 펩타이드 앰플 30ml / 41,400원 \nmedicube PDRN PINK PEPTIDE SERUM \n\n리덴스 톤앤스팟 코렉터 앰플 30ml / 39,900원 \nRe:dence tone & spot corrector ampoule \n\n바이오힐 보 엔에이디 프리즈셀 글로우 파워 세럼 30ml / 39,000원 \nBIO HEAL BOH NAD-PRIZCELL™ GLOW POWER SERUM\n\n아이오페 XMD 스템3 클리니컬 리커버리 세럼 30ml / 63,000원 \nIOPE XMD STEM III CLINICAL RECOVERY SERUM \n\n랑콤 제니피끄 얼티미트 세럼 50ml / 198,000원 \nLANCOME GENIFIQUE ULTIMATE SERUM\n\n유세린 하이알루론 에피셀린 세럼 30ml / 69,000원\nEucerin HYALURON EPICELLINE SERUM\n\n✔기존 리뷰 제품\n웰라쥬 리얼 히알루로닉 블루100 앰플 100ml / 30,000원 \nWELLAGE REAL HYALURONIC BLUE AMPOULE \n\n비플레인 녹두 모공 타이트업 세럼 30ml / 24,000원\nbeplain MUNG BEAN PORE TIGHT-UP SERUM\n\n브링그린 징크테카 트러블 세럼 25ml / 22,000원 \nBRING GREEN ZINC TECA BLEMISH SERUM \n\n브이티 티엑스토닝 에센스 1000샷 30ml / 28,000원\nVT TX-toning Essence 1000 Shot\n\n에스트라 리제덤365 모공탄력 캡슐세럼 30ml / 48,000원\nAESTURA REGEDERM365 SKIN TIGHTENING CAPSULE SERUM \n\n아이오페 PDRN 카페인 샷 앰플 30ml / 50,000원 \nIOPE PDRN CAFFEINE SHOT\n──────────────────────────────────────── \nContact us! \n더파이 공식몰 (디렉터파이 MADE) https://thephi.co.kr/ \nBLOG http://blog.naver.com/brainpi \nINSTAGRAM https://www.instagram.com/directorpi__/"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT26M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "371495",
+        "likeCount": "3894",
+        "favoriteCount": "0",
+        "commentCount": "229"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CK6gv4hjQHS6GoJ2ViT7tYHFvvA",
+      "id": "EVqA5A54DJ8",
+      "snippet": {
+        "publishedAt": "2026-02-28T10:16:01Z",
+        "channelId": "UCff7sQ_kjCEPZvr8h8US8ww",
+        "title": "직접써보고 진짜 효과본 모공세럼🔥 올리브영 모공관리 세럼앰플 추천템👍🏻",
+        "description": "직접써보고 진짜 효과본 모공세럼🔥\n올리브영 모공관리 세럼앰플 추천템👍🏻\n\n✅ 모공세럼 추천 저장해놓고 꺼내보기..🔍\n여러분! 3월 올영세일 추천템 갖고 왔습니다. \n올리브영 세럼추천 이겁니다. 모공세럼 추천 이겁니다. \n\n피부 쫀쫀해지는 느낌이 남달라요. \n그리고 쿨링감이 진짜 레전드입니다. \n완전 추천. 쿨링+모공세럼 이거 완전 기절조합. \n\n이번 올영세일 세럼추천 일단 이거 장바구니구니 하세요. \n조선미녀 ^^ 해외에서 인기있는데에는 다 이유가 있었다. (소근소근) 제품력이 max네요. \n모공관리 추천템, 조선미녀 붉은팥 PDRN 모공탄력 세럼. 탕탕탕.\n\n🔥구독 한 번으로 앞으로 이런 뷰티 꿀팁들 누구보다 가장 빠르게 만나보세요💙\n\n👉🏻제품 정보\n조선미녀 붉은팥 PDRN 모공탄력 세럼\nBEAUTY OF JOSEON Red Bean PDRN Pore Firming Serum\n\n#조선미녀 #붉은팥PDRN모공탄력세럼 #올리브영모공세럼 #모공사냥세럼 \n#세럼 #세럼추천 #미백세럼 #흔적세럼 #올영세일 #올영세일추천템 #올리브영추천템 #모공세럼 #모공관리 #모공앰플 #모공추천템 #모공사냥세럼",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EVqA5A54DJ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EVqA5A54DJ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EVqA5A54DJ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EVqA5A54DJ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EVqA5A54DJ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "화니 HWAN'E",
+        "tags": [
+          "올영세일",
+          "올영 세일",
+          "세럼 추천",
+          "세럼추천",
+          "앰플추천",
+          "앰플 추천",
+          "모공세럼",
+          "모공 세럼",
+          "모공세럼 추천",
+          "모공앰플",
+          "모공 앰플 추천",
+          "모공 세럼 추천",
+          "모공관리",
+          "모공 관리",
+          "모공관리 세럼",
+          "모공관리 앰플",
+          "모공관리 추천템",
+          "올리브영 추천템",
+          "올리브영 추천",
+          "올리브영 모공 추천템",
+          "올영 모공 추천템",
+          "모공 추천템",
+          "스킨케어",
+          "skincare",
+          "k-beauty",
+          "oliveyoung serum"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "직접써보고 진짜 효과본 모공세럼🔥 올리브영 모공관리 세럼앰플 추천템👍🏻",
+          "description": "직접써보고 진짜 효과본 모공세럼🔥\n올리브영 모공관리 세럼앰플 추천템👍🏻\n\n✅ 모공세럼 추천 저장해놓고 꺼내보기..🔍\n여러분! 3월 올영세일 추천템 갖고 왔습니다. \n올리브영 세럼추천 이겁니다. 모공세럼 추천 이겁니다. \n\n피부 쫀쫀해지는 느낌이 남달라요. \n그리고 쿨링감이 진짜 레전드입니다. \n완전 추천. 쿨링+모공세럼 이거 완전 기절조합. \n\n이번 올영세일 세럼추천 일단 이거 장바구니구니 하세요. \n조선미녀 ^^ 해외에서 인기있는데에는 다 이유가 있었다. (소근소근) 제품력이 max네요. \n모공관리 추천템, 조선미녀 붉은팥 PDRN 모공탄력 세럼. 탕탕탕.\n\n🔥구독 한 번으로 앞으로 이런 뷰티 꿀팁들 누구보다 가장 빠르게 만나보세요💙\n\n👉🏻제품 정보\n조선미녀 붉은팥 PDRN 모공탄력 세럼\nBEAUTY OF JOSEON Red Bean PDRN Pore Firming Serum\n\n#조선미녀 #붉은팥PDRN모공탄력세럼 #올리브영모공세럼 #모공사냥세럼 \n#세럼 #세럼추천 #미백세럼 #흔적세럼 #올영세일 #올영세일추천템 #올리브영추천템 #모공세럼 #모공관리 #모공앰플 #모공추천템 #모공사냥세럼"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "96933",
+        "likeCount": "233",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OemXT4VBWKlsQahjU3Ef4OgxlxE",
+      "id": "Bd6zpAprGxM",
+      "snippet": {
+        "publishedAt": "2026-02-02T06:12:13Z",
+        "channelId": "UCfFo326wAvcCw_hn6u7OvFw",
+        "title": "아로셀 수퍼 콜라겐 버블 세럼 마스크 #버블세럼 #화잘먹 #아로셀 #슈퍼콜라겐 #버블세럼 #올영픽",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bd6zpAprGxM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bd6zpAprGxM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bd6zpAprGxM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bd6zpAprGxM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bd6zpAprGxM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소찌마미",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "아로셀 수퍼 콜라겐 버블 세럼 마스크 #버블세럼 #화잘먹 #아로셀 #슈퍼콜라겐 #버블세럼 #올영픽",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4105",
+        "likeCount": "9",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MghA0nj-Krv6vX_iU-7pTwyv7Ss",
+      "id": "F6c284lxbBQ",
+      "snippet": {
+        "publishedAt": "2026-02-28T23:33:21Z",
+        "channelId": "UCQt1DGijDdForV2fE8qYHwQ",
+        "title": "절대 안뜨는 화장먹 치트키템 ?! #제품제공 #아비브 #부활초세럼 #부활초크림 #올영추천템",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F6c284lxbBQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F6c284lxbBQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F6c284lxbBQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F6c284lxbBQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F6c284lxbBQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "채은",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "절대 안뜨는 화장먹 치트키템 ?! #제품제공 #아비브 #부활초세럼 #부활초크림 #올영추천템",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "30538",
+        "likeCount": "711",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BTCDSHjBNy8icCoWCEm37UelcrU",
+      "id": "Sown4vGiZW4",
+      "snippet": {
+        "publishedAt": "2026-02-01T23:58:02Z",
+        "channelId": "UC3RaX8SIFWzjR00xUq0m0Ow",
+        "title": "SulwhasooㅣLumiwise Brightening Ampoule Serum (자정앰플세럼)ㅣ다시 짙어지지 않고 맑게 이어지는 피부 (15s VERSION)",
+        "description": "설화수의 새로운 브라이트닝\nNEW 자정앰플세럼\n\n시간이 지남에 따라 짙어지는\n피부 속 멜라닌 과증식을 바로 잡아주는\n자정앰플세럼으로다시 짙어지지 않고*\n맑게 이어지는 피부를 경험하세요\n\n* 사용 중단 1주 후 색소 침착 개선 유지 인체 적용 시험 결과, \n시험기간: 2024.10.28 ~ 2024.12.31, 시험대상: 30~55세 여성 31명\n\nSulwhasoo \nNEW Lumiwise Brightening Ampoule Serum\n\nVisibly brighten dark spots and \nenhance clarity for luminous skin\n\nCORRECT SIGNS OF DARK SPOTS TODAY.​​\nFORTIFY RADIANCE FOR TOMORROW.​\n\n#설화수 #sulwhasoo #자정앰플세럼 #LumiwiseBrighteningAmpouleSerum #임윤아 #LIMYOONA #BeLuminousWisely",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sown4vGiZW4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sown4vGiZW4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sown4vGiZW4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Sown4vGiZW4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Sown4vGiZW4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sulwhasoo",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "SulwhasooㅣLumiwise Brightening Ampoule Serum (자정앰플세럼)ㅣ다시 짙어지지 않고 맑게 이어지는 피부 (15s VERSION)",
+          "description": "설화수의 새로운 브라이트닝\nNEW 자정앰플세럼\n\n시간이 지남에 따라 짙어지는\n피부 속 멜라닌 과증식을 바로 잡아주는\n자정앰플세럼으로다시 짙어지지 않고*\n맑게 이어지는 피부를 경험하세요\n\n* 사용 중단 1주 후 색소 침착 개선 유지 인체 적용 시험 결과, \n시험기간: 2024.10.28 ~ 2024.12.31, 시험대상: 30~55세 여성 31명\n\nSulwhasoo \nNEW Lumiwise Brightening Ampoule Serum\n\nVisibly brighten dark spots and \nenhance clarity for luminous skin\n\nCORRECT SIGNS OF DARK SPOTS TODAY.​​\nFORTIFY RADIANCE FOR TOMORROW.​\n\n#설화수 #sulwhasoo #자정앰플세럼 #LumiwiseBrighteningAmpouleSerum #임윤아 #LIMYOONA #BeLuminousWisely"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3873874",
+        "likeCount": "1175",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cKCAdCzhu0NQivOsCDqMjJ6cNBY",
+      "id": "6XSB23O5BbQ",
+      "snippet": {
+        "publishedAt": "2026-02-28T09:03:58Z",
+        "channelId": "UCvqdSTuGXEUQPeEJPQHy9yA",
+        "title": "올영세일 구달 신상 #핑크광채세럼🩷 #구달 #세럼추천 #올리브영",
+        "description": "번들거리는 기름광 말고,\n속부터 맑게 차오르는 광 원했던 사람? ✨\n\n요즘 제 최애 #핑크광채세럼 💕\n칙칙한 무광 피부에 맑은 광채 채우기 가능✅\n\n셀프 캡슐 제형이라 겉도는 느낌 없이 속광 완성 🤍\n\n✔ 3월 한달 올영픽 할인 진행\n✔ 이번 기획세트에서만 만날 수 있는 TXA 광채 미스트 포함! (수시로 뿌려주면 광 시너지💦)\n\n하이라이터 없이 자연스러운 속광 피부 연출하고 싶다면 추천드려요⭐️",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6XSB23O5BbQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6XSB23O5BbQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6XSB23O5BbQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6XSB23O5BbQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6XSB23O5BbQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양뷰",
+        "tags": [
+          "올리브영",
+          "올영",
+          "핑크",
+          "세럼",
+          "구달",
+          "구달 세럼",
+          "메이크업",
+          "속광",
+          "make up",
+          "스킨케어",
+          "케어",
+          "추천",
+          "추천템",
+          "쇼츠",
+          "shorts",
+          "쇼핑",
+          "신상",
+          "리뷰",
+          "양산형",
+          "뷰티",
+          "화장품"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "올영세일 구달 신상 #핑크광채세럼🩷 #구달 #세럼추천 #올리브영",
+          "description": "번들거리는 기름광 말고,\n속부터 맑게 차오르는 광 원했던 사람? ✨\n\n요즘 제 최애 #핑크광채세럼 💕\n칙칙한 무광 피부에 맑은 광채 채우기 가능✅\n\n셀프 캡슐 제형이라 겉도는 느낌 없이 속광 완성 🤍\n\n✔ 3월 한달 올영픽 할인 진행\n✔ 이번 기획세트에서만 만날 수 있는 TXA 광채 미스트 포함! (수시로 뿌려주면 광 시너지💦)\n\n하이라이터 없이 자연스러운 속광 피부 연출하고 싶다면 추천드려요⭐️"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "25247",
+        "likeCount": "184",
+        "favoriteCount": "0",
+        "commentCount": "39"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5GanqJ5raEUHmpxHuh1CC-fNQVk",
+      "id": "UdAbtVv-mRg",
+      "snippet": {
+        "publishedAt": "2026-02-27T08:00:39Z",
+        "channelId": "UCT6W2AUy8If3fN1OoKIFUsg",
+        "title": "\"만원의 기적, 보이면 사야합니다\" 주름 지우는 올영 보습 종결템 5가지 추천!",
+        "description": "#올리브영 #올영세일 #올리브영추천템 #피부과전문의 #박경열\n\n안녕하세요. 박경열 원장입니다☺\n지난 번 다이소 추천템 잘 쓰고 계신가요? \n많은 분들이 올리브영 세일 전에 어떤 제품 사야될 지 고민하시는 것 같아서, 제가 직접 2주간 테스트 해봤습니다. \n정~말 좋은 보습제, 히알루론산 앰플, 클렌저, 미백세럼, 마스크팩을 여러분께 추천드립니다! 오늘도 영상 끝까지 보시고 꿀팁까지 많이 챙겨가세요 :D \n(광고X, 내돈내산O, 곧 3월 올영세일한다고 하니, 저렴한 가격에 득템하세요!)\n\n00:00 영상시작\n01:29 클렌징 제품 추천\n05:00 보습제 추천\n08:26 히알루론산 앰플 추천\n10:09 미백 세럼 추천\n11:43 마스크팩 추천\n12:55 원장님이 유튜브로 고민하는 이유\n13:56 마무리\n14:52 쿠키영상\n\n⬇ 피부과 전문의 박경열 원장님 정보\nhttps://naver.me/x2j1wxiy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UdAbtVv-mRg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UdAbtVv-mRg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UdAbtVv-mRg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UdAbtVv-mRg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UdAbtVv-mRg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "박경열의 피부상담소",
+        "tags": [
+          "올영",
+          "올영화장품",
+          "올영기초",
+          "올영추천템",
+          "올리브영추천템",
+          "올리브영화장품",
+          "올리브영세일",
+          "올리브영로션",
+          "올리브영보습제"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "\"만원의 기적, 보이면 사야합니다\" 주름 지우는 올영 보습 종결템 5가지 추천!",
+          "description": "#올리브영 #올영세일 #올리브영추천템 #피부과전문의 #박경열\n\n안녕하세요. 박경열 원장입니다☺\n지난 번 다이소 추천템 잘 쓰고 계신가요? \n많은 분들이 올리브영 세일 전에 어떤 제품 사야될 지 고민하시는 것 같아서, 제가 직접 2주간 테스트 해봤습니다. \n정~말 좋은 보습제, 히알루론산 앰플, 클렌저, 미백세럼, 마스크팩을 여러분께 추천드립니다! 오늘도 영상 끝까지 보시고 꿀팁까지 많이 챙겨가세요 :D \n(광고X, 내돈내산O, 곧 3월 올영세일한다고 하니, 저렴한 가격에 득템하세요!)\n\n00:00 영상시작\n01:29 클렌징 제품 추천\n05:00 보습제 추천\n08:26 히알루론산 앰플 추천\n10:09 미백 세럼 추천\n11:43 마스크팩 추천\n12:55 원장님이 유튜브로 고민하는 이유\n13:56 마무리\n14:52 쿠키영상\n\n⬇ 피부과 전문의 박경열 원장님 정보\nhttps://naver.me/x2j1wxiy"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT16M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "661429",
+        "likeCount": "11182",
+        "favoriteCount": "0",
+        "commentCount": "305"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "oeVXZX3dR33SyJw5l8Ej_IwxHdA",
+      "id": "g1du-ZJ0yGc",
+      "snippet": {
+        "publishedAt": "2026-03-02T11:42:40Z",
+        "channelId": "UCa7Da-TmIoXbyjBCx9pvv4g",
+        "title": "찐 화잘먹 세럼 찾았다. #톤28 #화잘먹세럼",
+        "description": "#화잘먹세럼 #올영세일추천템 #올영세럼추천 ​⁠  #TOUN28 #톤28 #올리브영 #크림앤세럼 #화잘먹 #화잘먹세럼 #말차라떼세럼 #KBEAUTY",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g1du-ZJ0yGc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g1du-ZJ0yGc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g1du-ZJ0yGc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g1du-ZJ0yGc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g1du-ZJ0yGc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지니츄",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "찐 화잘먹 세럼 찾았다. #톤28 #화잘먹세럼",
+          "description": "#화잘먹세럼 #올영세일추천템 #올영세럼추천 ​⁠  #TOUN28 #톤28 #올리브영 #크림앤세럼 #화잘먹 #화잘먹세럼 #말차라떼세럼 #KBEAUTY"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8610",
+        "likeCount": "31",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EITG5X5AAUWR2vs1PhNAINKTuHI",
+      "id": "BFEWsho3ex4",
+      "snippet": {
+        "publishedAt": "2026-03-17T08:21:27Z",
+        "channelId": "UCK7v-eIsfif6b-Df8jJ343Q",
+        "title": "99%가 모르는 세럼 제대로 쓰는 법",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BFEWsho3ex4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BFEWsho3ex4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BFEWsho3ex4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BFEWsho3ex4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BFEWsho3ex4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "일타의사 박영진",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "99%가 모르는 세럼 제대로 쓰는 법",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "23657",
+        "likeCount": "200",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NyCxr2i3Nq7O-hpo09-TWBCB9jQ",
+      "id": "_mmlp4zwBpM",
+      "snippet": {
+        "publishedAt": "2026-03-08T10:30:17Z",
+        "channelId": "UCb8_UiUdnM9S7r1aYPAsSMw",
+        "title": "✨피부 타입별 딱 맞는 인생 세럼 추천💧",
+        "description": "1️⃣ 지성+좁쌀 : 라운드랩 소나무 진정 세럼🌲\n진정 속도가 진짜 미쳤어용!\n소나무 추출물과 시카 성분의 황금 비율로 좁쌀 여드름을 싹~ 잠재워줘요\n끈적임 1도 없는 산뜻한 제형이라 지성 언니들 무조건 쟁이세요!\n\n2️⃣ 수부지 : 웰라쥬 리얼 히알루로닉 앰플💧\n벌써 5통째 비운 찐 공병템!\n물처럼 흐르는 제형이 속건조를 꽉 잡아주는데\n잔여감 없이 쏙 흡수돼요\n대용량이라 팍팍 써도 부담 없는 가성비 끝판왕!\n\n3️⃣ 건성 : 토리든 다이브인 저분자 히알루론산 세럼🌊\n수분 폭탄이 팡팡!💣\n쫀쫀한 콧물 제형이 피부에 얇은 수분 팩을 얹은 것처럼 속을 꽉 채워줘요\n자극 없이 순해서 모든 피부 타입에 찰떡궁합!\n\n4️⃣ 악건성 : 더마토리 히알샷 베리어 앰플✨\n겉만 번들거리는 가짜 광X\n묻어남 없이 속에서부터 뿜어져 나오는 찐 속광이 장난 아니에요\n한 번만 발라도 수분이 꽉 차오르는 느낌이 대박!\n\n5️⃣ 트러블+민감 : 브링그린 징크테카 트러블 세럼🌿\n트러블이랑 흔적 케어를 동시에!\n성분부터 작정하고 트러블 전용으로 만든 제품이에요\n가볍고 순한 사용감으로 예민해진 피부 컨디션을 순식간에 회복시켜준답니다!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_mmlp4zwBpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_mmlp4zwBpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_mmlp4zwBpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_mmlp4zwBpM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_mmlp4zwBpM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "헤블 HEBLE",
+        "tags": [
+          "뷰티",
+          "예뻐지는법",
+          "수분크림",
+          "피부관리",
+          "홈케어루틴",
+          "홈케어",
+          "에스테틱",
+          "피부좋아지는법",
+          "여드름",
+          "모공",
+          "쿠팡"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "✨피부 타입별 딱 맞는 인생 세럼 추천💧",
+          "description": "1️⃣ 지성+좁쌀 : 라운드랩 소나무 진정 세럼🌲\n진정 속도가 진짜 미쳤어용!\n소나무 추출물과 시카 성분의 황금 비율로 좁쌀 여드름을 싹~ 잠재워줘요\n끈적임 1도 없는 산뜻한 제형이라 지성 언니들 무조건 쟁이세요!\n\n2️⃣ 수부지 : 웰라쥬 리얼 히알루로닉 앰플💧\n벌써 5통째 비운 찐 공병템!\n물처럼 흐르는 제형이 속건조를 꽉 잡아주는데\n잔여감 없이 쏙 흡수돼요\n대용량이라 팍팍 써도 부담 없는 가성비 끝판왕!\n\n3️⃣ 건성 : 토리든 다이브인 저분자 히알루론산 세럼🌊\n수분 폭탄이 팡팡!💣\n쫀쫀한 콧물 제형이 피부에 얇은 수분 팩을 얹은 것처럼 속을 꽉 채워줘요\n자극 없이 순해서 모든 피부 타입에 찰떡궁합!\n\n4️⃣ 악건성 : 더마토리 히알샷 베리어 앰플✨\n겉만 번들거리는 가짜 광X\n묻어남 없이 속에서부터 뿜어져 나오는 찐 속광이 장난 아니에요\n한 번만 발라도 수분이 꽉 차오르는 느낌이 대박!\n\n5️⃣ 트러블+민감 : 브링그린 징크테카 트러블 세럼🌿\n트러블이랑 흔적 케어를 동시에!\n성분부터 작정하고 트러블 전용으로 만든 제품이에요\n가볍고 순한 사용감으로 예민해진 피부 컨디션을 순식간에 회복시켜준답니다!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "66491",
+        "likeCount": "803",
+        "favoriteCount": "0",
+        "commentCount": "15"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yrhMAD5XBuAKnJfRyULoKr75zSg",
+      "id": "Ct9sebZauhA",
+      "snippet": {
+        "publishedAt": "2026-03-08T10:00:28Z",
+        "channelId": "UCdLwMtqz0GwDXRPO_bgKwbw",
+        "title": "광고❌ 여드름 종류별 트러블 세럼 추천 💚",
+        "description": "여드름도 종류마다 관리법이 다르다는 거 알고 있었나요? 👀 \n피부과 안 가고 홈케어 할 때 \n트러블 종류별로 세럼만 바꿔도 효과가 달라요!\n\n🔴 초기 붉은 여드름 → 파티온\n🦠 모낭염·화농성 → 브링그린\n⚪ 좁쌀·피지형 → 토리든\n🌡 건성 붉은 여드름 → 아비브\n💧 예민 붉은 여드름 → 닥터지\n🧴 건조성 여드름 → 파넬\n\n같은 여드름이라도 내 피부 타입에 맞는 트러블 케어가 진짜 중요합니다!저장해두고 참고하세요 ✔️\n\n#여드름관리 #트러블케어 #여드름세럼 #여드름추천 #좁쌀여드름 #모낭염 #화농성여드름 #피부관리 #피부꿀팁 #올리브영추천 #여드름피부 #민감성피부 #스킨케어추천 #여드름홈케어 #트러블세럼",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ct9sebZauhA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ct9sebZauhA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ct9sebZauhA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ct9sebZauhA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ct9sebZauhA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리뷰히",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "광고❌ 여드름 종류별 트러블 세럼 추천 💚",
+          "description": "여드름도 종류마다 관리법이 다르다는 거 알고 있었나요? 👀 \n피부과 안 가고 홈케어 할 때 \n트러블 종류별로 세럼만 바꿔도 효과가 달라요!\n\n🔴 초기 붉은 여드름 → 파티온\n🦠 모낭염·화농성 → 브링그린\n⚪ 좁쌀·피지형 → 토리든\n🌡 건성 붉은 여드름 → 아비브\n💧 예민 붉은 여드름 → 닥터지\n🧴 건조성 여드름 → 파넬\n\n같은 여드름이라도 내 피부 타입에 맞는 트러블 케어가 진짜 중요합니다!저장해두고 참고하세요 ✔️\n\n#여드름관리 #트러블케어 #여드름세럼 #여드름추천 #좁쌀여드름 #모낭염 #화농성여드름 #피부관리 #피부꿀팁 #올리브영추천 #여드름피부 #민감성피부 #스킨케어추천 #여드름홈케어 #트러블세럼"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "245258",
+        "likeCount": "3342",
+        "favoriteCount": "0",
+        "commentCount": "37"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CUC-w4VNvx1-JZlM6VSzPXKsW9A",
+      "id": "UklewSp0uX0",
+      "snippet": {
+        "publishedAt": "2026-03-04T11:06:21Z",
+        "channelId": "UCJ1Mdr2ITlYfc5Qf4hcUySA",
+        "title": "세럼 바를 때 최악의 실수들",
+        "description": "#스킨케어 #피부관리 #속건조 #보습 #세럼 #앰플 \n세수하고 얼굴 바짝 말린 상태에서 수분 세럼 바르시나요? 당장 멈추세요! 🚫\n\n오히려 내 피부 깊은 곳의 수분까지 빼앗겨 순식간에 노화를 앞당기는 최악의 실수입니다.\n\n수분 세럼 효과를 200% 끌어올리는 진짜 보습의 원리, 확실한 데이터로 알려드립니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UklewSp0uX0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UklewSp0uX0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UklewSp0uX0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UklewSp0uX0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UklewSp0uX0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아토피키 : 30년 아토피 생존 스킨케어",
+        "tags": [
+          "수분세럼",
+          "히알루론산",
+          "피부건조",
+          "속당김",
+          "세럼바르는법",
+          "스킨케어실수",
+          "피부노화",
+          "보습꿀팁",
+          "피부장벽",
+          "화장품바르는순서",
+          "수분앰플",
+          "민감성피부",
+          "아토피키",
+          "스킨케어루틴",
+          "올바른스킨케어"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "세럼 바를 때 최악의 실수들",
+          "description": "#스킨케어 #피부관리 #속건조 #보습 #세럼 #앰플 \n세수하고 얼굴 바짝 말린 상태에서 수분 세럼 바르시나요? 당장 멈추세요! 🚫\n\n오히려 내 피부 깊은 곳의 수분까지 빼앗겨 순식간에 노화를 앞당기는 최악의 실수입니다.\n\n수분 세럼 효과를 200% 끌어올리는 진짜 보습의 원리, 확실한 데이터로 알려드립니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1282",
+        "likeCount": "9",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "P7GjddYAzxf-M76QIo3f3j_nLNo",
+      "id": "5dIvW3XUoXA",
+      "snippet": {
+        "publishedAt": "2026-03-02T08:05:00Z",
+        "channelId": "UCBEvSDXPu2rsaI7pRV9W1UQ",
+        "title": "와.. 가격 이래도 돼 ⁉️ 저렴이 트러블 흔적세럼 3월 올영세일 만원 추천템💵",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5dIvW3XUoXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5dIvW3XUoXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5dIvW3XUoXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5dIvW3XUoXA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5dIvW3XUoXA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꼬다쾃 CODAQUATT",
+        "tags": [
+          "꼬다쾃",
+          "브이로그",
+          "올영세일",
+          "올리브영 세일",
+          "올영 세일 추천템",
+          "올리브영 세일 추천템",
+          "올영 추천템",
+          "올리브영 추천템",
+          "3월 올영세일",
+          "올영세일 추천템 학생",
+          "올영 추천템 학생",
+          "올리브영 추천템 학생",
+          "올영세일 만원이하 추천템",
+          "3월 올리브영 세일",
+          "올리브영 트러블",
+          "올영 트러블",
+          "여드름 없애는 법"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "와.. 가격 이래도 돼 ⁉️ 저렴이 트러블 흔적세럼 3월 올영세일 만원 추천템💵",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "15503",
+        "likeCount": "257",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SkTrsPYcIYECIgv3yRAoumBk8BE",
+      "id": "ByOVV69l0Ro",
+      "snippet": {
+        "publishedAt": "2026-03-08T12:17:16Z",
+        "channelId": "UCeOC_1yOLoTBxmWRuKKfMCg",
+        "title": "육아맘의 깔단걀피부 비법 #네리티아세럼파운데이션 #파운데이션추천 #메이크업 #꿀템",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ByOVV69l0Ro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ByOVV69l0Ro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ByOVV69l0Ro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ByOVV69l0Ro/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ByOVV69l0Ro/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "막내누나",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "육아맘의 깔단걀피부 비법 #네리티아세럼파운데이션 #파운데이션추천 #메이크업 #꿀템",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "12256",
+        "likeCount": "21",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vLnNs-U2gUHhVcTGJG_lBMRvDkI",
+      "id": "pUfWWycQcWU",
+      "snippet": {
+        "publishedAt": "2026-03-02T12:41:02Z",
+        "channelId": "UCD7NoUeFAHCNpOKlO2yLdZA",
+        "title": "올영세일 때 놓쳐서는 안될 템! 프리메라 비타티놀 세럼 PDRN 나이아-10 세럼 !! 미백 & 탄력이 고민이라면 프리메라 세럼으로 정착하세요 😍#올영세일",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pUfWWycQcWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pUfWWycQcWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pUfWWycQcWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pUfWWycQcWU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pUfWWycQcWU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "체서콩",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "올영세일 때 놓쳐서는 안될 템! 프리메라 비타티놀 세럼 PDRN 나이아-10 세럼 !! 미백 & 탄력이 고민이라면 프리메라 세럼으로 정착하세요 😍#올영세일",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": [
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "15480",
+        "likeCount": "21",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xCZAWm2K_oZHCW091j1nWgPAnvo",
+      "id": "myIIETc_fok",
+      "snippet": {
+        "publishedAt": "2026-03-17T11:01:30Z",
+        "channelId": "UCYsv-IHC-B-DiVMmJuqibcg",
+        "title": "요즘 잘나가는 BEST세럼 비교 분석❗(올리브영 1등템~😘) 피부별 제형별 맞는 세럼 찾기",
+        "description": "안녕하세요 제이나입니다. \n(광고❌) 오늘은 요즘 잘 판매되고 있고 잘나가고 있는 세럼들을 비교 분석해 드리려고 합니다☑️\n요즘 잘 판매되는 세럼들의 공통점은?\n특정 성분의 함유량도 다르고 부각된 기능도 조금씩 다르기 때문에\n나에게 필요한 기능을 판단하는 방법! 도와드릴게요. 렛츠고우👉\n\n00:00 인트로\n01:46 메디큐브 PDRN 핑크 앰플\n03:51 차앤박 더마앤서 액티브 부스트 PDRN 앰플\n05:53 아누아 피디알엔 히알루론산 캡슐 100 세럼\n08:01 아누아 피디알엔 히알루론산 수분 캡슐 미스트\n09:23 파티온 노스카나인 트러블 세럼\n10:54 메디힐 마데카소사이드 흔적 리페어 세럼\n12:07 파넬 시카마누 92세럼",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/myIIETc_fok/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/myIIETc_fok/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/myIIETc_fok/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/myIIETc_fok/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/myIIETc_fok/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "제이나 [Jaina]",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "요즘 잘나가는 BEST세럼 비교 분석❗(올리브영 1등템~😘) 피부별 제형별 맞는 세럼 찾기",
+          "description": "안녕하세요 제이나입니다. \n(광고❌) 오늘은 요즘 잘 판매되고 있고 잘나가고 있는 세럼들을 비교 분석해 드리려고 합니다☑️\n요즘 잘 판매되는 세럼들의 공통점은?\n특정 성분의 함유량도 다르고 부각된 기능도 조금씩 다르기 때문에\n나에게 필요한 기능을 판단하는 방법! 도와드릴게요. 렛츠고우👉\n\n00:00 인트로\n01:46 메디큐브 PDRN 핑크 앰플\n03:51 차앤박 더마앤서 액티브 부스트 PDRN 앰플\n05:53 아누아 피디알엔 히알루론산 캡슐 100 세럼\n08:01 아누아 피디알엔 히알루론산 수분 캡슐 미스트\n09:23 파티온 노스카나인 트러블 세럼\n10:54 메디힐 마데카소사이드 흔적 리페어 세럼\n12:07 파넬 시카마누 92세럼"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT14M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "68407",
+        "likeCount": "763",
+        "favoriteCount": "0",
+        "commentCount": "135"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KnrAzjj1g6aGd6eu6T-BfZxxQMQ",
+      "id": "B_iDSr8JOm8",
+      "snippet": {
+        "publishedAt": "2026-03-07T10:22:29Z",
+        "channelId": "UCIwR9zG_Y6aMqp4u5KACi_Q",
+        "title": "나의 정병치료제 메디힐 PDRN 세럼+팩🩵",
+        "description": "올영 세일 종료 5시간 남음\n메디힐 PDRN 오마카세로 환절기 모공쫀쫀결광피부 ㄱㄱ🩵\n#mediheal #메디힐팩 #메디힐세럼 #메디힐pdrn #올영세일추천",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B_iDSr8JOm8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B_iDSr8JOm8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B_iDSr8JOm8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B_iDSr8JOm8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B_iDSr8JOm8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "율코 yul.cosmetic",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "나의 정병치료제 메디힐 PDRN 세럼+팩🩵",
+          "description": "올영 세일 종료 5시간 남음\n메디힐 PDRN 오마카세로 환절기 모공쫀쫀결광피부 ㄱㄱ🩵\n#mediheal #메디힐팩 #메디힐세럼 #메디힐pdrn #올영세일추천"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2184",
+        "likeCount": "15",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Wd8pMg2uh_Ih3LmO_jo1b7n-QJI",
+      "id": "_OkidNzsGLo",
+      "snippet": {
+        "publishedAt": "2026-03-19T11:01:04Z",
+        "channelId": "UCvGvf3Lk0Z5reU544g_SzPg",
+        "title": "메디힐 마데카소사이드 흔적 세럼! 팩폭리뷰",
+        "description": "영상 내 태그된 쿠팡 링크로 구매 시, 수수료를 받아 내돈내산 콘텐츠 제작에 도움이 됩니다.\n\n✔ 인스타그램 :  https://instagram.com/beyond_the_end\n✔ 이벤트 관련 / 콘텐츠 제보 카톡 플친 : https://pf.kakao.com/_MxatxeG\n✔ 비즈니스 문의 : [email removed]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_OkidNzsGLo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_OkidNzsGLo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_OkidNzsGLo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_OkidNzsGLo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_OkidNzsGLo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "비트 BTE",
+        "tags": [
+          "남자뷰티",
+          "남자관리",
+          "남자피부",
+          "피부관리",
+          "피부과 시술",
+          "남자 화장품",
+          "남자 메이크업",
+          "남자 여드름",
+          "여드름 피부",
+          "세안법",
+          "스킨케어",
+          "잘생겨지는 법",
+          "올리브영",
+          "피부 좋아지는 법",
+          "피부 좋아지는 습관",
+          "메디힐",
+          "메디힐 세럼",
+          "마데카소사이드",
+          "팩폭리뷰"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "메디힐 마데카소사이드 흔적 세럼! 팩폭리뷰",
+          "description": "영상 내 태그된 쿠팡 링크로 구매 시, 수수료를 받아 내돈내산 콘텐츠 제작에 도움이 됩니다.\n\n✔ 인스타그램 :  https://instagram.com/beyond_the_end\n✔ 이벤트 관련 / 콘텐츠 제보 카톡 플친 : https://pf.kakao.com/_MxatxeG\n✔ 비즈니스 문의 : [email removed]"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "95805",
+        "likeCount": "400",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "I167xkFPHtgBdX44ga9MROYif68",
+      "id": "CNNrhWUqlpY",
+      "snippet": {
+        "publishedAt": "2026-03-03T08:59:03Z",
+        "channelId": "UCKAwUq0rYJ7JVkwK-XWADnQ",
+        "title": "세럼 바를 때 의외로 진짜 많이 하는 실수 TOP3",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CNNrhWUqlpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CNNrhWUqlpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CNNrhWUqlpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CNNrhWUqlpY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CNNrhWUqlpY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "박지윤의 피부 설명서",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "세럼 바를 때 의외로 진짜 많이 하는 실수 TOP3",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "10549",
+        "likeCount": "85",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_fY4pj3lyRf4HHie2T0xrAhxMC8",
+      "id": "7fUUC2mhOPU",
+      "snippet": {
+        "publishedAt": "2026-03-15T23:00:14Z",
+        "channelId": "UCR-rSr__YloP08_byJvVd9w",
+        "title": "비타민C세럼 2주쓰면 생기는 변화?! 👀",
+        "description": "여러분! 오늘은 2주동안 비타민C 세럼을 꾸준히 써보고 남기는 후기에요\n\n저는 관심은 있었지만 비타민c 앰플이 자극적일까봐 써보지는 못했었거든요..?\n요건 딱 저같은 입문자들에게 좋은 앰플이더라구요!\n\n칙칙해진 피부에 찰떡!\n톤,결,광을 한 번에 케어할 수 있는 메디힐 #비타민씨세럼 이에요\n귀차니즘 가득한 저에게는 증말 좋았던 앰플....!!\n이제 햇빛이 쎄지는 계절이 오니까 미백 준비 해보자구용👀\n\n* 메디힐 비타민씨 브라이트닝 세럼 100ml\n- 톤/ 순수 비타민C + 나이아신아마이드 시너지로 칙칙한 피부톤 개선\n- 결/ PHA+LHA로 자극은 줄이고, 피부결은 매끈하게!\n- 광/ 3중 히알루론산 보습 레이어링으로 광채 피부 완성\n\n지금 쿠팡에서 비타민C 세럼 대용량 100ml 할인도 놓치지 마세요!😊\nhttps://bit.ly/4b2tpTP",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7fUUC2mhOPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7fUUC2mhOPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7fUUC2mhOPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7fUUC2mhOPU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7fUUC2mhOPU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지우원",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "비타민C세럼 2주쓰면 생기는 변화?! 👀",
+          "description": "여러분! 오늘은 2주동안 비타민C 세럼을 꾸준히 써보고 남기는 후기에요\n\n저는 관심은 있었지만 비타민c 앰플이 자극적일까봐 써보지는 못했었거든요..?\n요건 딱 저같은 입문자들에게 좋은 앰플이더라구요!\n\n칙칙해진 피부에 찰떡!\n톤,결,광을 한 번에 케어할 수 있는 메디힐 #비타민씨세럼 이에요\n귀차니즘 가득한 저에게는 증말 좋았던 앰플....!!\n이제 햇빛이 쎄지는 계절이 오니까 미백 준비 해보자구용👀\n\n* 메디힐 비타민씨 브라이트닝 세럼 100ml\n- 톤/ 순수 비타민C + 나이아신아마이드 시너지로 칙칙한 피부톤 개선\n- 결/ PHA+LHA로 자극은 줄이고, 피부결은 매끈하게!\n- 광/ 3중 히알루론산 보습 레이어링으로 광채 피부 완성\n\n지금 쿠팡에서 비타민C 세럼 대용량 100ml 할인도 놓치지 마세요!😊\nhttps://bit.ly/4b2tpTP"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "21276",
+        "likeCount": "179",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MGl5MZQ-NhLXFuHa2NMiu6fgQ9c",
+      "id": "lI9URwSH7NQ",
+      "snippet": {
+        "publishedAt": "2026-03-27T11:01:17Z",
+        "channelId": "UCjrTg7jI1dyzaFSyie8tIBw",
+        "title": "🔥SNS에서 난리난🔥 중티st 네리티아 세럼 파운데이션 솔직리뷰🤔📝(ft.더 좋은 제품 알랴드림) #릴스파데 #SNS템리뷰 #파데리뷰",
+        "description": "❃ https://www.instagram.com/woorini/\n\n💭안녕하세요~~ 여러분🤍!!!  벌써 금요일이라니~~~~ 이번 주도 어떻게 흐른지 후다닥 지나갔어요! 저는 드디어 다음 주에 완전이사를 할 예정이라 마지막 마포 주말인데요 🤧 맛있는 거 잔뜩 먹고 떠나야겠어요! 오늘은 요즘 SNS난리인… 저도 한 달 만에 배송 받아본 네리티아 세럼 파운데이션 리뷰예요! 연달아 리뷰 영상만 가져왔는데 이사가고 자리잡으면 또 다양한 주제로 호다닥 올려볼게요 ㅎ_ㅎ (다음 영상은 브이로그로..) 이 제품이 뭔가 청담동 VIP, 고급스러움… 이미지도 막 아랍부자가 에르메스 가방 들고 찍은… 살짝 밤티스트를 많이 강조하길래 자세히 살펴봤어요! 내세우는 것들에 비하면 가격대가 꽤 합리적이라 뭐 엄청 실망했던 파데는 아니었고, 나름 재미나게 리뷰해본 제품이었어요! 아래 좀 더 자세히 적어둘테니 참고해주시구… 다음에는 많이 기다려주셨던 히디프 쿠션 찍어오겠습니다 😷😷❤️ 헤헷 항상 감사합니다 여러분 !!🙇🏻‍♀️🙇🏻‍♀️🙇🏻‍♀️🙇🏻‍♀️\n\n\n🏷️ 네리티아 세럼 파운데이션 (30ml 29,800원)\n( https://neritia.com/product/네리티아-세럼-파운데이션/11 )\n‣ 히알루론산의 5배 수분력 & PGA 함유\n‣ 피부 저자극 테스트 완료\n‣ SPF 50+ / PA++++ 강력한 자외선 차단\n‣ 불만족시 14일 이내 100% 환불 보장 (1/3이상 썼으면 안 됨)\n\n\n☑️ 사용한 도구들\n1.납작 브러시 ➜ 피카소 163 파운데이션 \n2.모공 브러시 ➜ 필리밀리 스킨 코렉터 브러시 829\n3.마른 스펀지 ➜ 스튜디오 17 팡팡 삼각 퍼프 \n4.물에 젖은 스펀지 ➜ 스튜디오 17 팡팡 삼각 퍼프 \n\n\n📝 리뷰 정리\n(*지극히 주관적인 리뷰이니 가볍게만 참고해주세요🙇🏻‍♀️)\n\n1) 커버력: 잡티커버보단 톤 보정 커버력이 괜찮음\n⇢ 한가지 컬러지만 컬러가 자연스럽게 화사해지는 색상이라 붉은기 커버거 균일하게 돼 피부가 깨끗해보여요! 하지만 광고 영상처럼 점이 다 가려진다던지, 트러블 자국이 다 가려지는 커버력은 아니에요. 피부에서 연하게 보이는 붉은 자국이 잘 가려지는 편\n\r2) 밀착력: 긁히면 아예 없어지는 수준으로 낮음\r⇢ 머리카락 스침보단 손톱에 긁혔을 때 아예 다 없어지는 정도의 밀착력! 유분이 올라오면서 들뜸이 더 생기는 편이라 장시간 외출 할 땐 파우더나 픽서가 필수\n\r3) 발림성: 촉촉하진 않지만 잘 펴발리는 묽은 잉크 제형\r⇢ 묽은 잉크 제형이지만 그렇다고 수분감이 느껴지는 제형이 아님. 커버 파우더 때문인지 매트한 건 아니지만 대놓고 새틴 타입이라 피부가 건조한 편이라면 기초를 좀 더 탄탄하게 하거나, 유분감이 좀 있는 선크림을 바르고 바르는 게 좋음! 어느정도 로션까지 마무리하면 피부 위에서 블렌딩은 잘 됨\n\r4) 보습력: 촉촉함이 잘 안 느껴지는 새틴 타입\r⇢ 촉촉하단 느낌 아예 없음\r\r5) 다크닝: 유분에 지워지나 어두워짐 없음\r⇢ 유분에 같이 무너지지만 다크닝은 없음! 컬러감이 되게 잘 뽑혔음\n\r6) 지속력: 자체 지속력은 그저 그러나 유분과 잘 섞여 자연스러움\r⇢ 코 옆 뭉침이 있고 잘 벗겨지긴 하지만, 피부에 위에서 유분과 섞일 때 자연스럽게 무너지긴 함. 지속력이 좋은 건 아니지만 더럽게 무너지는 건 아니라 생각보다 무난했음! 기대 없이 쓰면 생각보단 괜찮을 거고, 기대감 있게 쓰면 무너짐이 지저분하게 느껴질듯\r\r7) 접근성: 가성비는 괜찮지만 좀 더 비싼 셀바이셀을 추천\n⇢ 배송을 한 달씩 기다려 받을만한 제품이 아님\n\n✅  이런 사람에게 추천해요❕\n\n새틴 타입의 편하게 발리는 파운데이션을 찾던 분들에게 추천\r단일 컬러지만 누구나 써도 전체적으로 화사하고 균일해지는 컬러\r하지만 밀착력이나 지속력이 떨어져 기대하면 아쉬울 수 있음\n\n✅ 재구매의사 없음🙅🏻‍♀️\n\n\n\n\n🕰️ 시간표 🕰️\n(00:00) 영상 스~타~트🏃🏻‍♀️\n(01:12) 제품 소개\n(03:06) 첫 사용 및 피부 표현\n(07:43) 6시간 경과 후 (지속력 및 수정)\n(09:53) 9시간 경과 후 (지속력 및 수정) \n(11:27) 다크닝 테스트 \n(14:38) 셀바이셀 세럼 비비 (비교 및 총평)\n(16:22) 최종 리뷰❕\n\n\n\n-\n감기 조심하세요❤️‍🔥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lI9URwSH7NQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lI9URwSH7NQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lI9URwSH7NQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lI9URwSH7NQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lI9URwSH7NQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/lI9URwSH7NQ/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "우린",
+        "tags": [
+          "우린",
+          "우린월드",
+          "홑꺼풀",
+          "홑꺼풀 메이크업",
+          "무쌍 눈화장",
+          "데일리 메이크업",
+          "월드 우린",
+          "무쌍유투버",
+          "무쌍 메이크업",
+          "makeup",
+          "asian makeup",
+          "idol makeup",
+          "우린 네리티아",
+          "네리티아 세럼 파운데이션",
+          "네리티아 내돈내산",
+          "우린 파운데이션 리뷰",
+          "우린 파데 리뷰",
+          "파운데이션 추천",
+          "지성 파데 추천",
+          "지성피부 파운데이션",
+          "건성피부 파운데이션",
+          "파운데이션 리뷰",
+          "셀바이셀 세럼 비비",
+          "지성피부 비비크림",
+          "우린 비비크림 리뷰",
+          "우린 비비 크림",
+          "셀바이셀 내돈내산"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "🔥SNS에서 난리난🔥 중티st 네리티아 세럼 파운데이션 솔직리뷰🤔📝(ft.더 좋은 제품 알랴드림) #릴스파데 #SNS템리뷰 #파데리뷰",
+          "description": "❃ https://www.instagram.com/woorini/\n\n💭안녕하세요~~ 여러분🤍!!!  벌써 금요일이라니~~~~ 이번 주도 어떻게 흐른지 후다닥 지나갔어요! 저는 드디어 다음 주에 완전이사를 할 예정이라 마지막 마포 주말인데요 🤧 맛있는 거 잔뜩 먹고 떠나야겠어요! 오늘은 요즘 SNS난리인… 저도 한 달 만에 배송 받아본 네리티아 세럼 파운데이션 리뷰예요! 연달아 리뷰 영상만 가져왔는데 이사가고 자리잡으면 또 다양한 주제로 호다닥 올려볼게요 ㅎ_ㅎ (다음 영상은 브이로그로..) 이 제품이 뭔가 청담동 VIP, 고급스러움… 이미지도 막 아랍부자가 에르메스 가방 들고 찍은… 살짝 밤티스트를 많이 강조하길래 자세히 살펴봤어요! 내세우는 것들에 비하면 가격대가 꽤 합리적이라 뭐 엄청 실망했던 파데는 아니었고, 나름 재미나게 리뷰해본 제품이었어요! 아래 좀 더 자세히 적어둘테니 참고해주시구… 다음에는 많이 기다려주셨던 히디프 쿠션 찍어오겠습니다 😷😷❤️ 헤헷 항상 감사합니다 여러분 !!🙇🏻‍♀️🙇🏻‍♀️🙇🏻‍♀️🙇🏻‍♀️\n\n\n🏷️ 네리티아 세럼 파운데이션 (30ml 29,800원)\n( https://neritia.com/product/네리티아-세럼-파운데이션/11 )\n‣ 히알루론산의 5배 수분력 & PGA 함유\n‣ 피부 저자극 테스트 완료\n‣ SPF 50+ / PA++++ 강력한 자외선 차단\n‣ 불만족시 14일 이내 100% 환불 보장 (1/3이상 썼으면 안 됨)\n\n\n☑️ 사용한 도구들\n1.납작 브러시 ➜ 피카소 163 파운데이션 \n2.모공 브러시 ➜ 필리밀리 스킨 코렉터 브러시 829\n3.마른 스펀지 ➜ 스튜디오 17 팡팡 삼각 퍼프 \n4.물에 젖은 스펀지 ➜ 스튜디오 17 팡팡 삼각 퍼프 \n\n\n📝 리뷰 정리\n(*지극히 주관적인 리뷰이니 가볍게만 참고해주세요🙇🏻‍♀️)\n\n1) 커버력: 잡티커버보단 톤 보정 커버력이 괜찮음\n⇢ 한가지 컬러지만 컬러가 자연스럽게 화사해지는 색상이라 붉은기 커버거 균일하게 돼 피부가 깨끗해보여요! 하지만 광고 영상처럼 점이 다 가려진다던지, 트러블 자국이 다 가려지는 커버력은 아니에요. 피부에서 연하게 보이는 붉은 자국이 잘 가려지는 편\n\r2) 밀착력: 긁히면 아예 없어지는 수준으로 낮음\r⇢ 머리카락 스침보단 손톱에 긁혔을 때 아예 다 없어지는 정도의 밀착력! 유분이 올라오면서 들뜸이 더 생기는 편이라 장시간 외출 할 땐 파우더나 픽서가 필수\n\r3) 발림성: 촉촉하진 않지만 잘 펴발리는 묽은 잉크 제형\r⇢ 묽은 잉크 제형이지만 그렇다고 수분감이 느껴지는 제형이 아님. 커버 파우더 때문인지 매트한 건 아니지만 대놓고 새틴 타입이라 피부가 건조한 편이라면 기초를 좀 더 탄탄하게 하거나, 유분감이 좀 있는 선크림을 바르고 바르는 게 좋음! 어느정도 로션까지 마무리하면 피부 위에서 블렌딩은 잘 됨\n\r4) 보습력: 촉촉함이 잘 안 느껴지는 새틴 타입\r⇢ 촉촉하단 느낌 아예 없음\r\r5) 다크닝: 유분에 지워지나 어두워짐 없음\r⇢ 유분에 같이 무너지지만 다크닝은 없음! 컬러감이 되게 잘 뽑혔음\n\r6) 지속력: 자체 지속력은 그저 그러나 유분과 잘 섞여 자연스러움\r⇢ 코 옆 뭉침이 있고 잘 벗겨지긴 하지만, 피부에 위에서 유분과 섞일 때 자연스럽게 무너지긴 함. 지속력이 좋은 건 아니지만 더럽게 무너지는 건 아니라 생각보다 무난했음! 기대 없이 쓰면 생각보단 괜찮을 거고, 기대감 있게 쓰면 무너짐이 지저분하게 느껴질듯\r\r7) 접근성: 가성비는 괜찮지만 좀 더 비싼 셀바이셀을 추천\n⇢ 배송을 한 달씩 기다려 받을만한 제품이 아님\n\n✅  이런 사람에게 추천해요❕\n\n새틴 타입의 편하게 발리는 파운데이션을 찾던 분들에게 추천\r단일 컬러지만 누구나 써도 전체적으로 화사하고 균일해지는 컬러\r하지만 밀착력이나 지속력이 떨어져 기대하면 아쉬울 수 있음\n\n✅ 재구매의사 없음🙅🏻‍♀️\n\n\n\n\n🕰️ 시간표 🕰️\n(00:00) 영상 스~타~트🏃🏻‍♀️\n(01:12) 제품 소개\n(03:06) 첫 사용 및 피부 표현\n(07:43) 6시간 경과 후 (지속력 및 수정)\n(09:53) 9시간 경과 후 (지속력 및 수정) \n(11:27) 다크닝 테스트 \n(14:38) 셀바이셀 세럼 비비 (비교 및 총평)\n(16:22) 최종 리뷰❕\n\n\n\n-\n감기 조심하세요❤️‍🔥"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT17M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "50975",
+        "likeCount": "358",
+        "favoriteCount": "0",
+        "commentCount": "71"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PKQ2YLnRSLnUOu1yLHAu3CrY5n0",
+      "id": "EdznH4kMkcg",
+      "snippet": {
+        "publishedAt": "2026-03-20T10:18:06Z",
+        "channelId": "UCd7icqUv7f8k2E6n4WOCIQg",
+        "title": "세럼 바를 때 혹시 손으로 문지르시나요?",
+        "description": "#스킨케어 #피부관리 #홈케어 #세럼바르는법 #피부좋아지는법 \n\n세럼 바를 때 혹시 손으로 문지르시나요?\n아... 이러면 비싼 세럼 성분, 손바닥이 다 먹습니다.\n정작 얼굴엔 마찰 자극만 남아서 피부만 더 늙게 되거든요.\n\n2만 원짜리 세럼으로 20만 원 효과 내는 스킨케어 꼼수 3가지👇\n\n1️⃣ 손바닥은 영원히 압수! 무조건 '얼굴 직행'입니다.\n- 어푸어푸 세수하듯 촵촵 바르지 마세요. 수분 다 뺏깁니다.\n- 얼굴에 바로 짠 다음, 힘없는 '세 번째, 네 번째 손가락' 딱 두 개로 두드려주세요!\n\n2️⃣ 이름표 떼고 '묽은 순서'로 줄 세우세요.\n- 에센스 먼저? 앰플 먼저? 솔직히 다 화장품 회사 마케팅입니다.\n- 무조건 물처럼 흐르는 가벼운 것 ➡️ 꾸덕한 것 순서로!\n\n3️⃣ 제발 '30초'라도 텀 주세요.\n- 흡수도 안 됐는데 계속 얹으면 피부 위에서 그냥 '화장품 짬뽕' 됩니다.\n- 한 단계 발랐으면, 피부가 살짝 쫀득해질 때까지 기다렸다가 바르세요!\n\n📸 까먹지 않게 지금 화면 캡처하시고, 피부 고민 있는 친구한테 당장 공유해 주세요!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EdznH4kMkcg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EdznH4kMkcg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EdznH4kMkcg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EdznH4kMkcg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EdznH4kMkcg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "피부결",
+        "tags": [
+          "세럼바르는법",
+          "세럼 바르는 법",
+          "세럼 바르는법",
+          "스킨케어 순서",
+          "스킨케어순서",
+          "화장품 바르는 순서",
+          "화장품바르는순서",
+          "기초화장품 바르는 순서",
+          "기초화장품바르는순서",
+          "세럼 흡수",
+          "세럼흡수",
+          "피부 흡수율",
+          "피부흡수율",
+          "에센스 세럼 앰플 차이",
+          "에센스 세럼 앰플차이",
+          "세럼 앰플 순서",
+          "스킨케어 꿀팁",
+          "스킨케어꿀팁",
+          "피부관리",
+          "피부 관리",
+          "피부결",
+          "경피수분손실",
+          "세안 방법",
+          "세안방법",
+          "올바른 세안",
+          "보습 방법",
+          "보습방법",
+          "스킨케어 루틴",
+          "스킨케어루틴",
+          "남자 스킨케어",
+          "남자스킨케어",
+          "세럼 효과",
+          "세럼효과",
+          "피부결 서민준",
+          "화장품 순서",
+          "레이어링 스킨케어",
+          "세럼 바르는 방법",
+          "세럼흡수율",
+          "세럼 흡수율 높이기",
+          "피부관리 꿀팁",
+          "피부관리꿀팁",
+          "피부관리 방법",
+          "피부 마찰 자극",
+          "세안 중요성"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "세럼 바를 때 혹시 손으로 문지르시나요?",
+          "description": "#스킨케어 #피부관리 #홈케어 #세럼바르는법 #피부좋아지는법 \n\n세럼 바를 때 혹시 손으로 문지르시나요?\n아... 이러면 비싼 세럼 성분, 손바닥이 다 먹습니다.\n정작 얼굴엔 마찰 자극만 남아서 피부만 더 늙게 되거든요.\n\n2만 원짜리 세럼으로 20만 원 효과 내는 스킨케어 꼼수 3가지👇\n\n1️⃣ 손바닥은 영원히 압수! 무조건 '얼굴 직행'입니다.\n- 어푸어푸 세수하듯 촵촵 바르지 마세요. 수분 다 뺏깁니다.\n- 얼굴에 바로 짠 다음, 힘없는 '세 번째, 네 번째 손가락' 딱 두 개로 두드려주세요!\n\n2️⃣ 이름표 떼고 '묽은 순서'로 줄 세우세요.\n- 에센스 먼저? 앰플 먼저? 솔직히 다 화장품 회사 마케팅입니다.\n- 무조건 물처럼 흐르는 가벼운 것 ➡️ 꾸덕한 것 순서로!\n\n3️⃣ 제발 '30초'라도 텀 주세요.\n- 흡수도 안 됐는데 계속 얹으면 피부 위에서 그냥 '화장품 짬뽕' 됩니다.\n- 한 단계 발랐으면, 피부가 살짝 쫀득해질 때까지 기다렸다가 바르세요!\n\n📸 까먹지 않게 지금 화면 캡처하시고, 피부 고민 있는 친구한테 당장 공유해 주세요!!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "244119",
+        "likeCount": "3824",
+        "favoriteCount": "0",
+        "commentCount": "68"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7BWo9_f1if2cGRBvHHY5BW0LrSw",
+      "id": "B7oMdYwYWzA",
+      "snippet": {
+        "publishedAt": "2026-03-07T16:48:21Z",
+        "channelId": "UCE6cqTb1JwW-Z3FoQG1DngA",
+        "title": "기미 잡티 고민이면 이거 사세요‼️ 올리브영 색소침착 세럼 추천 TOP5 #올리브영추천템 #올리브영 #기미잡티",
+        "description": "올리브영에서 효과본 기미잡티 추천템 best 5 \n\n#kbeauty \n#koreanskincare\n#skincareroutine\n#skincaretips",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B7oMdYwYWzA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B7oMdYwYWzA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B7oMdYwYWzA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B7oMdYwYWzA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B7oMdYwYWzA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리하패밀리",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "기미 잡티 고민이면 이거 사세요‼️ 올리브영 색소침착 세럼 추천 TOP5 #올리브영추천템 #올리브영 #기미잡티",
+          "description": "올리브영에서 효과본 기미잡티 추천템 best 5 \n\n#kbeauty \n#koreanskincare\n#skincareroutine\n#skincaretips"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2524",
+        "likeCount": "15",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "f-EEO23VX9mh5UUX8H8mtGFrTUc",
+      "id": "n6W8ff5N1_8",
+      "snippet": {
+        "publishedAt": "2026-03-05T15:47:49Z",
+        "channelId": "UC4TQkPPeOfkWHLU14jFq7FA",
+        "title": "본셉 레티놀 탄력샷 바디 괄사 세럼 다이소에서 구입 #내돈내산 #다이소",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n6W8ff5N1_8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n6W8ff5N1_8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n6W8ff5N1_8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n6W8ff5N1_8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n6W8ff5N1_8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "my hand",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "본셉 레티놀 탄력샷 바디 괄사 세럼 다이소에서 구입 #내돈내산 #다이소",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3353",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Nv03ia63mQ_8kWqH2vbbWAu1FsA",
+      "id": "37HMnwC_9j8",
+      "snippet": {
+        "publishedAt": "2026-03-03T10:00:04Z",
+        "channelId": "UC0ycRO3wLy0jW8bkpGyz_Lw",
+        "title": "히알루론산 세럼 바르고 더 건조해진 이유 | 올리브영추천템, 스킨케어, 기초제품",
+        "description": "#피부관리 #동안관리 #레티놀\n#피부장벽 #데이원클리닉강남본점  #얼굴디자인연구소",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/37HMnwC_9j8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/37HMnwC_9j8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/37HMnwC_9j8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/37HMnwC_9j8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/37HMnwC_9j8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "데이원의원 얼굴디자인연구소 面部设计研究所",
+        "tags": [
+          "피부과",
+          "피부과시술",
+          "강남역피부과",
+          "데이원피부과",
+          "피부보습",
+          "피부과시술추천",
+          "신논현역피부과",
+          "토리든",
+          "올리브영세일",
+          "올리브영추천템"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "히알루론산 세럼 바르고 더 건조해진 이유 | 올리브영추천템, 스킨케어, 기초제품",
+          "description": "#피부관리 #동안관리 #레티놀\n#피부장벽 #데이원클리닉강남본점  #얼굴디자인연구소"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5445",
+        "likeCount": "19",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-IDCpviURdauJxjJQHAth0DCb5c",
+      "id": "ksfs0T3W3zs",
+      "snippet": {
+        "publishedAt": "2026-04-10T10:49:56Z",
+        "channelId": "UCff7sQ_kjCEPZvr8h8US8ww",
+        "title": "꼭 사세요! 모공*피지**관리 하나로 끝내는 세럼 추천🔥",
+        "description": "✅ 모공*피지**관리 세럼 추천 저장해놓고 꺼내보기..🔍\n#광고 아니 여러분! 오늘은 세럼 추천 영상인데요. \n라로슈포제 에빠끌라 울트라 컨센트레이티드 세럼이에요. \n저 같은 모공* & 피지** 고민러들께 강추드리는 세럼입니다. \n여름에도 진짜 잘 쓸 것 같은 제품. \n제형은 촉촉하게 발리는데 흡수됐을 때 진짜 겉도는 게 1도 없어요. \n특히 수부지 세럼들 속건조, 속보습 잡아주는 제품 찾기 힘든데, \n에빠끌라 세럼은 진짜 흡수 싹 시키면 속 쫀쫀, 겉 맨들맨들. 써보시면 아실 겁니다. \n\n제가 너무 애정하는 라로슈포제 에빠끌라 세럼은\n지금 올리브영에서 최대 혜택으로 만나보세요!💙\nhttps://oy.run/ksd9Hw268sqiDM\n\n🔥구독 한 번으로 앞으로 이런 뷰티 꿀팁들 누구보다 가장 빠르게 만나보세요💙\n\n👉🏻제품 정보 → 쇼핑 태그 참고\n라로슈포제 에빠끌라 울트라 컨센트레이티드 세럼\nLA ROCHE-POSAY EFFACLAR ULTRA CONCENTRATED SERUM\n\n#라로슈포제 #에빠끌라세럼 #모공피지케어세럼 @larocheposay \n*일시적 효과에 한함  **피부의 유분기, 과다 피지에 한함",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ksfs0T3W3zs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ksfs0T3W3zs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ksfs0T3W3zs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ksfs0T3W3zs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ksfs0T3W3zs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "화니 HWAN'E",
+        "tags": [
+          "세럼추천",
+          "세럼",
+          "세럼 추천",
+          "모공세럼",
+          "모공 세럼",
+          "모공세럼 추천",
+          "피지세럼",
+          "피지세럼 추천",
+          "올리브영 세럼",
+          "올영 세럼",
+          "올리브영 세럼추천",
+          "올영 세럼추천"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "꼭 사세요! 모공*피지**관리 하나로 끝내는 세럼 추천🔥",
+          "description": "✅ 모공*피지**관리 세럼 추천 저장해놓고 꺼내보기..🔍\n#광고 아니 여러분! 오늘은 세럼 추천 영상인데요. \n라로슈포제 에빠끌라 울트라 컨센트레이티드 세럼이에요. \n저 같은 모공* & 피지** 고민러들께 강추드리는 세럼입니다. \n여름에도 진짜 잘 쓸 것 같은 제품. \n제형은 촉촉하게 발리는데 흡수됐을 때 진짜 겉도는 게 1도 없어요. \n특히 수부지 세럼들 속건조, 속보습 잡아주는 제품 찾기 힘든데, \n에빠끌라 세럼은 진짜 흡수 싹 시키면 속 쫀쫀, 겉 맨들맨들. 써보시면 아실 겁니다. \n\n제가 너무 애정하는 라로슈포제 에빠끌라 세럼은\n지금 올리브영에서 최대 혜택으로 만나보세요!💙\nhttps://oy.run/ksd9Hw268sqiDM\n\n🔥구독 한 번으로 앞으로 이런 뷰티 꿀팁들 누구보다 가장 빠르게 만나보세요💙\n\n👉🏻제품 정보 → 쇼핑 태그 참고\n라로슈포제 에빠끌라 울트라 컨센트레이티드 세럼\nLA ROCHE-POSAY EFFACLAR ULTRA CONCENTRATED SERUM\n\n#라로슈포제 #에빠끌라세럼 #모공피지케어세럼 @larocheposay \n*일시적 효과에 한함  **피부의 유분기, 과다 피지에 한함"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "160900",
+        "likeCount": "153",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fpwWBF0znYj2ZuTkL6SONALI4_k",
+      "id": "YWylnJua_EI",
+      "snippet": {
+        "publishedAt": "2026-04-18T03:44:32Z",
+        "channelId": "UC561zXOZW5NAyzzMmSOJE6A",
+        "title": "피부샵 원장이 뽑은 여드름박멸 세럼 3대장",
+        "description": "피부샵 원장이 뽑은 '여드름 박멸' 세럼 3대장! \n\n\n오늘은 제가 직접 써보고 \n효과 본 박멸 세럼 3가지 딱! 추천드릴게요~\n\n1, 디오디너리 나이아신아마이드 10% + 징크 1%\n\n이미 너무 유명해서 알 사람은 다 아는 제품이죠?\n피지 조절 성분이 고함량으로 들어있어서 \n개기름을 싹- 잡아줍니다.\n\n 덕분에 요철 트러블에 효과 정말 많이 봤고, \n특히 흔적 케어에도 최고예요!\n\n예민 피부는 자극적일 수 있으니 비추! \n처음엔 소량만 밤에 사용하는 걸 추천드려요.\n\n2, 넘버즈인 1번 판토텐산 액티브업 수딩 세럼\n\n수분감이 가득한데 얘도 피지 조절 성분이\n 들어있어요. 과도한 피지는 잡아주면서 \n피부 속 깊이 수분을 넣어주니까\n 열감이 확 내려갑니다. \n\n진정 능력이 남달라서 좁쌀이나 \n화농성 여드름에 효과 대박!\n\n엄청 순해서 민감성 피부도 \n매일매일 쓰기 너무 좋아요.\n\n3, 아벤느 이드랑스 에센스-인-로션\n\n요즘 제 찐 애정템! 광고로 처음 만났는데 \n너무 좋아서 벌써 2통째 내돈내산 중!\n\n장벽 무너지면 피부결 울퉁불퉁해지고\n 요철 심해지죠? 그럴 때 무너진 유수분 \n밸런스를 딱 맞춰줘서 피부를 싹 잠재워줘요.\n\n수분 저장 능력이 대단해서, \n건조한 날 2~3겹 레이어링하면 속당김 \n바로 잡힙니다. 홍조+장벽+요철 고민이면 \n무조건이에요!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YWylnJua_EI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YWylnJua_EI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YWylnJua_EI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YWylnJua_EI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YWylnJua_EI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "챙지",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "피부샵 원장이 뽑은 여드름박멸 세럼 3대장",
+          "description": "피부샵 원장이 뽑은 '여드름 박멸' 세럼 3대장! \n\n\n오늘은 제가 직접 써보고 \n효과 본 박멸 세럼 3가지 딱! 추천드릴게요~\n\n1, 디오디너리 나이아신아마이드 10% + 징크 1%\n\n이미 너무 유명해서 알 사람은 다 아는 제품이죠?\n피지 조절 성분이 고함량으로 들어있어서 \n개기름을 싹- 잡아줍니다.\n\n 덕분에 요철 트러블에 효과 정말 많이 봤고, \n특히 흔적 케어에도 최고예요!\n\n예민 피부는 자극적일 수 있으니 비추! \n처음엔 소량만 밤에 사용하는 걸 추천드려요.\n\n2, 넘버즈인 1번 판토텐산 액티브업 수딩 세럼\n\n수분감이 가득한데 얘도 피지 조절 성분이\n 들어있어요. 과도한 피지는 잡아주면서 \n피부 속 깊이 수분을 넣어주니까\n 열감이 확 내려갑니다. \n\n진정 능력이 남달라서 좁쌀이나 \n화농성 여드름에 효과 대박!\n\n엄청 순해서 민감성 피부도 \n매일매일 쓰기 너무 좋아요.\n\n3, 아벤느 이드랑스 에센스-인-로션\n\n요즘 제 찐 애정템! 광고로 처음 만났는데 \n너무 좋아서 벌써 2통째 내돈내산 중!\n\n장벽 무너지면 피부결 울퉁불퉁해지고\n 요철 심해지죠? 그럴 때 무너진 유수분 \n밸런스를 딱 맞춰줘서 피부를 싹 잠재워줘요.\n\n수분 저장 능력이 대단해서, \n건조한 날 2~3겹 레이어링하면 속당김 \n바로 잡힙니다. 홍조+장벽+요철 고민이면 \n무조건이에요!!"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": [
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "63981",
+        "likeCount": "1008",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_Bt8NfV0jiigoAEJy6gyyqRQncc",
+      "id": "wlKTNSS5YDA",
+      "snippet": {
+        "publishedAt": "2026-04-17T10:33:31Z",
+        "channelId": "UCXFd79l1HUumoM6spU4D1Cw",
+        "title": "레티놀 제대로 바르는 법 이 영상으로 끝내세요",
+        "description": "#피부과 #피부관리 #피부꿀팁 #레티놀 #세럼 \n\n유앤아이의원 안양점 홈페이지 : https://www.ayuni114.co.kr/\n유앤아이의원 안양점 카카오톡 채널 : https://pf.kakao.com/_qTqHG\n\n* 비즈니스/협찬 문의: [email removed]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wlKTNSS5YDA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wlKTNSS5YDA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wlKTNSS5YDA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wlKTNSS5YDA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wlKTNSS5YDA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "닥터블랑 김현준",
+        "tags": [
+          "피부과",
+          "닥터블랑",
+          "보톡스",
+          "리프팅",
+          "제모",
+          "토닝",
+          "모공",
+          "여드름",
+          "흉터",
+          "필러",
+          "울쎄라",
+          "세럼",
+          "세럼추천",
+          "레티놀"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "레티놀 제대로 바르는 법 이 영상으로 끝내세요",
+          "description": "#피부과 #피부관리 #피부꿀팁 #레티놀 #세럼 \n\n유앤아이의원 안양점 홈페이지 : https://www.ayuni114.co.kr/\n유앤아이의원 안양점 카카오톡 채널 : https://pf.kakao.com/_qTqHG\n\n* 비즈니스/협찬 문의: [email removed]"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "90959",
+        "likeCount": "441",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Y3pnOYPl6BmVWdqKiApbsj3r0IM",
+      "id": "KgOPpRfzjJ8",
+      "snippet": {
+        "publishedAt": "2026-04-09T09:25:35Z",
+        "channelId": "UCuQe2i7pxPequLYKXBrPlMA",
+        "title": "\"대부분 세럼을 이렇게 바르더라구요!\" | 세럼, 실수 없이 효과 제대로 보는 방법",
+        "description": "세럼, 피부에 좋다고 해서\n열심히 바르고 계신 분들 많으실텐데요.\n그런데 진료를 하다 보면\n세럼을 잘못 사용하는 경우를 자주 보게 됩니다.\n\n같은 제품을 써도\n어떤 분들은 효과를 보고,\n어떤 분들은 전혀 변화를 못 느끼는 이유가\n바로 사용 방식의 차이 때문입니다.\n\n오늘 영상에서는\n많은 분들이 놓치고 있는\n세럼 사용 실수와 올바른 사용 기준을 정리해드립니다.\n\n제품을 계속 바꾸기 전에,\n지금 사용하는 방법부터\n한 번 점검해보셔도 좋겠습니다.\n\n⬇️리프팅 시술, 이런 준비 없이 하면 실패합니다!\nhttps://www.onlif.net/\n\n#세럼 #skincare #피부관리 #주름관리 #피부탄력 #피부홈케어 #스킨케어 #모공관리",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KgOPpRfzjJ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KgOPpRfzjJ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KgOPpRfzjJ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KgOPpRfzjJ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KgOPpRfzjJ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/KgOPpRfzjJ8/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "주름잡는의사 이재운",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "\"대부분 세럼을 이렇게 바르더라구요!\" | 세럼, 실수 없이 효과 제대로 보는 방법",
+          "description": "세럼, 피부에 좋다고 해서\n열심히 바르고 계신 분들 많으실텐데요.\n그런데 진료를 하다 보면\n세럼을 잘못 사용하는 경우를 자주 보게 됩니다.\n\n같은 제품을 써도\n어떤 분들은 효과를 보고,\n어떤 분들은 전혀 변화를 못 느끼는 이유가\n바로 사용 방식의 차이 때문입니다.\n\n오늘 영상에서는\n많은 분들이 놓치고 있는\n세럼 사용 실수와 올바른 사용 기준을 정리해드립니다.\n\n제품을 계속 바꾸기 전에,\n지금 사용하는 방법부터\n한 번 점검해보셔도 좋겠습니다.\n\n⬇️리프팅 시술, 이런 준비 없이 하면 실패합니다!\nhttps://www.onlif.net/\n\n#세럼 #skincare #피부관리 #주름관리 #피부탄력 #피부홈케어 #스킨케어 #모공관리"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT11M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1176",
+        "likeCount": "44",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bplClRIjqH0ZqgTSMLQeTdNAtq8",
+      "id": "9tuY_sO-KDI",
+      "snippet": {
+        "publishedAt": "2026-04-28T14:52:04Z",
+        "channelId": "UCREwWGTy6b1nKqAbOnifZXg",
+        "title": "피부 전문가도 추천하는!🔥 유세린 에피셀린 세럼✨ #유세린 #안티에이징세럼 #세럼추천 #올영추천템",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9tuY_sO-KDI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9tuY_sO-KDI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9tuY_sO-KDI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9tuY_sO-KDI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9tuY_sO-KDI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "글로이",
+        "tags": [
+          "올리브영",
+          "올영",
+          "올영추천템",
+          "올영 세럼",
+          "올영 유세린",
+          "유세린",
+          "유세린 에피셀린 세럼",
+          "유세린 세럼",
+          "안티에이징",
+          "항노화",
+          "세럼추천",
+          "세럼",
+          "앰플",
+          "크림",
+          "틴트",
+          "블러셔",
+          "어뮤즈",
+          "장원영",
+          "원영공주",
+          "아이브",
+          "아일릿",
+          "아이오아이",
+          "알고리즘",
+          "알고리즘타게해주세요",
+          "인급동",
+          "인기동영상",
+          "추천",
+          "추천동영상",
+          "관리자추천",
+          "신곡",
+          "쿠팡",
+          "테무",
+          "알리",
+          "지그재그",
+          "에이블리",
+          "무신사",
+          "틱톡",
+          "유료광고",
+          "제품제공"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "피부 전문가도 추천하는!🔥 유세린 에피셀린 세럼✨ #유세린 #안티에이징세럼 #세럼추천 #올영추천템",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "9419",
+        "likeCount": "30",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QtJPixdCW8FgiFzpuOPrMt-SZio",
+      "id": "6gS7NOiLjpg",
+      "snippet": {
+        "publishedAt": "2026-04-20T10:14:32Z",
+        "channelId": "UCXFd79l1HUumoM6spU4D1Cw",
+        "title": "비타민C 앰플 효과 10배 끌어올리는 방법!",
+        "description": "#피부과 #피부관리 #피부꿀팁 #비타민C #세럼 \n\n유앤아이의원 안양점 홈페이지 : https://www.ayuni114.co.kr/\n유앤아이의원 안양점 카카오톡 채널 : https://pf.kakao.com/_qTqHG\n\n* 비즈니스/협찬 문의: [email removed]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6gS7NOiLjpg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6gS7NOiLjpg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6gS7NOiLjpg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6gS7NOiLjpg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6gS7NOiLjpg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "닥터블랑 김현준",
+        "tags": [
+          "피부과",
+          "닥터블랑",
+          "보톡스",
+          "리프팅",
+          "제모",
+          "토닝",
+          "모공",
+          "여드름",
+          "흉터",
+          "필러",
+          "울쎄라",
+          "세럼",
+          "세럼추천",
+          "비타민C",
+          "비타민c앰플",
+          "앰플"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "비타민C 앰플 효과 10배 끌어올리는 방법!",
+          "description": "#피부과 #피부관리 #피부꿀팁 #비타민C #세럼 \n\n유앤아이의원 안양점 홈페이지 : https://www.ayuni114.co.kr/\n유앤아이의원 안양점 카카오톡 채널 : https://pf.kakao.com/_qTqHG\n\n* 비즈니스/협찬 문의: [email removed]"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "613278",
+        "likeCount": "2843",
+        "favoriteCount": "0",
+        "commentCount": "87"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qFSJYYoecpPvskZ-F8fEt-iKU30",
+      "id": "yw1oCLeo9z4",
+      "snippet": {
+        "publishedAt": "2026-04-07T13:01:49Z",
+        "channelId": "UCoiJWbHDTi1-Xpu0sePCcsA",
+        "title": "이거 진짜 좋아요..🥹✨ #아렌시아 #아렌시아홀리히솝세럼30 #아렌시아세럼 #세럼추천",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yw1oCLeo9z4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yw1oCLeo9z4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yw1oCLeo9z4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yw1oCLeo9z4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yw1oCLeo9z4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "챠미",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "이거 진짜 좋아요..🥹✨ #아렌시아 #아렌시아홀리히솝세럼30 #아렌시아세럼 #세럼추천",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1457",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "R0ADcJ9PqGzOmodMGj1VRLyVrTA",
+      "id": "RHQAI8CndAw",
+      "snippet": {
+        "publishedAt": "2026-04-09T09:23:03Z",
+        "channelId": "UCXFd79l1HUumoM6spU4D1Cw",
+        "title": "\"비타민C 이렇게 바르면 하수입니다\" 비타민 C 앰플 효과 200% 보는 방법",
+        "description": "비타민C 이렇게 발라야 피부가 좋아집니다\n\n#비타민C #비타민C앰플 #스킨케어 #skincare  #피부관리 #주름관리\n\n유앤아이의원 안양점 홈페이지 : https://www.ayuni114.co.kr/\n유앤아이의원 안양점 카카오톡 채널 : https://pf.kakao.com/_qTqHG\n\n* 비즈니스/협찬 문의: [email removed]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RHQAI8CndAw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RHQAI8CndAw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RHQAI8CndAw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RHQAI8CndAw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RHQAI8CndAw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/RHQAI8CndAw/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "닥터블랑 김현준",
+        "tags": [
+          "닥터블랑",
+          "이마주름",
+          "주름",
+          "주름 관리",
+          "잔주름",
+          "팔자주름",
+          "노화",
+          "시술",
+          "얼굴 노화",
+          "탄력",
+          "피부 탄력",
+          "피부 장벽",
+          "비타민c",
+          "레티놀",
+          "앰플",
+          "세럼"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "\"비타민C 이렇게 바르면 하수입니다\" 비타민 C 앰플 효과 200% 보는 방법",
+          "description": "비타민C 이렇게 발라야 피부가 좋아집니다\n\n#비타민C #비타민C앰플 #스킨케어 #skincare  #피부관리 #주름관리\n\n유앤아이의원 안양점 홈페이지 : https://www.ayuni114.co.kr/\n유앤아이의원 안양점 카카오톡 채널 : https://pf.kakao.com/_qTqHG\n\n* 비즈니스/협찬 문의: [email removed]"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT9M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "193614",
+        "likeCount": "1970",
+        "favoriteCount": "0",
+        "commentCount": "123"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "i7lK81-Oo88RqA-YsQSYEDOXM_o",
+      "id": "DwFJSlw4648",
+      "snippet": {
+        "publishedAt": "2026-04-06T10:08:51Z",
+        "channelId": "UC39tUOWeLaYAisx3TkgJQ9w",
+        "title": "4월 올영픽!!! #아이소이 흔적세럼🫧✨ #올영깡 #isoi",
+        "description": "isoi 신제품 출시🫧✨\n연하남 꼬시는 계랄 남친 계훈 pick!\n\n@isoi_official \n아이소이 트러블 흔적세럼🩵\n\n트러블 / 요철 3일 컷➰\n✔️마데카와 로즈의 폭발적 흔적 케어 시너지\n✔️흔적 개선부터 트러블 근본 케어\n✔️요철에서 모공까지 울퉁불퉁 결 개선\n✔️거뭇거뭇한 색소침착 개선\n\n📍4.06~4.12\n아이소이 흔적세럼 35ml + 리필 한정기획(+35ml) 구매 시,\n올리브영 단독 계훈 한정판 포카 4종 증정\n\n*노출 의무 없는 단순 제공 상품입니다\n\n#아이소이 #isoi #올영픽 #흔적세럼 #아이소이흔적세럼",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DwFJSlw4648/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DwFJSlw4648/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DwFJSlw4648/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DwFJSlw4648/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DwFJSlw4648/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "콩말래 kongmalrae",
+        "tags": [
+          "아이소이",
+          "올영픽",
+          "올영세일",
+          "올영깡",
+          "올영추천템",
+          "올리브영",
+          "아이소이흔적세럼",
+          "isoi",
+          "흔적세럼",
+          "세럼추천",
+          "세럼",
+          "올리브영세럼",
+          "화장품깡",
+          "랜덤깡",
+          "아이소이세럼",
+          "계훈",
+          "계랄",
+          "계훈포카",
+          "킥플립",
+          "킥플립포카",
+          "킼플립포토카드",
+          "포토카드",
+          "포카"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "4월 올영픽!!! #아이소이 흔적세럼🫧✨ #올영깡 #isoi",
+          "description": "isoi 신제품 출시🫧✨\n연하남 꼬시는 계랄 남친 계훈 pick!\n\n@isoi_official \n아이소이 트러블 흔적세럼🩵\n\n트러블 / 요철 3일 컷➰\n✔️마데카와 로즈의 폭발적 흔적 케어 시너지\n✔️흔적 개선부터 트러블 근본 케어\n✔️요철에서 모공까지 울퉁불퉁 결 개선\n✔️거뭇거뭇한 색소침착 개선\n\n📍4.06~4.12\n아이소이 흔적세럼 35ml + 리필 한정기획(+35ml) 구매 시,\n올리브영 단독 계훈 한정판 포카 4종 증정\n\n*노출 의무 없는 단순 제공 상품입니다\n\n#아이소이 #isoi #올영픽 #흔적세럼 #아이소이흔적세럼"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6269",
+        "likeCount": "39",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ktah-vZpr3Koov5pOv1eIqn5S2Y",
+      "id": "E02wmopH-_M",
+      "snippet": {
+        "publishedAt": "2026-04-30T13:58:19Z",
+        "channelId": "UCO6vwEuWmFsPPe2zYaCdmFA",
+        "title": "아젤리아 크림? (색소침착, 미백, 여드름 세럼)",
+        "description": "#더마팩토리나이아신트라넥삼",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E02wmopH-_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E02wmopH-_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E02wmopH-_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E02wmopH-_M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E02wmopH-_M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김피부",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "아젤리아 크림? (색소침착, 미백, 여드름 세럼)",
+          "description": "#더마팩토리나이아신트라넥삼"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "59820",
+        "likeCount": "713",
+        "favoriteCount": "0",
+        "commentCount": "38"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "g1-dI4Ndhg0_qdCHHeLli5znfGw",
+      "id": "YfgpX3dZ9Ko",
+      "snippet": {
+        "publishedAt": "2026-04-02T10:00:48Z",
+        "channelId": "UCxt7DySpSNlCPb1_Wl3dKtg",
+        "title": "트와이스 나연 아껴쓰는 부스팅 세럼",
+        "description": "트와이스 나연 님 피부 관리템으로 언급된 부스터 세럼.\n\n✅ 히알루론산 베이스라 속건조 깊게 채워주는 수분 충전  ￼\n✅ 바르면 피부 속부터 차오르는 물광 느낌\n✅ 다음 단계 제품 흡수 잘 되게 도와주는 부스터 역할\n✅ 프리미엄 라인이라 피부 컨디션 자체를 끌어올리는 느낌\n\n👉 피부 푸석할 때 바르면\n“관리받은 피부 느낌” 바로 살아남\n\n#뷰티꿀팁 #내돈내산 #메이크업\n#스킨케어 #화장품추천 #트와이스\n#트와이스나연 #세럼추천",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YfgpX3dZ9Ko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YfgpX3dZ9Ko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YfgpX3dZ9Ko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YfgpX3dZ9Ko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YfgpX3dZ9Ko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "매일백서 셀럽픽",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "트와이스 나연 아껴쓰는 부스팅 세럼",
+          "description": "트와이스 나연 님 피부 관리템으로 언급된 부스터 세럼.\n\n✅ 히알루론산 베이스라 속건조 깊게 채워주는 수분 충전  ￼\n✅ 바르면 피부 속부터 차오르는 물광 느낌\n✅ 다음 단계 제품 흡수 잘 되게 도와주는 부스터 역할\n✅ 프리미엄 라인이라 피부 컨디션 자체를 끌어올리는 느낌\n\n👉 피부 푸석할 때 바르면\n“관리받은 피부 느낌” 바로 살아남\n\n#뷰티꿀팁 #내돈내산 #메이크업\n#스킨케어 #화장품추천 #트와이스\n#트와이스나연 #세럼추천"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "26200",
+        "likeCount": "124",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7Ps_SOXmcKZnmLQWb1MTfbi_uTA",
+      "id": "baRkTZ3RNVQ",
+      "snippet": {
+        "publishedAt": "2026-04-26T10:21:30Z",
+        "channelId": "UCxR4o2eiQz_nc2dUXGyysCw",
+        "title": "올리브영은 나가서 손 들고 서있어",
+        "description": "안녕하세요 여러분\n잠티입니다\n\n아주 잊을만하면 돌아오는 유튜버 잠티입니다\n늦어서 정말 죄송합니다!!!!!\n\n긴 시간의 녹화를 여러번 반복하니까\n힘이 빠져서 독기(?) 광기(?)가 부족할 수 있으나\n내용은 진심을 꾹꾹 눌러담았아요\n\n다시 강조하지만\n특정 개인에 대한 발언은\n⭐️건전한 비판일지라도 삭제하겠습니다⭐️\n\n저는 여러분 상상 이상으로 대가리 꽃밭이라\n모두와 행복하고 싶어요\n\n저 브랜드들의 제품들 중 다른 제품들은\n좋은 제품들 다들 많아요\n\n여러번 반복했지만 구달 선크림이라던지\n파넬 쿠션은 피부 표현으로 또 유명하잖아요?\n\n하지만 이상한 건 이상하다고 말해야죠\n\n항상 감사드립니다!\n\n*****\n\n타임라인\n\n00:00 오프닝\n00:08 주제: 비추템\n00:19 영상에 앞선 약속\n\n00:29 토리든, 웰라쥬 앰플\n01:51 PDRN은 유명한 비추템\n02:07 성분에디터 녹는 실 앰플\n02:48 에스트라 아토배리어 크림\n02:54 라로슈포제 시카플라스트 밤\n03:58 파티온 노스카나인 세럼\n04:27 더마팩토리\n05:12 에스트라 흔적 진정 세럼\n05:44 아비브 어성초 테카 캡슐 세럼\n07:10 메디큐브 PDRN 핑크 앰플\n07:40 구달 청귤 비타 C 세럼\n08:24 성분에디터 그린토마토 nmn 모공 앰플\n08:59 셀리맥스 노니 앰플\n09:45 동아제약 색소침착 프로 액제\n10:57 파넬 시카마누 푹잠 세럼\n\n13:54 구독해줘!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/baRkTZ3RNVQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/baRkTZ3RNVQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/baRkTZ3RNVQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/baRkTZ3RNVQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/baRkTZ3RNVQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "잠티",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "올리브영은 나가서 손 들고 서있어",
+          "description": "안녕하세요 여러분\n잠티입니다\n\n아주 잊을만하면 돌아오는 유튜버 잠티입니다\n늦어서 정말 죄송합니다!!!!!\n\n긴 시간의 녹화를 여러번 반복하니까\n힘이 빠져서 독기(?) 광기(?)가 부족할 수 있으나\n내용은 진심을 꾹꾹 눌러담았아요\n\n다시 강조하지만\n특정 개인에 대한 발언은\n⭐️건전한 비판일지라도 삭제하겠습니다⭐️\n\n저는 여러분 상상 이상으로 대가리 꽃밭이라\n모두와 행복하고 싶어요\n\n저 브랜드들의 제품들 중 다른 제품들은\n좋은 제품들 다들 많아요\n\n여러번 반복했지만 구달 선크림이라던지\n파넬 쿠션은 피부 표현으로 또 유명하잖아요?\n\n하지만 이상한 건 이상하다고 말해야죠\n\n항상 감사드립니다!\n\n*****\n\n타임라인\n\n00:00 오프닝\n00:08 주제: 비추템\n00:19 영상에 앞선 약속\n\n00:29 토리든, 웰라쥬 앰플\n01:51 PDRN은 유명한 비추템\n02:07 성분에디터 녹는 실 앰플\n02:48 에스트라 아토배리어 크림\n02:54 라로슈포제 시카플라스트 밤\n03:58 파티온 노스카나인 세럼\n04:27 더마팩토리\n05:12 에스트라 흔적 진정 세럼\n05:44 아비브 어성초 테카 캡슐 세럼\n07:10 메디큐브 PDRN 핑크 앰플\n07:40 구달 청귤 비타 C 세럼\n08:24 성분에디터 그린토마토 nmn 모공 앰플\n08:59 셀리맥스 노니 앰플\n09:45 동아제약 색소침착 프로 액제\n10:57 파넬 시카마누 푹잠 세럼\n\n13:54 구독해줘!!"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT14M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "922331",
+        "likeCount": "22272",
+        "favoriteCount": "0",
+        "commentCount": "2199"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "h7qn43zQ8_hH68Mu6ADS218Jz8o",
+      "id": "kN1rVsjltj0",
+      "snippet": {
+        "publishedAt": "2026-04-04T08:12:29Z",
+        "channelId": "UCZ-oeQmEiTLw4d5PSDyd1Cw",
+        "title": "넘버즈인 3번 모공 세럼 리뉴얼(내돈내산)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kN1rVsjltj0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kN1rVsjltj0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kN1rVsjltj0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kN1rVsjltj0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kN1rVsjltj0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뷰케터",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "넘버즈인 3번 모공 세럼 리뉴얼(내돈내산)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "21344",
+        "likeCount": "63",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uNlfHPjRVNcJlQCHwcggiROEXjA",
+      "id": "WzkozCohjis",
+      "snippet": {
+        "publishedAt": "2026-04-06T11:06:19Z",
+        "channelId": "UC4BdKEDX_xn5xg5fhghp08w",
+        "title": "고능한 진정세럼 바로 이거임 🚨 #내돈내산 공병 10통 넘음 ,, (지갑털이범) #올리브영세럼추천 #여름꿀템 #올영추천템 #닥터지 수딩세럼 #shorts",
+        "description": "순한데 촉촉하고 진정잘되면서 열감도 잡아주는 진정제품 찾으시는 분들께 아묻따! 추천드립니당 😗💚\n\n출시하자마자부터 맨날 쓰는 제 찐템\n닥터지 레드블레미쉬 클리어 히알시카 수딩세럼 강추 🔥🔥\n\n#닥터지세럼 #레드블레미쉬클리어히알시카수딩세럼 #진정세럼추천 #올영세럼 #올리브영추천템 #진정케어 #올영꿀템 #추천템",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WzkozCohjis/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WzkozCohjis/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WzkozCohjis/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WzkozCohjis/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WzkozCohjis/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쥬혜 JUHYE",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "고능한 진정세럼 바로 이거임 🚨 #내돈내산 공병 10통 넘음 ,, (지갑털이범) #올리브영세럼추천 #여름꿀템 #올영추천템 #닥터지 수딩세럼 #shorts",
+          "description": "순한데 촉촉하고 진정잘되면서 열감도 잡아주는 진정제품 찾으시는 분들께 아묻따! 추천드립니당 😗💚\n\n출시하자마자부터 맨날 쓰는 제 찐템\n닥터지 레드블레미쉬 클리어 히알시카 수딩세럼 강추 🔥🔥\n\n#닥터지세럼 #레드블레미쉬클리어히알시카수딩세럼 #진정세럼추천 #올영세럼 #올리브영추천템 #진정케어 #올영꿀템 #추천템"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2783",
+        "likeCount": "17",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "agtBhqoFoU5_LTD5qaadmU_eNOg",
+      "id": "i6mqYdUYGew",
+      "snippet": {
+        "publishedAt": "2026-04-14T14:57:29Z",
+        "channelId": "UC3RaX8SIFWzjR00xUq0m0Ow",
+        "title": "SulwhasooㅣFirst Care Activating Eye Serum (윤조아이세럼)ㅣ환하게 깨어나는 윤빛 눈가",
+        "description": "눈가의 노화도​ 한꺼번에 다양하게 찾아오니까​\n\nE.G.R.3 테크놀로지*로 노화 구조를 바로 잡다\n\n다크서클 3중 케어부터 아이백**까지​ 정교하게 개선해\n환하게 깨어나는 윤빛 눈가\n\n설화수 NEW 윤조아이세럼\n\nThe first signs of aging often appear around the eyes.\n\nPowered by E.G.R.3 Technology*, our advanced formula targets dark circles and under-eye puffiness, leaving the eye area brighter, smoother, and more refreshed.\n\nSulwhasoo NEW First Care Activating Eye Serum\n\n*E.G.R.3 TECHNOLOGY: Epidermal skin surface Grid Rebalancing Technology, 피부 가속 노화를 억제하여 건강한 피부로 가꿔주는 바이오 기술\n**아이백 부위 피부\n\n#설화수 #윤조아이세럼\n#Sulwhasoo #FirstCareActivatingEyeSerum",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i6mqYdUYGew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i6mqYdUYGew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i6mqYdUYGew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i6mqYdUYGew/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i6mqYdUYGew/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sulwhasoo",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "SulwhasooㅣFirst Care Activating Eye Serum (윤조아이세럼)ㅣ환하게 깨어나는 윤빛 눈가",
+          "description": "눈가의 노화도​ 한꺼번에 다양하게 찾아오니까​\n\nE.G.R.3 테크놀로지*로 노화 구조를 바로 잡다\n\n다크서클 3중 케어부터 아이백**까지​ 정교하게 개선해\n환하게 깨어나는 윤빛 눈가\n\n설화수 NEW 윤조아이세럼\n\nThe first signs of aging often appear around the eyes.\n\nPowered by E.G.R.3 Technology*, our advanced formula targets dark circles and under-eye puffiness, leaving the eye area brighter, smoother, and more refreshed.\n\nSulwhasoo NEW First Care Activating Eye Serum\n\n*E.G.R.3 TECHNOLOGY: Epidermal skin surface Grid Rebalancing Technology, 피부 가속 노화를 억제하여 건강한 피부로 가꿔주는 바이오 기술\n**아이백 부위 피부\n\n#설화수 #윤조아이세럼\n#Sulwhasoo #FirstCareActivatingEyeSerum"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5415238",
+        "likeCount": "22",
+        "favoriteCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WJbbxx5W-LdBYYdVpnL-AbHMuDI",
+      "id": "wgBp1UtDQM8",
+      "snippet": {
+        "publishedAt": "2026-04-06T00:21:58Z",
+        "channelId": "UCMWz3ye-kdQfTwYs_d82TPA",
+        "title": "프리메라 비타티놀 립세럼 UV로 입술 볼륨케어💓",
+        "description": "#프리메라 #립세럼 #입술관리 #오버립",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wgBp1UtDQM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wgBp1UtDQM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wgBp1UtDQM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wgBp1UtDQM8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wgBp1UtDQM8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rimi리미채널",
+        "tags": [
+          "프리메라립세럼",
+          "프리메라"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "프리메라 비타티놀 립세럼 UV로 입술 볼륨케어💓",
+          "description": "#프리메라 #립세럼 #입술관리 #오버립"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8146",
+        "likeCount": "95",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "R7Vyi3xT18GrBatmzSO0lfR34Vk",
+      "id": "7tdOVIuY0Bk",
+      "snippet": {
+        "publishedAt": "2026-04-29T03:48:17Z",
+        "channelId": "UCNRRHiObkkAWEXsR41jJChw",
+        "title": "#제품제공 민감성이 추천하는 모공 세럼💙",
+        "description": "#cosrx #코스알엑스 #화잘먹세럼 #모공세럼 #모공케어 #모공탄력 #올영추천템 #올리브영 #올영세일 #올영추천 #세럼추천 #펩타이드 #펩타이드세럼 #화잘먹추천 #민감성 #민감성추천템 #코스알엑스펩타이드 #블루펩타이드세럼 #모공탱탱세럼 #올리브영추천템",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7tdOVIuY0Bk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7tdOVIuY0Bk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7tdOVIuY0Bk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7tdOVIuY0Bk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7tdOVIuY0Bk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "체리유",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "#제품제공 민감성이 추천하는 모공 세럼💙",
+          "description": "#cosrx #코스알엑스 #화잘먹세럼 #모공세럼 #모공케어 #모공탄력 #올영추천템 #올리브영 #올영세일 #올영추천 #세럼추천 #펩타이드 #펩타이드세럼 #화잘먹추천 #민감성 #민감성추천템 #코스알엑스펩타이드 #블루펩타이드세럼 #모공탱탱세럼 #올리브영추천템"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2519",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UA84QK-8JfnZFFzb3trR0prgz7s",
+      "id": "wQoLfcwp5VA",
+      "snippet": {
+        "publishedAt": "2026-04-18T08:25:39Z",
+        "channelId": "UCB7bN6hy56H-nEMTH9DtUNg",
+        "title": "2026년 이젠 없으면 안되는! 토리든세럼! 베스트 TOP10! 가격 평점 리뷰 후기 총정리!!",
+        "description": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n❤️❤️❤️2026년 이젠 없으면 안되는! 토리든세럼! 베스트 TOP10! 가격 평점 리뷰 후기 총정리❤️❤️❤️\n\n[00:06]\n10위. #Torriden 수분충전 2종세트] 다이브인 세럼50ml+수딩크림100ml 1세트2세트 #토리든다이브인세럼&amp;수딩크림  [26,800원]\n💙구매링크👉https://link.coupang.com/a/db1L38\n\n[00:11]\n9위. #[2종세트] 토리든 다이브인 세럼 50ml + 수딩크림  [17,600원]\n💙구매링크👉https://link.coupang.com/a/db1L5C\n\n[00:16]\n8위. #[본사정품] TORRIDEN 토리든 다이브인 세럼 50ML 리필  [12,300원]\n💙구매링크👉https://link.coupang.com/a/db1L7h\n\n[00:21]\n7위. #다이브인 저분자 히알루론산 세럼 100ml 대용량 기획  [21,800원]\n💙구매링크👉https://link.coupang.com/a/db1L8H\n\n[00:26]\n6위. #[2종구성] 토리든 다이브인 세럼 50ml + 토너  [11,900원]\n💙구매링크👉https://link.coupang.com/a/db1McI\n\n[00:30]\n5위. #피부관리 오어스 히알루론시카 7초 세럼 인 앰플  [25,300원]\n💙구매링크👉https://link.coupang.com/a/db1MeD\n\n[00:35]\n4위. #블랑네이처 3초 시카클리어 카밍 세럼 30ml 1개\"  [26,800원]\n💙구매링크👉https://link.coupang.com/a/db1Mgn\n\n[00:40]\n3위. #피부관리 오어스 히알루론시카 7초 세럼 인 앰플  [15,300원]\n💙구매링크👉https://link.coupang.com/a/db1Mic\n\n[00:45]\n2위. #토리든 다이브인 저분자 히알루론산 세럼 100ml 1개\"  [14,900원]\n💙구매링크👉https://link.coupang.com/a/db1MjM\n\n[00:50]\n1위. #에스트라 아토베리어365 세라히알 수분 앰플 30ml 1개\"  [19,560원]\n💙구매링크👉https://link.coupang.com/a/db1MlD\n\n\n❤️상품품절시 구매링크👉https://link.coupang.com/a/db1LZJ\n\n\n#토리든세럼추천 #토리든세럼가격 #토리든세럼후기 #토리든세럼순위 #가성비토리든세럼 #최저가토리든세럼\n\n이 포스팅은 쿠팡파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wQoLfcwp5VA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wQoLfcwp5VA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wQoLfcwp5VA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wQoLfcwp5VA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "리뷰달인!",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "2026년 이젠 없으면 안되는! 토리든세럼! 베스트 TOP10! 가격 평점 리뷰 후기 총정리!!",
+          "description": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n❤️❤️❤️2026년 이젠 없으면 안되는! 토리든세럼! 베스트 TOP10! 가격 평점 리뷰 후기 총정리❤️❤️❤️\n\n[00:06]\n10위. #Torriden 수분충전 2종세트] 다이브인 세럼50ml+수딩크림100ml 1세트2세트 #토리든다이브인세럼&amp;수딩크림  [26,800원]\n💙구매링크👉https://link.coupang.com/a/db1L38\n\n[00:11]\n9위. #[2종세트] 토리든 다이브인 세럼 50ml + 수딩크림  [17,600원]\n💙구매링크👉https://link.coupang.com/a/db1L5C\n\n[00:16]\n8위. #[본사정품] TORRIDEN 토리든 다이브인 세럼 50ML 리필  [12,300원]\n💙구매링크👉https://link.coupang.com/a/db1L7h\n\n[00:21]\n7위. #다이브인 저분자 히알루론산 세럼 100ml 대용량 기획  [21,800원]\n💙구매링크👉https://link.coupang.com/a/db1L8H\n\n[00:26]\n6위. #[2종구성] 토리든 다이브인 세럼 50ml + 토너  [11,900원]\n💙구매링크👉https://link.coupang.com/a/db1McI\n\n[00:30]\n5위. #피부관리 오어스 히알루론시카 7초 세럼 인 앰플  [25,300원]\n💙구매링크👉https://link.coupang.com/a/db1MeD\n\n[00:35]\n4위. #블랑네이처 3초 시카클리어 카밍 세럼 30ml 1개\"  [26,800원]\n💙구매링크👉https://link.coupang.com/a/db1Mgn\n\n[00:40]\n3위. #피부관리 오어스 히알루론시카 7초 세럼 인 앰플  [15,300원]\n💙구매링크👉https://link.coupang.com/a/db1Mic\n\n[00:45]\n2위. #토리든 다이브인 저분자 히알루론산 세럼 100ml 1개\"  [14,900원]\n💙구매링크👉https://link.coupang.com/a/db1MjM\n\n[00:50]\n1위. #에스트라 아토베리어365 세라히알 수분 앰플 30ml 1개\"  [19,560원]\n💙구매링크👉https://link.coupang.com/a/db1MlD\n\n\n❤️상품품절시 구매링크👉https://link.coupang.com/a/db1LZJ\n\n\n#토리든세럼추천 #토리든세럼가격 #토리든세럼후기 #토리든세럼순위 #가성비토리든세럼 #최저가토리든세럼\n\n이 포스팅은 쿠팡파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "20",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "z1bwUSisoQN963ONT64yf4nSng8",
+      "id": "uvrU6eOlfDY",
+      "snippet": {
+        "publishedAt": "2026-04-21T04:09:46Z",
+        "channelId": "UCmr4EtRQtm7K0zHG_0e8UBw",
+        "title": "4시간만에 완판! 약사세럼 뭐길래?",
+        "description": "울친구들, 보내준 피드백 보고 다들 궁금해해요, 이 세럼 정말 뭔지🥹 그래서 드디어 재입고날 잡아왔잖아요✊\n다 친구들의 솔직한 피드백들 덕분이라 항상 감사해요🥹🙏\n\n1️⃣프리오더 오픈🔻\n친구들 드디어 기다리던 프리오더 소식을 가져왔어요🙋🏻‍♀️\n많은 분들이 세시드 워터락 퍼스트세럼 바르고\n장벽 튼튼해지고 피부가 쫀쫀촉촉해졌다는 후기를 정말 많이 남겨주셨죠🫶\n\n그래서 감사한 맴으로 이번 프리오더는 런칭 할인가 그대로🔥\n(다신 없을 마지막 할인가에 쿠폰/적립금 소멸되지 않게 가져옴😉)\n4월 24일 금요일 11시부터 단 2주, 세시드 자사몰에서 진행됩니다!\n\n🚚 프리오더인 만큼 제작 공정에 맞춰 \n5월 12일 주간부터 순차적으로 발송될 예정이에요. \n🏃‍♀️💨 늦으면 런칭 혜택 놓칠 수 있어요!\n\n오픈 알림을 원하거나, \n재입고 소식까지 놓치고 싶지 않은 친구들 있다면 댓글\n➡️[오픈 알림] 드릴게요\n➡️[재입고 알림 링크] 프로필링크 확인하세요🫶🏻\n\n➡️친구들의 솔직한 리뷰는 \n늘 언제나 비슷한 고민이 있는 다른 친구들의 선택에 많은 도움이 되니 늘 고맙고 감사해요☺️🥹🫶🏻🤍\n\n오늘도 더욱 단단하고 빛나는 우리가 되도록\n저와 세시드 @cecith_official 가 응원할게요오✨\n라뷰, all🤍🫶🏻",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uvrU6eOlfDY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uvrU6eOlfDY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uvrU6eOlfDY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uvrU6eOlfDY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uvrU6eOlfDY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쎄씨약사 [Ceci - 세포들의 시간]",
+        "tags": [
+          "세시드",
+          "퍼스트세럼",
+          "프리오더",
+          "피부장벽",
+          "속건조개선",
+          "보습루틴",
+          "속광피부",
+          "쫀쫀피부",
+          "재입고소식",
+          "뷰티정보",
+          "피부관리",
+          "저자극스킨케어",
+          "민감성피부",
+          "유수분밸런스",
+          "장벽강화",
+          "cecith",
+          "preorder",
+          "kbeauty",
+          "skincare",
+          "skinbarrier",
+          "hydration",
+          "moisturizer",
+          "glowingskin",
+          "sensitiveskin",
+          "dryskin",
+          "beautyroutine",
+          "layeringskincare",
+          "selfcare",
+          "dermatips",
+          "healthyglow"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "4시간만에 완판! 약사세럼 뭐길래?",
+          "description": "울친구들, 보내준 피드백 보고 다들 궁금해해요, 이 세럼 정말 뭔지🥹 그래서 드디어 재입고날 잡아왔잖아요✊\n다 친구들의 솔직한 피드백들 덕분이라 항상 감사해요🥹🙏\n\n1️⃣프리오더 오픈🔻\n친구들 드디어 기다리던 프리오더 소식을 가져왔어요🙋🏻‍♀️\n많은 분들이 세시드 워터락 퍼스트세럼 바르고\n장벽 튼튼해지고 피부가 쫀쫀촉촉해졌다는 후기를 정말 많이 남겨주셨죠🫶\n\n그래서 감사한 맴으로 이번 프리오더는 런칭 할인가 그대로🔥\n(다신 없을 마지막 할인가에 쿠폰/적립금 소멸되지 않게 가져옴😉)\n4월 24일 금요일 11시부터 단 2주, 세시드 자사몰에서 진행됩니다!\n\n🚚 프리오더인 만큼 제작 공정에 맞춰 \n5월 12일 주간부터 순차적으로 발송될 예정이에요. \n🏃‍♀️💨 늦으면 런칭 혜택 놓칠 수 있어요!\n\n오픈 알림을 원하거나, \n재입고 소식까지 놓치고 싶지 않은 친구들 있다면 댓글\n➡️[오픈 알림] 드릴게요\n➡️[재입고 알림 링크] 프로필링크 확인하세요🫶🏻\n\n➡️친구들의 솔직한 리뷰는 \n늘 언제나 비슷한 고민이 있는 다른 친구들의 선택에 많은 도움이 되니 늘 고맙고 감사해요☺️🥹🫶🏻🤍\n\n오늘도 더욱 단단하고 빛나는 우리가 되도록\n저와 세시드 @cecith_official 가 응원할게요오✨\n라뷰, all🤍🫶🏻"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "7564",
+        "likeCount": "49",
+        "favoriteCount": "0",
+        "commentCount": "182"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qIm0tdUCf3e3Zk6GluLx5IoNUT0",
+      "id": "6ZuxJjZeE9g",
+      "snippet": {
+        "publishedAt": "2026-05-05T23:00:14Z",
+        "channelId": "UC25PQIe5vzhzuBfSLlfnNyA",
+        "title": "모공 지우개 추천 : 비플레인 녹두 모공 타이트업 세럼 💚",
+        "description": "여름 맞이 모공 & 트러블 삭제 추천템 들고 왔어요 🩵\n\n모공 부자인 저는 날씨가 더워질수록 모공이 더 도드라져 보여서 고민이었는데요 ㅠ\n\n모공 삭제 추천템은 바로 비플레인 녹두 모공 타이트업 세럼 !!\n\n겔 to 워터 제형이라 끈적임 없이 산뜻해서 데일리로 사용하기 좋아요 ✨\n(저는 벌써 두 통째 사용 중이랍니다)\n\n다음 영상은 트러블 삭제 추천템으로 돌아올게효 🩵\n\nSummer pore care pick 🩵\n\nBeplain Mung Bean Pore Tight-Up Serum for tighter-looking pores\n\nFresh, non-sticky, and perfect for daily use ✨\n\n#비플레인 #모공케어 #올리브영 #kbeauty #koreanskincare",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6ZuxJjZeE9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6ZuxJjZeE9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6ZuxJjZeE9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6ZuxJjZeE9g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6ZuxJjZeE9g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카니 | Kani",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "모공 지우개 추천 : 비플레인 녹두 모공 타이트업 세럼 💚",
+          "description": "여름 맞이 모공 & 트러블 삭제 추천템 들고 왔어요 🩵\n\n모공 부자인 저는 날씨가 더워질수록 모공이 더 도드라져 보여서 고민이었는데요 ㅠ\n\n모공 삭제 추천템은 바로 비플레인 녹두 모공 타이트업 세럼 !!\n\n겔 to 워터 제형이라 끈적임 없이 산뜻해서 데일리로 사용하기 좋아요 ✨\n(저는 벌써 두 통째 사용 중이랍니다)\n\n다음 영상은 트러블 삭제 추천템으로 돌아올게효 🩵\n\nSummer pore care pick 🩵\n\nBeplain Mung Bean Pore Tight-Up Serum for tighter-looking pores\n\nFresh, non-sticky, and perfect for daily use ✨\n\n#비플레인 #모공케어 #올리브영 #kbeauty #koreanskincare"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8394",
+        "likeCount": "28",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 50,
+    "resultsPerPage": 50
+  }
+}

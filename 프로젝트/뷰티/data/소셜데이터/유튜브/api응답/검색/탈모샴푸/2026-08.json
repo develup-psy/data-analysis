@@ -1,0 +1,2247 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "hLpivPKwCGiNqcdES84IMdmytdk",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 208739,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZHyddJKThFyQKIe5quODq-dsjcQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-7_9A1h4Lzk"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-20T12:43:29Z",
+        "channelId": "UCsMKo0kS-Q-duhbE8nyaKbQ",
+        "title": "365일 탈모샴푸만 쓰지 마세요! 탈모탈출교실 ep.1 #탈모관리 #탈모",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-7_9A1h4Lzk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-7_9A1h4Lzk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-7_9A1h4Lzk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-7_9A1h4Lzk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-7_9A1h4Lzk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "혜니알",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-20T12:43:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BRj6kax4hCWOG8SePgj-_zRurlY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AhvXry1L0uo"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-25T14:11:05Z",
+        "channelId": "UC7te5a_vDJupE_JCmr_R_rQ",
+        "title": "다이소 TS 샴푸 #다이소샴푸 #탈모샴푸",
+        "description": "다이소추천템, 다이소샴푸, 다이소품절템, TS샴푸, 다이소TS샴푸.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AhvXry1L0uo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AhvXry1L0uo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AhvXry1L0uo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AhvXry1L0uo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AhvXry1L0uo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "채세라 CHAESERA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-25T14:11:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cieVHh-m9R2o2veeLzqWx0vvPQc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1KLVjlQmq0w"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-10T10:00:08Z",
+        "channelId": "UC--D3GmKHrl62GeY0t1ke9A",
+        "title": "트리코닉스 트리코엑스 탈모완화 볼륨 샴푸 내돈내산 리뷰 / 유튜브만 보면 나오는 그 광고! 진짜 탈모 예방 될까?",
+        "description": "유튜브만 보면 나오는 그 광고! 트리코닉스의 트리코엑스 탈모완화 볼륨 샴푸를 내돈내산 리뷰했습니다! 진짜 탈모 예방 탈모 완화 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1KLVjlQmq0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1KLVjlQmq0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1KLVjlQmq0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1KLVjlQmq0w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "훈남하이 김대표의 내돈내산",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-10T10:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AMg5Tlop7eLAU7t9TgjMhSRXzgI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aUtXVNzO4eI"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-02T08:30:01Z",
+        "channelId": "UCA_vAuoVfnlEeaxY-oxwGDg",
+        "title": "(광고❌) 유명 탈모샴푸 비교 리뷰 2탄! 탈모 전문가들이 더 솔직하게 털어봤습니다 l 탈모 백과사전",
+        "description": "\"탈모샴푸, 진짜 효과 있을까?\" 올리브영, 쿠팡 상위권 #탈모샴푸 6가지 솔직 비교 리뷰✨ 드디어 2탄에서 나머지 제품까지 리뷰해 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aUtXVNzO4eI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aUtXVNzO4eI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aUtXVNzO4eI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aUtXVNzO4eI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aUtXVNzO4eI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "모발이'자란다'TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-02T08:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uWLLV9J7AZZhvX7F2aUgwEJWdBo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5npxJ85ilSY"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-08T11:00:08Z",
+        "channelId": "UC9Vkx4zyHY4myJoykjtVm7A",
+        "title": "[29분순삭] 탈모 막는 방법. 샴푸에 이것만 넣으면 머리 숱 풍성해 집니다.",
+        "description": "탈모를 막고 머리 숱을 풍성하게 만드는 커피샴푸 만드는 법. 00:00 1편 - 탈모 걱정 싹 사라지는 커피 샴푸 만드는 법 09:14 2편 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5npxJ85ilSY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5npxJ85ilSY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5npxJ85ilSY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5npxJ85ilSY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5npxJ85ilSY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "교육하는 의사! 이동환TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-08T11:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N7aG9g6kTNqHmZUa9IgU11oqk60",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eIRk32r3J88"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-16T11:00:06Z",
+        "channelId": "UC_2j-zha1h3bAgS5s6sCQfQ",
+        "title": "[탈모 샴푸] 이 샴푸쓰면 머리카락 무조건 자랍니다!｜안자라면 100% 환불!｜탈모 샴푸 추천!｜탈모 샴푸 성분과 원리 한눈 정리!",
+        "description": "안녕하세요. 털업입니다. \"머리를 감기만 했는데 휑했던 정수리에 싹이 돋아난다고?!\" 탈모 샴푸에 수백만 원씩 쏟아붓고도 배신당했던 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eIRk32r3J88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eIRk32r3J88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eIRk32r3J88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eIRk32r3J88/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eIRk32r3J88/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "탈모 극복 No.1 - 털업",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-16T11:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bCM75xOsFq_ACXL9ZSIf3m9IXs0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WDRIbE0WwBY"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-08T11:09:53Z",
+        "channelId": "UC6B9J3dKyA8TF-3YC0sEvTw",
+        "title": "5000원이면 충분합니다! 탈모병원도 절대 안 알려주는 다이소 탈모샴푸 3가지!  비싼 관리 효과 없다면? 알아두시면 절대 후회 안하실겁니다",
+        "description": "탈모 #다이소 #머리빠짐 #탈모샴푸 #탈모샴푸추천 탈모 샴푸, 비쌀수록 좋다고 생각하시죠? 숨겨진 진실은 전혀 다릅니다 구독자 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WDRIbE0WwBY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WDRIbE0WwBY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WDRIbE0WwBY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WDRIbE0WwBY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WDRIbE0WwBY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/WDRIbE0WwBY/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "탈모박사 조선행",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-08T11:09:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dVzO91JO7dB-R1IkJNfYcclGEyU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3K810rVaYJc"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-25T09:00:03Z",
+        "channelId": "UCLYfVlKyWyEjREuccfe1HNw",
+        "title": "카이스트에서 개발한 탈모 원재료? 탈모 샴푸, 더 이상 고민하지 마세요!",
+        "description": "평생 고민, 탈모! 인기템이었던 오리지니크 샴푸가 단종되고 대체할 수 있는 샴푸를 찾기 위해 부단히 노력한 뽀큐트.. 그리고 결국 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3K810rVaYJc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3K810rVaYJc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3K810rVaYJc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3K810rVaYJc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3K810rVaYJc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/3K810rVaYJc/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "뽀큐트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-25T09:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ioCKOLpfdJZXHtd9Ga_XNhAlP58",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2GCo3iyZWf0"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-27T10:15:15Z",
+        "channelId": "UCSzTXeUBWhwgOSOuhfeC3xg",
+        "title": "탈모 10년차가 정착한 올영세일 샴푸 3종! (지성·민감두피 떡짐ZERO)",
+        "description": "제품제공 [올리브영 샴푸 3종 찐 실사용 추천] 20대 때 오히려 머리숱이 더 적었던 탈모 10년 차가 정착한 정수리 떡짐 심한 지성두피 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2GCo3iyZWf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2GCo3iyZWf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2GCo3iyZWf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2GCo3iyZWf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2GCo3iyZWf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/2GCo3iyZWf0/sardefault.jpg",
+            "width": 1778,
+            "height": 3160
+          }
+        },
+        "channelTitle": "별블리아 byulvelya",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-27T10:15:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Pu8v8W8gItvI6L4cK2rNKrOEkJU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J5HBBD7yghM"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-27T23:00:23Z",
+        "channelId": "UCBSlpWoh-NlaI6JicdsqNLQ",
+        "title": "샴푸값보다 싼데 효과 난리 난 약국 탈모약 정체#연예인추천 #탈모관리 #모발관리",
+        "description": "의사 처방 없이 약국에서 바로 사서 쓸 수 있는 바르는 탈모약 관리법 공개! 하루 두 번 꾸준히 바르면 가늘어진 머리카락도 다시 굵어 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J5HBBD7yghM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J5HBBD7yghM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J5HBBD7yghM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J5HBBD7yghM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J5HBBD7yghM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "셀럽픽_CelebPick",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-27T23:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PvOVImc374uhT3PqhezvrINPeyI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "COj1vFMCVXY"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-28T09:00:15Z",
+        "channelId": "UCMYFfUu0IHJTF7J4hE-1lGg",
+        "title": "광고❌ “탈모 병원치료보다 효과 좋습니다…” 올영세일, 지금 당장 쟁여놓아야 할 올리브영 두피꿀템 추천드려요!",
+        "description": "1년에 네 번뿐인 올리브영 빅세일, 뭘 담으셔야 할까요? 두피에 나쁜 제품을 싸게 사면, 내 머리엔 제일 비싼 값을 치르게 됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/COj1vFMCVXY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/COj1vFMCVXY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/COj1vFMCVXY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/COj1vFMCVXY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/COj1vFMCVXY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/COj1vFMCVXY/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "이건민의 풍성한 이야기",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-28T09:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kvDiWi1diAU3DaHkbgIdhHSAnq4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CXg4CQH_iWo"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-25T10:00:16Z",
+        "channelId": "UCvj0dcpubuBGJk_a3mwV6xg",
+        "title": "도브 비누 절대 그냥 사지 마세요 #도브 #탈모샴푸추천",
+        "description": "제 프로필 누르면 나오는 링크 클릭후 [214]번 검색하면 제품 정보 확인 가능하세요   탈모에 좋다는 도브 비누, 소문만 믿고 쓰면 안 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CXg4CQH_iWo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CXg4CQH_iWo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CXg4CQH_iWo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CXg4CQH_iWo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CXg4CQH_iWo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "득템좌표",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-25T10:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gCW1RvPh89JqlxEW5R1PTr0lBqk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CSZILM4D7TQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-17T22:00:36Z",
+        "channelId": "UC3RMRxumD09t-sRdblxQ6qQ",
+        "title": "나만 몰랐던 머리빠짐 장윤주는 이걸로“해결”#탈모샴푸추천 #머리빠짐 #두피관리",
+        "description": "나만 몰랐던 방법? 장윤주는 **머리빠짐**이 신경 쓰일 때 어떤 제품을 사용할까요? 평소 **머리빠짐** 때문에 샴푸할 때마다 걱정 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CSZILM4D7TQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CSZILM4D7TQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CSZILM4D7TQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CSZILM4D7TQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CSZILM4D7TQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "최애의뷰티",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-17T22:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yTE_yqnGNpe5eNfyTS0mbceWKO4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lFfLrkTMo4k"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-12T11:00:36Z",
+        "channelId": "UCvwYA7KziRArhRQHhNcuAZQ",
+        "title": "배수구에 쌓인 머리카락, 볼 때마다 철렁하지. 그럴수록 비싼 탈모샴푸보다 매일 쓰는 샴푸 성분부터 확인해보자. 탈모도  #탈모샴푸 #탈모샴푸추천 #탈모샴푸1위 #탈모예방 #탈모성지",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lFfLrkTMo4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lFfLrkTMo4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lFfLrkTMo4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lFfLrkTMo4k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lFfLrkTMo4k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "just shampoo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-12T11:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CFKkigoYD8ov8cgmoSuuQ9_mS4I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7VbVjbstaak"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-19T01:39:58Z",
+        "channelId": "UC961SWSDOAb_ZgNJk8eZJoQ",
+        "title": "유독 탈모 샴푸 유목민이 많은 진짜 이유",
+        "description": "미용 , 뷰티업계 25년 차 카미의 좌충우돌 뷰티이야기 얼굴이 어둡게나왔네..그마나 얼굴이 좀 괜찬... 급한분은 4분50초부터 보세요.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7VbVjbstaak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7VbVjbstaak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7VbVjbstaak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7VbVjbstaak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7VbVjbstaak/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/7VbVjbstaak/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "뷰티 선생 kami",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-19T01:39:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hYy8EhfMchgVaBFh_p9-NOtqprY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BGMXjd6FKx8"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-25T03:57:41Z",
+        "channelId": "UCELt4y1rPfN8lnHWlF7Yr1A",
+        "title": "(탈모샴푸 무료체험단) “입점된 곳만 1,500곳?” 청담 살롱 샴푸 직접 써봤습니다 #탈모 #탈모샴푸",
+        "description": "히스테모 두피케어 제품 체험단 모집✨】 * 샴푸 체험단 모집은 추후 별도 공지 예정이니, 놓치지 마세요! 체험 제품: ① 히스테모 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BGMXjd6FKx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BGMXjd6FKx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BGMXjd6FKx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BGMXjd6FKx8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BGMXjd6FKx8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "삼탈모tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-25T03:57:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QdPkZlpq2Bb1D6laKZ0opZuNUZ4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KJOvAnmrD8k"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-01T09:00:21Z",
+        "channelId": "UC120Dx91wwLlbOjxCMBpZiQ",
+        "title": "의사가 솔직하게 말해주는 탈모샴푸 #여성탈모",
+        "description": "시술에 대한 모든 문의는 카카오톡 반딧불의원으로 연락주세요 http://pf.kakao.com/_xiRjqn 모든 진료는 제가 직접하고 압구정에 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KJOvAnmrD8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KJOvAnmrD8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KJOvAnmrD8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KJOvAnmrD8k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KJOvAnmrD8k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "빛나는 피부 닥터영",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-01T09:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Hj1U7RXNj5G2GWfkf1KrSSJBs4A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "abiCWysNpZc"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-19T15:40:30Z",
+        "channelId": "UCRrCOpPDXu91iLngHjDsOjA",
+        "title": "탈모 샴푸의 명가 TS가 다이소에 입점했습니다!품절 대란이었는데 드디어 품절이 풀려서 바로 사왔어요 TS 다이소 5종 라인업으로 두피부터 모발까지 3단계 루틴 케어를 시작해 보세요",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/abiCWysNpZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/abiCWysNpZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/abiCWysNpZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/abiCWysNpZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/abiCWysNpZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "우리집구피",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-19T15:40:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eK9gOdlMaEhXrougvXitUMCixIU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Of8ywyi6fQw"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-17T09:30:30Z",
+        "channelId": "UC_2j-zha1h3bAgS5s6sCQfQ",
+        "title": "탈모샴푸? 짧게 요약해서 설명해드립니다",
+        "description": "이거보시면 좀 더 이해가 확되실거에요.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Of8ywyi6fQw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Of8ywyi6fQw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Of8ywyi6fQw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Of8ywyi6fQw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Of8ywyi6fQw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "탈모 극복 No.1 - 털업",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-17T09:30:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QYb-c2GTq2bBkBfLFNweczvo9fQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WfNpdoIeTOI"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-13T01:00:36Z",
+        "channelId": "UCMiZCpctVjScTRnzC06fPEA",
+        "title": "&quot;탈모 샴푸 쓰면 머리 안 빠질까?&quot; 식약처가 인정한 4가지 성분의 진짜 진실! #차혜정원장 #화명동피부과 #탈모관리",
+        "description": "\"매일 쓰는 탈모 샴푸, 진짜 머리 빠지는 걸 막아줄까요?\" 많은 분들이 탈모 샴푸를 쓰면 탈모가 치료되거나 막아질 거라고 기대하시지 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WfNpdoIeTOI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WfNpdoIeTOI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WfNpdoIeTOI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WfNpdoIeTOI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WfNpdoIeTOI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "차혜정의 피부노트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-13T01:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-jx8k8LGV0gPNDVhi6-nHOstp04",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qp4V_JBlAq0"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-07T09:07:04Z",
+        "channelId": "UCI8P2wLbmTmfL0a1xnQImzA",
+        "title": "​한가인이 실제 쓴다는 &#39;탈모전용 비건 샴푸&#39; 써봤는데… (결과 대박)",
+        "description": "머리숱과 볼륨이 진짜 중요한 거 아시죠? 한가인 님이 추천해서 난리 난 '려 비건 탈모전용 샴푸' 써봤습니다! ​   비건 인증으로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qp4V_JBlAq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qp4V_JBlAq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qp4V_JBlAq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Qp4V_JBlAq0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Qp4V_JBlAq0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "오두막",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-07T09:07:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qIyGneJh6qDoefbr5DUKSWR9dTA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6SWqHkuYrLM"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-24T00:40:19Z",
+        "channelId": "UCLXYyuMtfzbXPlimfOWQGHA",
+        "title": "가을철 탈모 예방! #도브비누머리감기 #탈모샴푸추천",
+        "description": "정보   영상 내 제품 스티커를 클릭해주세요! (재생 3초 후에 떠요)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6SWqHkuYrLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6SWqHkuYrLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6SWqHkuYrLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6SWqHkuYrLM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6SWqHkuYrLM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여니룸",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-24T00:40:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9UWKpB6q_gpxTuwffz86XQ75-II",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GmvWlKKx9kw"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-11T08:45:25Z",
+        "channelId": "UCS2V0au2qttfvBqr1ufPXpQ",
+        "title": "샴푸 끊고 이것 써서 탈모 탈출한 안문숙 #탈모비누 #머리숱비결 #두피케어 #셀럽템 #품절템 #비누추천 #도브 #탈모예방 #안문숙 #쿠팡템 #꿀템 #연예인추천템",
+        "description": "샴푸 끊고 이것 써서 탈모 탈출한 안문숙 #탈모예방 #탈모샴푸추천 #탈모샴푸 #비누추천 #도브 #두피케어 #안문숙 #안문숙비누 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GmvWlKKx9kw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GmvWlKKx9kw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GmvWlKKx9kw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GmvWlKKx9kw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GmvWlKKx9kw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "올템",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-11T08:45:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "30_kZLkc0fpU_w9u9R8J4U5QnRE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z9R7pI52Tnk"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-12T11:30:08Z",
+        "channelId": "UCmnJcnqm5d9muGLOiehXm8w",
+        "title": "머리 감을 때 손가락 사이. 탈모샴푸는 좋은성분만 찾는건 하수, 안좋은 성분까지 함께 찾는건 고수라니께 #탈모샴푸 #탈모샴푸후기 #탈모샴푸추천 #볼륨샴푸 #초록샴푸",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z9R7pI52Tnk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z9R7pI52Tnk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z9R7pI52Tnk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z9R7pI52Tnk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z9R7pI52Tnk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "시.팔.아",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-12T11:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Lqlvvs7ayYnPtwSL0zhDJB01Nsc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hD18UmbMv8s"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-22T09:00:10Z",
+        "channelId": "UC_ZpSj2WGAEg_BnD1UpOUgw",
+        "title": "왕창 빠지던 머리카락, 샴푸 순서만 바꿨더니 다시 굵고 풍성해졌다! 집에서 바로 따라할 수 있는 7가지 탈모예방 꿀팁까지 (지루성 두피염)",
+        "description": "걸음 좀 느려졌을 뿐인데.. 병원 가니 치매 초기(치매 전조증상 5가지)▽ https://youtu.be/oXSlQLT1n8I?si=1gw_FTT9hIc0mJqY 머리 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hD18UmbMv8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hD18UmbMv8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hD18UmbMv8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hD18UmbMv8s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hD18UmbMv8s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "건강 똑소리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-22T09:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OpFqJhJ3ubO81fFbevZ4k5mQVUw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vmNA6Q7p-mU"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-27T07:05:59Z",
+        "channelId": "UCQbtiMCG66RAuLMurONVPiw",
+        "title": "탈모샴푸로 머리가 자라날까? #탈모샴푸",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vmNA6Q7p-mU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vmNA6Q7p-mU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vmNA6Q7p-mU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vmNA6Q7p-mU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vmNA6Q7p-mU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "루틴왕 두피티",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-27T07:05:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K5Zekd8od3P7BRpCq3E2xyiVDBY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "milKeeN2fPk"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-27T09:19:24Z",
+        "channelId": "UCwZm9LqSfC9ChDZoqfHt1Bw",
+        "title": "탈모샴푸 이거 모르고 사면 후회합니다!! #쇼츠#꿀팁#탈모#탈모샴푸#샴푸추천#올바소#아이스쇼크#아이스쇼크샴푸",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/milKeeN2fPk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/milKeeN2fPk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/milKeeN2fPk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/milKeeN2fPk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/milKeeN2fPk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "올바소 TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-27T09:19:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YOcf2P3ltcjm1wflzsC4O1mDg9A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b9zeqPeAeMU"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-26T14:36:57Z",
+        "channelId": "UCrWA2Sdl78WzZpYW219w0LQ",
+        "title": "집 나간 머리카락도 돌아온다는 여성 탈모 샴푸",
+        "description": "출산 후 탈모 저리 비켜~!!! 애들 키우느라 신경 쓸 것도 많은데 머리카락까지 빠지시나요? 이거 저희도 쓰고 있는 제품들인데요 샴푸 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b9zeqPeAeMU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b9zeqPeAeMU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b9zeqPeAeMU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b9zeqPeAeMU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b9zeqPeAeMU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JinJIN_SIM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-26T14:36:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZGph65YIckSZSkY9SzNAGNll_ls",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M0OSyABqXVo"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-13T09:00:19Z",
+        "channelId": "UCFg0WKUPVEGG8kqntBWYJHQ",
+        "title": "머리숱 부자 고현정 회춘 루틴 #고현정샴푸 #탈모샴푸추천 #볼륨샴푸",
+        "description": "고현정 샴푸 머리숱 부자 고현정의 두피 회춘 루틴이라는데 #고현정 #고현정샴푸 #고현정머리숱 #고현정두피케어 #고현정헤어 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M0OSyABqXVo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M0OSyABqXVo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M0OSyABqXVo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M0OSyABqXVo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M0OSyABqXVo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스타잇템",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-13T09:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qc_jwoTCoTHRSRj2Vy7bAiKSWrg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VyyjboYInjo"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-26T09:00:05Z",
+        "channelId": "UCQSvYVfs-adHo8CavlsolZg",
+        "title": "탈모 스트레스를 해소해 줄 소름돋는 샴푸?",
+        "description": "웬만한 탈모 케어 제품 다 써본 차예련이 욕실에서 끝까지 싹 비워버렸다는 진짜 물건! 머리숱 고민 싹 지워주고 정수리 채워주는 역대 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VyyjboYInjo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VyyjboYInjo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VyyjboYInjo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VyyjboYInjo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VyyjboYInjo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀떡이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-26T09:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3ci8utAwG4RGrxrGGV2r3areVso",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "maoi4X11bkM"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-08T11:42:26Z",
+        "channelId": "UC6B9J3dKyA8TF-3YC0sEvTw",
+        "title": "샴푸는 비쌀수록 좋다 다이소가 완전히 깨버렸어요!",
+        "description": "탈모 #다이소 #머리빠짐 #탈모샴푸 #탈모샴푸추천.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/maoi4X11bkM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/maoi4X11bkM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/maoi4X11bkM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/maoi4X11bkM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/maoi4X11bkM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "탈모박사 조선행",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-08T11:42:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HRSzMmr_-8pLOXb4Xh3TURx2mNA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fJdvQtxZ0Kg"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-06T10:00:24Z",
+        "channelId": "UC5ubxmC9RqmStLm_s0WpUmQ",
+        "title": "버추얼 모델이 극찬한 탈모샴푸",
+        "description": "shorts #탈모 #탈모샴푸 #버추얼모델 #여성탈모 #탈모예방 #오드문 #oddmoon.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fJdvQtxZ0Kg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fJdvQtxZ0Kg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fJdvQtxZ0Kg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fJdvQtxZ0Kg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fJdvQtxZ0Kg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "오드문",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-06T10:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XBBWsU4rZszzVxuKSDq1ezlBV5I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PCdo3o-Edqk"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-16T21:21:51Z",
+        "channelId": "UCwZm9LqSfC9ChDZoqfHt1Bw",
+        "title": "탈모샴푸, 아직도 정착 못하셨나요?#올바소 #아이스쇼크샴푸 #탈모샴푸 #탈모완화샴푸 #탈모증상완화 #두피샴푸 #두피관리 #남자샴푸 #샴푸추천",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PCdo3o-Edqk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PCdo3o-Edqk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PCdo3o-Edqk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PCdo3o-Edqk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PCdo3o-Edqk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "올바소 TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-16T21:21:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Kq-Gou0PzedoTCfiLVFGEd7LGZE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xMxkMUnzDmM"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-21T13:21:06Z",
+        "channelId": "UCqcd7GF5HyIPNbeAy8X5Rbw",
+        "title": "머리감는방법 정수리냄새 두피가려움 #탈모샴푸추천",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xMxkMUnzDmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xMxkMUnzDmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xMxkMUnzDmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xMxkMUnzDmM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xMxkMUnzDmM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "탈모관리노트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-21T13:21:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VV65IF2Mw8TV2gMNeDyvsck9Ciw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y_usOfUoZ_Y"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-22T12:22:07Z",
+        "channelId": "UCB9Ze89vpCABvf5NRzh640Q",
+        "title": "맥주효모 탈모샴푸 끝판왕! 나인밀라 카밍비어 샴푸 솔직 후기",
+        "description": "사기 전에 후기부터 찾아보는 분들을 위한 채널입니다. 함께 꼼꼼히 살펴봐요. 궁금한 제품이 있다면 후기추적단과 먼이 포스팅은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y_usOfUoZ_Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y_usOfUoZ_Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y_usOfUoZ_Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y_usOfUoZ_Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y_usOfUoZ_Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "후기추적단",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-22T12:22:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Jx2eqX0e7d1hBOly3Xmqfk5TpZA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N-lOifVPBgQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-07T09:00:26Z",
+        "channelId": "UCrDRK68MHCL4M8x5fjZP6Yg",
+        "title": "샴푸 끊고 이거 썼더니 머리숱 풍성해진 안문숙 탈모 비누",
+        "description": "여러분은 머리숱 관리 어떻게 하고 계세요?   안문숙님이 애용하는 비누는 \"도브\"제품입니다같은 도브라도 국내산과 미국산은 성분이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N-lOifVPBgQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N-lOifVPBgQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N-lOifVPBgQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N-lOifVPBgQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N-lOifVPBgQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "셀럽한끼",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-07T09:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4tEjyfbueb3sHYTEePpaerTDNGI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "McD6Xc7iXUA"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-23T01:30:10Z",
+        "channelId": "UCsMKo0kS-Q-duhbE8nyaKbQ",
+        "title": "두피 타입별 샴푸추천🩵",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/McD6Xc7iXUA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/McD6Xc7iXUA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/McD6Xc7iXUA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/McD6Xc7iXUA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/McD6Xc7iXUA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "혜니알",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-23T01:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IJsJOLu1HncqIuZm28ofb7Vki3Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qf-5OTtHkj4"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-19T14:16:12Z",
+        "channelId": "UC5hzH_PplIKbzA2q5FY9a0g",
+        "title": "임산부 샴푸부터 탈모 샴푸까지! 닥터시드 블랙빈 비건🖤",
+        "description": "요즘 머리 감을 때마다 빠지는 머리카락이 신경 쓰여서 두피부터 모발까지 꼼꼼하게 관리해주고 있어요   제가 사용해본 제품은 닥터 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qf-5OTtHkj4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qf-5OTtHkj4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qf-5OTtHkj4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qf-5OTtHkj4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qf-5OTtHkj4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "배고픕니다",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-19T14:16:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EZLdnKbaI4u1P2e08Kn-6lgKY6g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HXhyf8qwOqk"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-02T08:26:32Z",
+        "channelId": "UCJxMY2Y8x1-djvxjLdP_mAg",
+        "title": "&#39;이거 진짜 효과있구나&#39; 레이디제인 탈모샴푸",
+        "description": "제 프로필 클릭 후 채널이름 하단에 있는 링크에서 '478' 검색하시면 제품을 확인할 수 있습니다   \"팔로우\"와 \"좋아요\"는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HXhyf8qwOqk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HXhyf8qwOqk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HXhyf8qwOqk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HXhyf8qwOqk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HXhyf8qwOqk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "셀럽의잇템",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-02T08:26:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tsLR8ip1CFXhOqujPmrcL1haSKQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Avd7qlwM9Qc"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-05T20:00:16Z",
+        "channelId": "UC4psOFZE87za4Uhxqmm76nA",
+        "title": "TS 샴푸 #탈모샴푸추천 #비듬케어 #정수리냄새제거 #라벤더향샴푸 #쿨링샴푸 #머리숱부자 #가성비샴푸 #쿠팡로켓배송",
+        "description": "제목: 하수구 막힘 탈출! 탈모·비듬·정수리 냄새 싹 지워주는 국민 TS 샴푸 대량 특가 ‍♂️] 여름철 머리 감을 때마다 하수구에 한 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Avd7qlwM9Qc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Avd7qlwM9Qc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Avd7qlwM9Qc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Avd7qlwM9Qc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Avd7qlwM9Qc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "miss-ion",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-05T20:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nwgP6OmSmOWowiPfLgb-vnyPT50",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8I-CBYOHgk0"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-19T23:34:26Z",
+        "channelId": "UCKUPJj8f9dUQSnxwpyvXfkw",
+        "title": "샴푸에 이거 한방울 넣으면 탈모가 해결된다고???",
+        "description": "샴푸에 로즈마리 오일 한 방울을 넣으면 탈모가 좋아진다? 실제로 로즈마리 오일과 모발 성장에 관한 연구가 있어 이런 이야기가 많이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8I-CBYOHgk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8I-CBYOHgk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8I-CBYOHgk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8I-CBYOHgk0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8I-CBYOHgk0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "mama'spa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-19T23:34:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4pqVUGc3oOQNGa3nUiVxTnSx6_4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yx7sTbkdqtw"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-21T08:50:47Z",
+        "channelId": "UC_mVQOUG9eSgb5_3RMTm9rg",
+        "title": "좋다는 성분, 많이 넣으면 좋은 걸까요? 탈모 샴푸의 진짜 포인트 #더마애 #탈모샴푸 #기능성샴푸 #병원샴푸 #식물성샴푸 #두피관리",
+        "description": "CapCut 이 멋진 동영상을 CapCut으로 제작했습니다. 링크를 열어 시도해 보세요: capcut.com/tools/desktop-video-editor.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yx7sTbkdqtw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yx7sTbkdqtw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yx7sTbkdqtw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Yx7sTbkdqtw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Yx7sTbkdqtw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이모작",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-21T08:50:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IpLzAbKX1v_Ru_5MwZVZWPpeMJw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8RAKyg8TI8U"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-30T02:17:12Z",
+        "channelId": "UCvQio7TWU95BnfcfKaVA7Gg",
+        "title": "🔥 #바버샵 #미용실 #탈모 #탈모샴푸",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8RAKyg8TI8U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8RAKyg8TI8U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8RAKyg8TI8U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8RAKyg8TI8U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8RAKyg8TI8U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "투탁 핀셔 2TAK PINSCHER",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-30T02:17:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tCLKpOjCNFyoa3ruoVBr-B92CLE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GzVQfon3SU0"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-26T08:30:20Z",
+        "channelId": "UC96JSntU8OGFcnDgruO_lIw",
+        "title": "탈모 1차 진단받고 발등에 불 떨어진 케이윌의 쉬운 탈모 관리법(f. 탈모 샴푸 공유)",
+        "description": "탈모 진단이라니… 새삼 관리의 중요성 느끼네요ㅎ 샴푸는 맘에 안 들면 안 하려고 했는데 직접 사용해 보니까 꽤 괜찮은 듯ㅋ ✨신사 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GzVQfon3SU0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GzVQfon3SU0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GzVQfon3SU0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GzVQfon3SU0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GzVQfon3SU0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/GzVQfon3SU0/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "형수는 케이윌",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-26T08:30:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fDsqyjnmHndZeRJiv7oEtnXEtY4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QzuglnM5qrg"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-26T06:34:28Z",
+        "channelId": "UC6_QXxP9dNCcVs9_L0Y66AA",
+        "title": "[61] ❌ 탈모 샴푸 = 두피 세정제일 뿐, 모발을 굵게 못 만듦. ⭕ 먹는 약(원인 차단) + 바르는 약(혈류 개선)이 유일한 의학적 해결책. #쇼츠 #탈모 #피부과 #탈모약",
+        "description": "비싼 탈모 샴푸요? 두피 세정엔 도움 되지만 이미 가늘어진 모발을 다시 두껍게 만들지는 못합니다. 돈 버리지 마세요! 탈모는 골든타임 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QzuglnM5qrg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QzuglnM5qrg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QzuglnM5qrg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QzuglnM5qrg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QzuglnM5qrg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "배광 [LUCAS PEREIRA]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-26T06:34:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6a4EsTFKyd0VU2mmeY3yRgNff1o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kBJj7ftUSBs"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-12T00:37:01Z",
+        "channelId": "UCweIy48r0Jam560zqMEGiTQ",
+        "title": "여름철 탈모샴푸 선택법? l 황보영원장 l 모먼트의원(MOMENT) l 히든컷 l HIDDEN CUT | TA-FUE",
+        "description": "여름철 탈모샴푸 선택법? 내용이 궁금하시다면 영상을 통해 확인해 보세요! 영상을 보시고 내용이 유익하셨다면 구독과 좋아요 눌러 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kBJj7ftUSBs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kBJj7ftUSBs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kBJj7ftUSBs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kBJj7ftUSBs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kBJj7ftUSBs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/kBJj7ftUSBs/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "모먼트의원",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-12T00:37:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FkjH_XMHz4r24vrt1DVK7BEqFJs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q_4DRxFrPss"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-10T11:00:27Z",
+        "channelId": "UCBuccLs5LuWkfRS6v3Tqiog",
+        "title": "50대언니가 샴푸 바꿨더니 벌어진일#탈모샴푸#50대탈모#40대탈모",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q_4DRxFrPss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q_4DRxFrPss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q_4DRxFrPss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q_4DRxFrPss/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q_4DRxFrPss/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "인아웃",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-10T11:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b1vcksqhT2sFzUhkheU8JW3rQF8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b6HplEKVmug"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-25T23:00:27Z",
+        "channelId": "UCFPnX7pYtSuTKnw9gkr99FQ",
+        "title": "수돗물 잔류염소 제거해주는 탈모샴푸? 잔디 나는지 실험해봄 #광고 #탈모 #두피케어",
+        "description": "탈모 샴푸 아무리 써도 제자리걸음 같았던 분들 의외로 놓치기 쉬운 포인트 오늘 피드 끝까지 봐주세요 ✨ 요즘 강한 자외선 맞고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b6HplEKVmug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b6HplEKVmug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b6HplEKVmug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b6HplEKVmug/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b6HplEKVmug/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/b6HplEKVmug/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "뷰티파이터 안나 - Beauty Fighter Anna",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-25T23:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zHDV1-7T5bkMu2AgojwRG30SNMY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EBMKRl3IC9o"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-24T22:00:12Z",
+        "channelId": "UCg7IgDPCXcgAWNEPfS8ahYg",
+        "title": "여성탈모!!머라카락얇아져도 탈모일수있다. 비싼 탈모샴푸 쓰지마세요! #여성#탈모#정수리탈모#두피#만다윤",
+        "description": "두피관리 #모발관리 #샴푸 #샴푸법 #트리트먼트 모발이 빠지는것만이 탈모가 아닙니다. 모발이 점점 가늘어지고 힘이 없어도 탈모 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EBMKRl3IC9o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EBMKRl3IC9o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EBMKRl3IC9o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EBMKRl3IC9o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EBMKRl3IC9o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "만다윤_두피, 모발 관리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-24T22:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lHgl4JRkOIJuyAiL7IxqaPlFtgg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NzEx0tX9Zik"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-02T12:41:25Z",
+        "channelId": "UCpEXK7Y-Vtb3U75yLk-Pbag",
+        "title": "탈모관리 10년차인 내가 탈모샴푸를 쓰는 이유 #탈모샴푸",
+        "description": "비즈니스 문의 이메일 : [email removed].",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NzEx0tX9Zik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NzEx0tX9Zik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NzEx0tX9Zik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NzEx0tX9Zik/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NzEx0tX9Zik/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "승킴 Seung kim - 남자의 관리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-02T12:41:25Z"
+      }
+    }
+  ]
+}

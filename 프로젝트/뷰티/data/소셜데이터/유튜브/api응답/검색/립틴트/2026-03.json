@@ -1,0 +1,2222 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "RzjIMN2YcPhFxmrBFWyv8VS-wnM",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 482237,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OI3KbHqJ-ocLyP-tfw8Z82SWeUY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KBkSH8PghJo"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-02T06:35:21Z",
+        "channelId": "UCSEjzQoMvHMp-6cXiXGpyWw",
+        "title": "이채영이 극찬한 먹어도 지워지지않는 립틴트",
+        "description": "메이크업 #꿀템 #올리브영 #아이돌메이크업 #뷰티 #인생템 #찐템 #화잘먹 #필수템 #립메이크업 #립스틱 #립틴트.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KBkSH8PghJo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KBkSH8PghJo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KBkSH8PghJo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KBkSH8PghJo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KBkSH8PghJo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "트렌드바구니",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-02T06:35:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hK3jIslobh5DnPrfSraG3L8rZMo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T75Lron4UBs"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-11T08:57:22Z",
+        "channelId": "UCTKFuKkJdJ-2Xt9DntKNtfw",
+        "title": "GOAT한 물틴트 등장💋",
+        "description": "오아드 잘한다 잘한다 했더니 진짜..   ʚ♡ɞ GOAT한 3세대 워터틴트 등장   요즘 물틴트는 다르네요..   오아드 new 틴트 써 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T75Lron4UBs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T75Lron4UBs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T75Lron4UBs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T75Lron4UBs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T75Lron4UBs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "가을립 ・ 1분컷 립발색💄",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-11T08:57:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WvN-_jLKzggcKl3EyN56HdBDpBI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MeFcABqfhwc"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-12T11:28:00Z",
+        "channelId": "UC8IZgwaUso-ZJEN0jg76iuQ",
+        "title": "맑은 귤빛 오렌지립 모음 🍊📝 봄웜틴트, 봄웜메이크업, 봄웜립, 웜톤틴트, 봄웜톤, 웜톤립, 봄웜라이트",
+        "description": "맑은 귤빛 오렌지립 모음 봄 느낌이 가득한 맑은 귤빛 오렌지 ✨ 촉촉립 4종 모음을 준비해 보았어요! 라이트한 귤빛 오렌지 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MeFcABqfhwc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MeFcABqfhwc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MeFcABqfhwc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MeFcABqfhwc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MeFcABqfhwc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "은하듀 eunhadew",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-12T11:28:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lXYqkHdmvI9AB5QXQMSchJ4xueA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8lfYuG48jLs"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-11T09:08:11Z",
+        "channelId": "UCYUUPZ6nD_OHpVfViJwRFDA",
+        "title": "여쿨라 틴트 추천 받아왔음🩷",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8lfYuG48jLs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8lfYuG48jLs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8lfYuG48jLs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8lfYuG48jLs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8lfYuG48jLs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김퍼프PUFF",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-11T09:08:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vnRUexztlIWKxoGfbdLRKBigxEk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Bvn0_UdWPtw"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-02T23:00:23Z",
+        "channelId": "UCl80DrPc-KHHaX_pG_-bsSg",
+        "title": "2026 안지워지는 틴트 추천 2",
+        "description": "올리브영 안지워지는 틴트 추천 #올리브영 #올리브영추천템 #올영세일 #틴트추천.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bvn0_UdWPtw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bvn0_UdWPtw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bvn0_UdWPtw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bvn0_UdWPtw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bvn0_UdWPtw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "똑주부",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-02T23:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "avuBKIxGvjAC99L3t-MLldHJufY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yp5j70bR8cI"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-24T10:00:56Z",
+        "channelId": "UCK_4e-WzztJBOTknzcZQYpA",
+        "title": "송가인이 100개 샀다는 지속력 미친 틴트",
+        "description": "틴트추천 #안지워지는 틴트 #송가인틴트 #산다라박틴트 #연예인틴트 #포렌코즈.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yp5j70bR8cI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yp5j70bR8cI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yp5j70bR8cI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Yp5j70bR8cI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Yp5j70bR8cI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "숏핑요정",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-24T10:00:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZnRT_7QzqFR9xzr-IiP7GK_35pY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HHW1x8tER90"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-04T09:00:19Z",
+        "channelId": "UC8RHNLOi2B9mqoADsgA5pYA",
+        "title": "산다라박이 40가지 색깔 다 구매한 지속력 끝판왕 립틴트! #연예인 #메이크업 #뷰티 #쿠팡추천템 #꿀템",
+        "description": "투애니원 산다라박이 출시된 40가지 색상을 모두 구입했다고 해서 화제가 된 립 틴트 뷰티 꿀템이랍니다     같이 있던 정혜성, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HHW1x8tER90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HHW1x8tER90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HHW1x8tER90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HHW1x8tER90/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HHW1x8tER90/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스타일하우스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-04T09:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eBYH6VQY55yrW5nHRiGMtGTALow",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3DXtirX_Ec0"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-23T12:00:05Z",
+        "channelId": "UCBlIcpkzSdcmp5G0XS7UsZA",
+        "title": "말간 수채화 착색🫧 디어달리아 드레시 글로우 틴트 전색상💕 버릴 색이 없어요! [cc]",
+        "description": "디어달리아 드레시 립 컬렉션 올영 혜택 3/23(월) ~ 3/29(일) ⭐글로우 틴트 18000 → [20%]14400원 ⭐듀 립젤 18000 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3DXtirX_Ec0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3DXtirX_Ec0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3DXtirX_Ec0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3DXtirX_Ec0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3DXtirX_Ec0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "담쓰 Dams Beauty",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-23T12:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QqzZO8ydC3zoWrwOOKA-15aDonU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0BOf23FjAYU"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-06T10:30:00Z",
+        "channelId": "UCQEOgPsqh2QY3MQEAsBfhyg",
+        "title": "승무원들이 쓰는 &#39;대한항공 색깔&#39; 틴트",
+        "description": "승무원메이크업 #틴트추천 #뷰티.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0BOf23FjAYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0BOf23FjAYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0BOf23FjAYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0BOf23FjAYU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0BOf23FjAYU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "언니픽",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-06T10:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EXgv_3uE9NDjeSIj-EGjqFh5T5s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CVr1mQjf6oU"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-07T11:50:00Z",
+        "channelId": "UC9HeBEmzzNQOcKqL2jICs-A",
+        "title": "뷰티계 미스터리 김고은 틴트 #솔로지옥",
+        "description": "고니 #김고은틴트 #솔로지옥.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CVr1mQjf6oU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CVr1mQjf6oU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CVr1mQjf6oU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CVr1mQjf6oU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CVr1mQjf6oU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꽈몰입",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-07T11:50:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fR_McooMxlpFgjAGwjGgm3jv_bo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "afYJgfNCxVk"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-16T12:11:02Z",
+        "channelId": "UC8gsTJaEjsOaI12K3_gmG8A",
+        "title": "2016년 추억의 립들 소환💄",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/afYJgfNCxVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/afYJgfNCxVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/afYJgfNCxVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/afYJgfNCxVk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/afYJgfNCxVk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "오늘의 립",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-16T12:11:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hz31CdrDi4s0m0QVHucvoR2_rV8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vQyAA60Ijh8"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-29T09:00:51Z",
+        "channelId": "UC8RHNLOi2B9mqoADsgA5pYA",
+        "title": "지속력 발림성 끝내주는 매트한 립틴트! 이시안 추천 메이크업 꿀템! #연예인 #쿠팡추천템 #뷰티 #꿀팁",
+        "description": "솔로지옥 이시안님이 강추한 투쿨포스쿨의 매트 립 틴트 뷰티 꿀템이랍니다     이 화장품은 이시안님뿐만 아니라 소녀시대 태연님과 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vQyAA60Ijh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vQyAA60Ijh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vQyAA60Ijh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vQyAA60Ijh8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vQyAA60Ijh8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스타일하우스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-29T09:00:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tjhI59JSY0VdBKjZZunTqIIVs2U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_EVDZ-bL7sc"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-21T09:20:01Z",
+        "channelId": "UC_-LhZ8WyDSEHVLPlYp0tPg",
+        "title": "[EN] 한국에서 절대 못 구한다는 퓌 로즈 립틴트?! 믿뷰에서 한정 수량으로 풉니다 | 믿뷰 | EP.04 퓌 fwee | 푸딩팟 꿀팁, 트와이스 나연, 품절대란템, DIY팔레트",
+        "description": "믿고 보는 뷰티 & 만나는 뷰티 [믿뷰]✨ 믿뷰가 만난 네 번째 브랜드! 컬러를 통해 일상 속 특별한 순간(Moment)을 기록하는, 퓌(fwee) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_EVDZ-bL7sc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_EVDZ-bL7sc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_EVDZ-bL7sc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_EVDZ-bL7sc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_EVDZ-bL7sc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "슥슥팡팡 스튜디오",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-21T09:20:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BMvqDkj-W9jL11Mq4PtL2Cppi4s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3HvgvgiMPPM"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-15T12:00:08Z",
+        "channelId": "UCBlIcpkzSdcmp5G0XS7UsZA",
+        "title": "탱글한 AI 입술이 돼👄🫧 2026 업그레이드 바비브라운 립밤 &amp; 신상 립오일 전색상 미리보기",
+        "description": "더 촉촉하게 돌아온 레전드 립 밤이 한국에서 전세계 최초 출시 됩니다! NEW 엑스트라 립 틴티드 밤을 네이버 신상위크에서 만나 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3HvgvgiMPPM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3HvgvgiMPPM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3HvgvgiMPPM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3HvgvgiMPPM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3HvgvgiMPPM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "담쓰 Dams Beauty",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-15T12:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UDCGIua3LuGA0Qq4kJVvtuL2w14",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2mz9xLOr3tY"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-17T11:00:07Z",
+        "channelId": "UClcCG__So4UrAzStkSBnHUw",
+        "title": "주인을 직접 고른다는 틴트💋#코덕 #오해원 #차쥐뿔 #shorts #fyp",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2mz9xLOr3tY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2mz9xLOr3tY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2mz9xLOr3tY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2mz9xLOr3tY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2mz9xLOr3tY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "살림한켠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-17T11:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M54DpBmpUyUDO2b311VWCx_McYg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CV2TtMFMmY0"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-22T09:53:57Z",
+        "channelId": "UCm3aFTKTRsClNaN0rsYmQYg",
+        "title": "EN) 로즈 컬러 18개는 치트키잖아! 퓌 로즈 옵세션 틴트 전 색상 발색🌹",
+        "description": "한정출시⭐️ 퓌 로즈 옵세션 틴트 (~12/25 까지) https://fwee.kr/surl/P/280 로즈 옵세션 틴트 컬러/제형 쉽게 알아보는 법 M/G (매트/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CV2TtMFMmY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CV2TtMFMmY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CV2TtMFMmY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CV2TtMFMmY0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CV2TtMFMmY0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MysterLee터리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-22T09:53:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "icKYrHq0GxkND20J6sCnWwieQ4s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Bopi4LHsIZs"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-12T11:00:36Z",
+        "channelId": "UCFWA1pl4XFjlurZCHutl31Q",
+        "title": "[ENG]💄처음발색 그.대.로🩷YNM 하트젤링틴트 전색상 발색리뷰‼️heart jelling tint all swatch review",
+        "description": "본영상은 YNM의 유료광고가 포함되어 있습니다. ⭐시코르 온 오프라인 입점 기념⭐ 전 제품 최대 30% 할인 행사 ! (2025.12 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bopi4LHsIZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bopi4LHsIZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bopi4LHsIZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bopi4LHsIZs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bopi4LHsIZs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "힙스켓 hipsket",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-12T11:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YLmNPepTQrDxJSUxpNGO6-0qRYQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GA2KHNEhf1Q"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-29T06:12:50Z",
+        "channelId": "UCLUjueenm6uIml8QoHlMnQg",
+        "title": "소시에떼 키스홀릭 립틴트밤😍 색이 탁하지 않고 맑고 쨍하게 올라와요😊 진심 너무 예뻐요~ 지금 카카오메이커스에서 할인중🥰 #소시에떼 #소시에떼키스홀릭 #소시에떼틴트",
+        "description": "카카오메이커스 할인중   https://makers.kakao.com/items/100123930.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GA2KHNEhf1Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GA2KHNEhf1Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GA2KHNEhf1Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GA2KHNEhf1Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GA2KHNEhf1Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "용감한 지지형제",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-29T06:12:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "00D7uBGCoi5l0wTINMuVFEAP07s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Woyp7_aLU1c"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-06T03:09:41Z",
+        "channelId": "UC8gsTJaEjsOaI12K3_gmG8A",
+        "title": "[올영 단독] 유리아쥬 NEW 컬러립밤 5가지, 이번 컬러들 미쳤음!!!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Woyp7_aLU1c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Woyp7_aLU1c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Woyp7_aLU1c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Woyp7_aLU1c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Woyp7_aLU1c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "오늘의 립",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-06T03:09:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3f7YoGdUzSME7bDGlys7VUFcbsA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-57YAqgj5PY"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-12T11:29:40Z",
+        "channelId": "UCYuMEcmNpz03jmS9DSNJexw",
+        "title": "이번 봄이 기대되는 이유... 봄맞이 신상템 발색 리뷰🌸 #올리브영추천템 #올리브영 #신상리뷰 ",
+        "description": "Contact business mail [email removed] insta ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-57YAqgj5PY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-57YAqgj5PY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-57YAqgj5PY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-57YAqgj5PY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-57YAqgj5PY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/-57YAqgj5PY/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "혜리미 HYERIMI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-12T11:29:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cKmgUKuhHMKzOjM_kPhNtMAwcco",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_OTRwaoFQoY"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-28T06:50:00Z",
+        "channelId": "UCTahqCv6gwhQ5JHSo97EYww",
+        "title": "#제품제공 올 봄엔 라네즈 틴트🌸",
+        "description": "제품제공 @laneige_kr 라네즈 주스팝 박스 립 틴트 디스코코랄 얇고 균일하게 발리는 굴곡진 어플리케이터와 제형도 맘에 드는데 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_OTRwaoFQoY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_OTRwaoFQoY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_OTRwaoFQoY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_OTRwaoFQoY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_OTRwaoFQoY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "타루의 시선",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-28T06:50:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3RtkFCSeKuCieEnBT4-qfSSAP4Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BATMPLRCWDA"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-22T10:45:03Z",
+        "channelId": "UCAEqgVJCBUUpZJ4Ac4E4sCw",
+        "title": "밥먹어도 안지워져?? 검증간다 브레이틴트2X 내돈내산 리뷰💸",
+        "description": "전에도 리뷰했던 브레이틴트 더 강력한 색으로 돌아왔다는데 과연?? 바로 부대찌개 먹으며 검증!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BATMPLRCWDA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BATMPLRCWDA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BATMPLRCWDA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BATMPLRCWDA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BATMPLRCWDA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "웨일",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-22T10:45:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P0CpExuhFcOlFO_w9tIb6UbpJ5k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f1RpjQTlfck"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-26T09:00:49Z",
+        "channelId": "UC8RHNLOi2B9mqoADsgA5pYA",
+        "title": "레드벨벳 조이 강추 립틴트! 매트 보송 블러한 느낌! #연예인 #꿀템 #쿠팡추천템 #메이크업 #쿠팡추천템",
+        "description": "레드벨벳 조이 박수영님 오랜만이네요     요즘은 립 틴트도 매트한 벨벳 느낌이 유행이라며 최애템으로 소개한 투쿨포스쿨 뷰티 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f1RpjQTlfck/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f1RpjQTlfck/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f1RpjQTlfck/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f1RpjQTlfck/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f1RpjQTlfck/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스타일하우스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-26T09:00:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7T3LcNgQkvG68H6qRCQUYF8TlVI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t5S0bxtw60g"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-03T09:30:47Z",
+        "channelId": "UCO2nFKu54TCqr14wNpsUjIg",
+        "title": "한국여자들이 쓴다는 국민틴트를 발라본 외국인",
+        "description": "한국틴트를 바르고 만족해하는 영상을 본 외국인도 바로 발라보는데 사실 이건 한국 여자라면 한번쯤은 써봤다는 립 틴트인데 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t5S0bxtw60g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t5S0bxtw60g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t5S0bxtw60g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t5S0bxtw60g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t5S0bxtw60g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "츄츄뷰뷰",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-03T09:30:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Rt58bLIdz6S_5opnJvsrGhb8HuY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nA4jmPtfUQg"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-26T10:28:01Z",
+        "channelId": "UCTKFuKkJdJ-2Xt9DntKNtfw",
+        "title": "다이소 틴트 퍼스널컬러별 추천템❤️",
+        "description": "다이소 틴트 퍼스널컬러별 추천템❤️ ───── « ⋅ʚ♡ɞ⋅ » ───── 봄웜 추천템   본셉 워터 베일 틴트 01 살몬워터 / 3000 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nA4jmPtfUQg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nA4jmPtfUQg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nA4jmPtfUQg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nA4jmPtfUQg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nA4jmPtfUQg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "가을립 ・ 1분컷 립발색💄",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-26T10:28:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8iMLMtgi0LnvyrYRwe_NUHGuCjo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "if8mgNAIZpI"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-20T01:30:52Z",
+        "channelId": "UChHcae6qoUV72jYtBwORM_Q",
+        "title": "조회수 1회만 줍쇼,,,🥰 투크 봉숭아 틴트, 어뮤즈 장원영 립, 오아드 틴트, 프레시안 블러셔 등 구독자 요청템 리뷰 [빌보의 월급날💸]",
+        "description": "본 영상은 유료광고를 포함하지 않습니다. ✔️ [빌보의 월급날]은 구독자 여러분의 요청템을 모아 리뷰하는 컨텐츠입니다. ✔️ 실제 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/if8mgNAIZpI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/if8mgNAIZpI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/if8mgNAIZpI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/if8mgNAIZpI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/if8mgNAIZpI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "빌보의 취향",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-20T01:30:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nxEq3ZOqs9frOXItqCz8iLOItD8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hLirvS83nhk"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-11T12:52:00Z",
+        "channelId": "UCk_8J5o2KMl4cEHgGGCZ_QQ",
+        "title": "올리브톤 피부를 위한 누드 라이트 브라운 매트 립틴트 🥥 #shorts #viral #beauty #douyin #에리카설",
+        "description": "링크 색상 03의 제품.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hLirvS83nhk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hLirvS83nhk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hLirvS83nhk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hLirvS83nhk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hLirvS83nhk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ES '설'",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-11T12:52:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WnFSyAN5pEwqHPIsIuzBANl0wdY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m64t2B8e3_U"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-01T03:25:25Z",
+        "channelId": "UCTKFuKkJdJ-2Xt9DntKNtfw",
+        "title": "롬앤 미피문방구 역대급 콜라보🐰💗 틴트 발색 보고 가세요❤️",
+        "description": "롬앤 미피문방구 역대급 콜라보     ʚ♡ɞ 몽글몽글 감성 가득한 패키지에 존예 신상 소프트 버니ᯓᡣᩚ𐭩 컬러까지..⁉️ 이번 롬앤 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m64t2B8e3_U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m64t2B8e3_U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m64t2B8e3_U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m64t2B8e3_U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m64t2B8e3_U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "가을립 ・ 1분컷 립발색💄",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-01T03:25:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PQplf9s2r9lWnfzjkh-lljsSmSw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o8pm17Uv_6I"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-19T16:51:00Z",
+        "channelId": "UCk_8J5o2KMl4cEHgGGCZ_QQ",
+        "title": "윤기 있고 도톰한 입술을 위한 한국산 소프트 핑크 내추럴 립틴트 💘 #shorts #beauty #douyin #viral #에리카설",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o8pm17Uv_6I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o8pm17Uv_6I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o8pm17Uv_6I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o8pm17Uv_6I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o8pm17Uv_6I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ES '설'",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-19T16:51:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CbwcYKANNUkUH_ssaD9FL_HNnIw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H4mudsIZICY"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-31T09:00:36Z",
+        "channelId": "UCQtpe4X6CZ74EJn6g1-N0rA",
+        "title": "핑크빛 여름을 위한 필수템! 체리에이드와 냥젤리 립틴트 리뷰",
+        "description": "이 영상은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. ⬇️ 영상 속 제품 링크가 궁금하면 아래 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H4mudsIZICY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H4mudsIZICY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H4mudsIZICY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H4mudsIZICY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H4mudsIZICY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "goods pick",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-31T09:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Hc3Nm4GtGMQVvsIyB3qq09MaRbw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yy346Wc0BcU"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-31T12:23:29Z",
+        "channelId": "UCRXL4vnST2AE6UtjrYMv4tw",
+        "title": "아직도 립 수정해?💋먹방유튜버가 극찬한 미친 지속력 틴트! 촌스런 컬러,건조함,얼룩 개선해서 제가 만들었어요",
+        "description": "제 채널의 모든 영상(초상,성명,영상 캡쳐 등)은 협의 없이 무단 도용, 배포 혹은 상업적 목적 사용을 금합니다. ▶️본 영상은 무지개 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yy346Wc0BcU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yy346Wc0BcU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yy346Wc0BcU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yy346Wc0BcU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yy346Wc0BcU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뽀용뇽 l 남다른 뷰티꿀팁",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-31T12:23:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8sXMo-69B-iHfmMSGadx0Ktnf_4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wm_i58RO94Y"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-27T08:33:30Z",
+        "channelId": "UC8gsTJaEjsOaI12K3_gmG8A",
+        "title": "롬앤 피오니 발레 vs 크림 베베 (2% 차이..?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wm_i58RO94Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wm_i58RO94Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wm_i58RO94Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wm_i58RO94Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wm_i58RO94Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "오늘의 립",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-27T08:33:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eGQwrKQlP_UOvkA-1UTNnok_ZME",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Oywwn0OlIsI"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-19T08:49:59Z",
+        "channelId": "UCEJ3hdsTvyGtC8OBILNhVIA",
+        "title": "에뛰드 가나디 포근픽싱틴트 진짜 예쁜데 외 않사?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oywwn0OlIsI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oywwn0OlIsI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oywwn0OlIsI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Oywwn0OlIsI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Oywwn0OlIsI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "푼푼",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-19T08:49:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vcxS07I8TXnmpkcKYUZOCKeW9b0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KDrt6YZSSqg"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-23T16:51:35Z",
+        "channelId": "UCk_8J5o2KMl4cEHgGGCZ_QQ",
+        "title": "글로시하고 자연스러운 입술을 위한 글리터 누드 핑크 립틴트 😍 #shorts #viral #beauty #douyin #에리카설",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KDrt6YZSSqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KDrt6YZSSqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KDrt6YZSSqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KDrt6YZSSqg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KDrt6YZSSqg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ES '설'",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-23T16:51:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XVBoLqpujf2fWF3NLg7UCdD9jtg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZW1BLXUo11c"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-05T09:30:16Z",
+        "channelId": "UCwHATELzDDqCWrlTleMtyrQ",
+        "title": "온라인에서 면봉 틴트 샀는데.. 이거맞아??!",
+        "description": "파우치 쏙 필수템, 쓱 꺾어 쓰는 면봉 틴트! 끈적임과 묻어남 없이 입술에 착 붙어 언제 어디서나 간편하게 생기 충전하세요.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZW1BLXUo11c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZW1BLXUo11c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZW1BLXUo11c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZW1BLXUo11c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZW1BLXUo11c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "잇템로그",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-05T09:30:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N-eFU_dTeFQMggnwwkdiEWTWo2A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5rR3eHUDybE"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-19T15:53:00Z",
+        "channelId": "UCk_8J5o2KMl4cEHgGGCZ_QQ",
+        "title": "매일 자연스러운 입술을 연출해주는 건강하고 통통한 핑크 버블 립틴트 💘 #shorts #viral #beauty #douyin #에리카설",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5rR3eHUDybE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5rR3eHUDybE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5rR3eHUDybE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5rR3eHUDybE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5rR3eHUDybE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ES '설'",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-19T15:53:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xsAH3AW20bsV5JFyW7I9846cCkU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QujBey93K9w"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-07T23:30:18Z",
+        "channelId": "UCIKPuhVfWDTaCj6gJqcP7aw",
+        "title": "식용색소가 립틴트로 된다고?",
+        "description": "4.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QujBey93K9w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QujBey93K9w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QujBey93K9w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QujBey93K9w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QujBey93K9w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "숏싹숏싹",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-07T23:30:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "T1Rpy8TLvemrhs2efeKLxlD1ZyE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "55MfbdonZTM"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-23T12:51:00Z",
+        "channelId": "UCk_8J5o2KMl4cEHgGGCZ_QQ",
+        "title": "핑크 애플 레드 립틴트로 윤기 있고 도톰한 입술을 연출하세요 🍎 #shorts #viral #beauty #douyin #에리카설",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/55MfbdonZTM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/55MfbdonZTM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/55MfbdonZTM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/55MfbdonZTM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/55MfbdonZTM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ES '설'",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-23T12:51:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_5YN9jxtpK8JOEdHsNWbqETn4es",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iDFe_4QDerQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-26T12:55:46Z",
+        "channelId": "UCeMVG_xsUh7wJEHAic4G4AA",
+        "title": "요즘 포오오오~~오옥 빠진 틴트랑 블러셔😘💖#드래곤볼",
+        "description": "봄웜 #봄웜틴트 #봄웜블러셔 #틴트추천 #블러셔추천.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iDFe_4QDerQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iDFe_4QDerQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iDFe_4QDerQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iDFe_4QDerQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iDFe_4QDerQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쥬바비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-26T12:55:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IXmeLxOdGwBZMW5SoUCpTzsHXwE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yBDlksVbL1Q"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-16T10:51:00Z",
+        "channelId": "UCk_8J5o2KMl4cEHgGGCZ_QQ",
+        "title": "통통하고 윤기 있는 레드 핑크 립틴트로 건강한 입술을 연출하세요 🥰 #shorts #douyin #viral #beauty #에리카설 #like",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yBDlksVbL1Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yBDlksVbL1Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yBDlksVbL1Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yBDlksVbL1Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yBDlksVbL1Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ES '설'",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-16T10:51:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ar28Dx1LdPLEAxi4LrIRhfhnxC0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Faj-oNTN8S0"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-22T12:53:00Z",
+        "channelId": "UCk_8J5o2KMl4cEHgGGCZ_QQ",
+        "title": "도톰하고 자연스러운 입술을 위한 글리터 핑크 캔디 매트 립틴트 💕 #shorts #viral #beauty #douyin #에리카설",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Faj-oNTN8S0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Faj-oNTN8S0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Faj-oNTN8S0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Faj-oNTN8S0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Faj-oNTN8S0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ES '설'",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-22T12:53:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZmkNwiIdWFCIg3iA_ImLY8WZjFw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q4onaivTDyE"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-27T09:00:53Z",
+        "channelId": "UC8RHNLOi2B9mqoADsgA5pYA",
+        "title": "태연 강추 요즘 대세 립틴트! 립베이스는 이걸로 써보세요! #연예인 #메이크업 #꿀템 #쿠팡추천템 #뷰티",
+        "description": "코덕으로 소문난 소녀시대 태연님이 너무 좋다고 감탄한 립 제품 뷰티 꿀템이랍니다     이미 레드벨벳 조이님도 최애템으로 추천한 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q4onaivTDyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q4onaivTDyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q4onaivTDyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q4onaivTDyE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q4onaivTDyE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스타일하우스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-27T09:00:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qplgbcR2jpgBGzogwfH6aNwFrFs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pJmea5R6NBw"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-01T13:52:00Z",
+        "channelId": "UCk_8J5o2KMl4cEHgGGCZ_QQ",
+        "title": "윤기 있고 도톰한 입술을 위한 밀크 허니 브라운 슈가 립틴트 🧋 #shorts #viral #beauty #douyin #에리카설",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pJmea5R6NBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pJmea5R6NBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pJmea5R6NBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pJmea5R6NBw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pJmea5R6NBw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ES '설'",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-01T13:52:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YagtbsA4kNGExjcZY6J6vFtZO2Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GQaPeBn3rZ8"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-14T08:51:00Z",
+        "channelId": "UCk_8J5o2KMl4cEHgGGCZ_QQ",
+        "title": "데일리 립을 위한 라이트 누드 브라운 글로시 립틴트 🤎 #shorts #viral #beauty #douyin #에리카설",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GQaPeBn3rZ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GQaPeBn3rZ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GQaPeBn3rZ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GQaPeBn3rZ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GQaPeBn3rZ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ES '설'",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-14T08:51:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iTBYBuEwVRBx2a91jQ6xLpLu-6E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SVmMBWV02ew"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-30T07:56:35Z",
+        "channelId": "UCq8JGyXj44NUed2rJ6DD_1Q",
+        "title": "100시간 지속력! 올리브영 ‘지속력 끝판왕 틴트’",
+        "description": "shorts #토니모리 #쇼킹립 #연예인 #틴트추천.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SVmMBWV02ew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SVmMBWV02ew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SVmMBWV02ew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SVmMBWV02ew/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SVmMBWV02ew/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "찐예쁨",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-30T07:56:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dJJk05vUpdOBc07r7jsdvjuILrY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D7eqZIAV0no"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-14T04:52:00Z",
+        "channelId": "UCk_8J5o2KMl4cEHgGGCZ_QQ",
+        "title": "도톰한 입술을 위한 페탈 로즈 립틴트 🍇 #shorts #viral #beauty #douyin #makeup #리카설",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D7eqZIAV0no/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D7eqZIAV0no/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D7eqZIAV0no/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D7eqZIAV0no/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D7eqZIAV0no/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ES '설'",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-14T04:52:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QNA0GwHt2NQvRcdM9AS3wRZS7Do",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-IuN9c8lVJM"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-13T13:52:00Z",
+        "channelId": "UCk_8J5o2KMl4cEHgGGCZ_QQ",
+        "title": "올리브톤 피부를 위한 윤기 있고 도톰한 레드 핑크 스프링 립틴트 🌸 #숏츠 #바이럴 #뷰티 #두인 #에리카설",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-IuN9c8lVJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-IuN9c8lVJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-IuN9c8lVJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-IuN9c8lVJM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-IuN9c8lVJM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ES '설'",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-13T13:52:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j_H7zmlZ4e8mCAuwuz9S3BcAPNM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "afEYuCdEpEo"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-24T13:51:00Z",
+        "channelId": "UCk_8J5o2KMl4cEHgGGCZ_QQ",
+        "title": "도톰한 입술을 위한 코랄 레드 글로시 립틴트 🍎 #shorts #viral #beauty #douyin #에리카설",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/afEYuCdEpEo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/afEYuCdEpEo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/afEYuCdEpEo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/afEYuCdEpEo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/afEYuCdEpEo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ES '설'",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-24T13:51:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ouMXbptvEzd_GHbQfrCUFryP3sg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-zKB9POX1mQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-21T14:52:00Z",
+        "channelId": "UCk_8J5o2KMl4cEHgGGCZ_QQ",
+        "title": "도톰한 입술을 위한 누드 오렌지 매트 립틴트 🍑 #shorts #viral #beauty #douyin #아리카설",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-zKB9POX1mQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-zKB9POX1mQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-zKB9POX1mQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-zKB9POX1mQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-zKB9POX1mQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ES '설'",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-21T14:52:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tDMDPCQXJkPSyB7CrrH_BYNb7CE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eoouoZX796s"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-21T05:45:02Z",
+        "channelId": "UCsjkRge9yUN2vVQ-4pAOlTA",
+        "title": "톰포드 신상 립, 지속력 이 정도였어? 샤넬·입생로랑 비교",
+        "description": "00:00 인트로 00:40 손목 발색 시작 00:56 손목 발색 - 톰포드 쏠레이 틴티드 립 글로우 6호 02:12 손목 발색 - 샤넬 루쥬 알뤼르 라끄 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eoouoZX796s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eoouoZX796s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eoouoZX796s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eoouoZX796s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eoouoZX796s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/eoouoZX796s/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "코지Cozi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-21T05:45:02Z"
+      }
+    }
+  ]
+}

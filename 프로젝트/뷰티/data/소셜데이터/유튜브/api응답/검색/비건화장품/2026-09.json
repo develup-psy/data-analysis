@@ -1,0 +1,2237 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "CQNNlGJldTyhg8f-btuQSvh_hjo",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 34176,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NDm3wLqbQnfGmmgRPtBZVrqGx88",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7PR6yEHaWnQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-25T08:29:35Z",
+        "channelId": "UCsAnDRAmTqMqMoh2eHbIZog",
+        "title": "모공 싹 가려주는 비건 화장품 🌱 이지비건 쉼 파우더 팩트",
+        "description": "협찬 오후만 되면 번들거리는 유분기 때문에 스트레스받으셨나요? 환경을 생각하는 비건 브랜드 '이지비건'의 쉼 파우더 팩트를 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7PR6yEHaWnQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7PR6yEHaWnQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7PR6yEHaWnQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7PR6yEHaWnQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/7PR6yEHaWnQ/sardefault.jpg",
+            "width": 296,
+            "height": 526
+          }
+        },
+        "channelTitle": "건강톡톡",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-25T08:29:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1enrrsI67ML1o48DE00aPZgdHdg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SEWQXMatRtI"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-28T19:03:03Z",
+        "channelId": "UCXDb1dRgRU-0TO5GlMe6_mQ",
+        "title": "진짜 비건화장품의 6가지 특징 #체크리스트",
+        "description": "진짜 비건 화장품 찾는 사람 모여! 6가지 조건 체크리스트 시작! ✔️ ① 동물실험을 하지 않는 제품 만드는 전 과정에서 동물실험을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SEWQXMatRtI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SEWQXMatRtI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SEWQXMatRtI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SEWQXMatRtI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SEWQXMatRtI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "생글씨tv | 마트사장님",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-28T19:03:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wVmbSInOJknLK4h4DzKTeQJF5B4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Zo8hUUyMAeE"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-11T10:30:35Z",
+        "channelId": "UCHQ1sKCV0R3Xwk4-Ck2dV-A",
+        "title": "민감성 피부엔 오히려 독?☠️ 90%가 속고 있는 비건 화장품의 함정! - 피부과전문의 닥터피부광",
+        "description": "비건화장품 #민감성피부 #피부 '비건·식물성·자연 유래' 화장품, 피부가 민감할수록 정말 ⚠️안전⚠️할까요? 미국 조사 결과 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zo8hUUyMAeE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zo8hUUyMAeE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zo8hUUyMAeE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zo8hUUyMAeE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zo8hUUyMAeE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/Zo8hUUyMAeE/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "닥터피부광",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-11T10:30:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3NxKsbGaOOAwko2dFrkKOZOTBBk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K05nvFQoiZk"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-21T09:27:40Z",
+        "channelId": "UCDLNnQQUt4hn6G4g-UiUjog",
+        "title": "실패 없는 인생템 촉촉 백탁 제로 #선크림 #선크림추천 #비건선크림",
+        "description": "이 포스팅은 네이버 쇼핑 커넥트 활동의 일환으로, 판매 발생 시 수수료를 제공받습니다. https://naver.me/GFs4GZrQ 백탁·밀림 없는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K05nvFQoiZk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K05nvFQoiZk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K05nvFQoiZk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K05nvFQoiZk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K05nvFQoiZk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Heymini",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-21T09:27:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OYnsPmvOMakmc9nRN06cZOTt6PA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BmjKrRqosjc"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-06T03:13:03Z",
+        "channelId": "UCyu2Fsk_aUhf4V14MQvV0LA",
+        "title": "해외에서 대참사 난 비건 립밤의 정체",
+        "description": "립밤 바르면 너무 쌩얼 같고 립스틱 바르기는 귀찮을 때 찰떡인 바로 그 제품! 해외에서 먼저 입소문 터져 아마존 1위까지 찍어버린 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BmjKrRqosjc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BmjKrRqosjc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BmjKrRqosjc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BmjKrRqosjc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BmjKrRqosjc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "천만템노트 ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-06T03:13:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5cUKswFDp_IT3nkWqcpL_WW2_D8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U8tucC1GNqA"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-04T01:47:39Z",
+        "channelId": "UCGMRQsGk3R3TAwJ_5g1YYlQ",
+        "title": "촉촉함 끝판왕 선크림 인생템 찾았어요 #선크림 #선크림추천 #비건선크림",
+        "description": "이 포스팅은 네이버 쇼핑 커넥트 활동의 일환으로, 판매 발생 시 수수료를 제공받습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U8tucC1GNqA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U8tucC1GNqA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U8tucC1GNqA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U8tucC1GNqA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U8tucC1GNqA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꼬부기",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-04T01:47:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YDcNum308Oa5ycrznuhSivNiiwM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tCWNOVf-cyQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-08T00:34:37Z",
+        "channelId": "UCsFVfxIlfORsjF9acbkuYAw",
+        "title": "아이부터 어른까지 선크림 따로 쓰시나요? 이제 선쿠션 하나로 끝내세요! 👨‍👩‍👧‍👦☀️      #비건화장품 #엘솔레 #온가족선쿠션 #비건선쿠션 #할인이벤트",
+        "description": "생후 6개월 아기부터 예민한 피부의 어른까지, 온 가족이 안심하고 쓸 수 있는 '모이스처라이징 마일드 선쿠션'이 역대급 혜택으로 찾아 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tCWNOVf-cyQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tCWNOVf-cyQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tCWNOVf-cyQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tCWNOVf-cyQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tCWNOVf-cyQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/tCWNOVf-cyQ/sardefault.jpg",
+            "width": 1474,
+            "height": 2620
+          }
+        },
+        "channelTitle": "L.Soulle | 엘솔레",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-08T00:34:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xtDVz3JDLPXC2HQs09CPorhISug",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-0yhf02BDVk"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-06T16:51:14Z",
+        "channelId": "UC2Yt0Mw1jfEGPKLJARztZhw",
+        "title": "인생 선크림 추천 달바 비건 1+1 #달바선크림 #선크림추천 #촉촉한선크림",
+        "description": "https://naver.me/GwfoabWu 선크림 바르면 화장 밀려 고민이었죠? 수분 에센스처럼 가볍고 촉촉해 메이크업 착붙하는 '달바 비건 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-0yhf02BDVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-0yhf02BDVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-0yhf02BDVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-0yhf02BDVk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-0yhf02BDVk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "walkie-talkie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-06T16:51:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GYOle-ya6x5R227jpQX3huav9rU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-XG84ftNx-o"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-25T14:09:41Z",
+        "channelId": "UCl9LB6O9JFGb00eOa3haf_Q",
+        "title": "이지비건 파우더 팩트 후기",
+        "description": "[협찬] 외출만 하면 유분 올라오고 무너지는 베이스 때문에 고민이었는데, 이지비건 쉼 파우더 팩트 사용해 보고 정착했어요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-XG84ftNx-o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-XG84ftNx-o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-XG84ftNx-o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-XG84ftNx-o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-XG84ftNx-o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "jane",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-25T14:09:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1RplvbcVlrs-q6URA3gzMU7jFpI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w9QtWpuBYKs"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-30T08:42:56Z",
+        "channelId": "UCTV9mK3yMzuB2lFYu0VzMjQ",
+        "title": "파데 대신 쓰는 핑크빛 선크림 #파데프리 #톤업크림 #비건화장품",
+        "description": "쇼핑 커넥트 링크로 구매 시 수수료를 받습니다. https://naver.me/FDcCbG91 바쁜 아침, 답답한 파데 대신 핑크 톤업 어때요? 촉촉한 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w9QtWpuBYKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w9QtWpuBYKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w9QtWpuBYKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w9QtWpuBYKs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w9QtWpuBYKs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지금은내이름",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-30T08:42:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xmQmaRdLhFGmjo_cGMW1N6IoVR4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x4-eyf1gbEg"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-11T12:22:23Z",
+        "channelId": "UCz4so_o69X2c8_n3H-GB0eg",
+        "title": "생기 가득 톤업 달바 비건 선크림 #달바 #선크림추천 #톤업선크림",
+        "description": "백탁 밀림 없는 선크림 찾으시나요? 수분 세럼처럼 촉촉하게 화사함을 더해줄 달바 핑크 톤업 선크림! 메이크업 프라이머 겸용, 비건 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x4-eyf1gbEg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x4-eyf1gbEg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x4-eyf1gbEg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x4-eyf1gbEg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x4-eyf1gbEg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "jiji",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-11T12:22:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LyOOO7LNOf47AHZv5H8VR0L_hz8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xcO81BiDtNY"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-25T16:13:32Z",
+        "channelId": "UCeZtgD8VDyC-UnNWetpH8oA",
+        "title": "❤️추천 비건화장품 🌿 자연을 생각한 비건 선크림으로 건강한 피부를 만나보세요! ☀️✨",
+        "description": "본 영상은 파트너스 활동으로 제작되었으며, 수수료를 제공받습니다. 구매링크: https://link.coupang.com/a/cY0PRv [00:00] 1. [비건 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xcO81BiDtNY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xcO81BiDtNY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xcO81BiDtNY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xcO81BiDtNY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xcO81BiDtNY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "네쇼커리뷰",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-25T16:13:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sEdWSzxoYOudAJVTTlFbT_JxFBU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T8kFUwBYHvc"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-15T03:37:06Z",
+        "channelId": "UCHublWjmPiMxe2rYEbpATXA",
+        "title": "AI로 만든 비건 스킨케어 광고",
+        "description": "AURORA | Vegan Skincare 피부를 위한 선택이 지구를 위한 선택이 될 수 있도록. 자연광과 식물의 부드러운 이미지를 중심으로 비건 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T8kFUwBYHvc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T8kFUwBYHvc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T8kFUwBYHvc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T8kFUwBYHvc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T8kFUwBYHvc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Practical Design Lab",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-15T03:37:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RSGDVQawchuw_3Ku6zPiXhwMdLU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RhiM1JH2HP4"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-02T21:20:28Z",
+        "channelId": "UC2Eeb9GipSE87JM5KfjGWCw",
+        "title": "연예인피부되고싶으시면  어서  들어오셔요🤗 병원라인.비건화장품 초특가",
+        "description": "반가워요! 미코언니입니다. 유튜브 라이브-화장품,향수,선글라스,안경,시계 등 최고의 품질을 합리적인 가격으로 소개해드릴께요.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RhiM1JH2HP4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RhiM1JH2HP4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RhiM1JH2HP4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RhiM1JH2HP4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RhiM1JH2HP4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "미코언니💜린다몰",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-02T21:20:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BXmo_XhA-XsJXIuKZrgdzYWgCCU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j9e1wC_G5LY"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-25T09:00:39Z",
+        "channelId": "UCRV33DLfBibyiNtfyxN7pzA",
+        "title": "비건이면 착한 화장품일까요? #shorts",
+        "description": "비건 화장품이면 착한 화장품일까요? 요즘 화장품의 지속가능성은 성분만으로 판단하기 어려워지고 있습니다. 원료 ↓ 용기 ↓ 포장 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j9e1wC_G5LY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j9e1wC_G5LY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j9e1wC_G5LY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j9e1wC_G5LY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j9e1wC_G5LY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BrandPack360 | Beauty OEM Lab",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-25T09:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_ehAzw5Gf1hMtHoQoMBGAlDtx4I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dSuwYGRpuU4"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-02T19:49:50Z",
+        "channelId": "UC2Eeb9GipSE87JM5KfjGWCw",
+        "title": "연예인피부되고싶으시면  어서  들어오셔요🤗 병원라인.비건화장품 초특가",
+        "description": "반가워요! 미코언니입니다. 유튜브 라이브-화장품,향수,선글라스,안경,시계 등 최고의 품질을 합리적인 가격으로 소개해드릴께요.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dSuwYGRpuU4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dSuwYGRpuU4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dSuwYGRpuU4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dSuwYGRpuU4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dSuwYGRpuU4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "미코언니💜린다몰",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-02T19:49:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7grTS5KzorNZJtpGLpNcAqLXmxI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GyWgZ3uzHSo"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-01T12:08:55Z",
+        "channelId": "UCQmtZeuhVrJ5Mv1EvSR2j8A",
+        "title": "진한 메이크업 1초 컷! 전소미의 찐애정 비건 클렌징밤 #shorts",
+        "description": "전소미가 어릴 때부터 올리브영에 있었다며 극찬한 그 제품! 진한 메이크업도 자극 없이 부드럽게 지워주고, 심지어 비건 인증까지 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GyWgZ3uzHSo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GyWgZ3uzHSo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GyWgZ3uzHSo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GyWgZ3uzHSo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GyWgZ3uzHSo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "모두의 겟잇 (Modoo Get It)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-01T12:08:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1-VutJmBA6kKBYF2n43OIHJnJjI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JNKUuf4rRsU"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-22T02:10:03Z",
+        "channelId": "UCDuju83BkwAm_LQL3CNl-xQ",
+        "title": "샤워 후 당길 때 순한 바디워시 #바디워시 #바디워시추천 #비건바디워시",
+        "description": "이 포스팅은 네이버 쇼핑 커넥트 활동의 일환으로, 판매 발생 시 수수료를 제공받습니다. https://naver.me/5eDBKIIn 샤워 후 바로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JNKUuf4rRsU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JNKUuf4rRsU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JNKUuf4rRsU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JNKUuf4rRsU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JNKUuf4rRsU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "둥맘",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-22T02:10:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jWg8LKtQFyZh3P_56omtvo6NYA0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lUAv3ds6T1c"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-30T07:28:12Z",
+        "channelId": "UCmCYuSqrInHrq-rjqTtqtiQ",
+        "title": "[광고]건조함 느낄 틈이 없는 2in1 레이어링 보습 케어✨️오늘 피부 컨디션에 맞춰 섞어 쓰는 맞춤형 비건 크림 #뷰티쇼츠 #쇼츠 #달바 #속건조해결 #비건화장품",
+        "description": "구독과좋아요 부탁드립니다 영상 속 제품에 대한 자세한 정보는 제 프로필 링크 ➡️➡️제품번호 101번 클릭!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lUAv3ds6T1c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lUAv3ds6T1c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lUAv3ds6T1c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lUAv3ds6T1c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lUAv3ds6T1c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "진주의 보석함💍🕊️",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-30T07:28:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qcaZHDZkKJvf0aT1eeRZttTAr-k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-rgEa0zWd04"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-26T22:49:15Z",
+        "channelId": "UCHPeKoEp5Xs9LZCYJsSXUow",
+        "title": "엔디피 NDP 비건 비타민 B9 파데프리 톤업 미백 화이트닝 크림 리뷰",
+        "description": "이 포스팅은 네이버 쇼핑 커넥트 활동의 일환으로, 판매 발생 시 수수료를 제공받습니다. (구매하시는 가격은 동일 합니다) 안녕하세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-rgEa0zWd04/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-rgEa0zWd04/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-rgEa0zWd04/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-rgEa0zWd04/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-rgEa0zWd04/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쇼핑백과",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-26T22:49:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i9O_cN-nDjH__wValjsF3dJQnmg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s1bQmxYVFR8"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-11T04:44:47Z",
+        "channelId": "UC3u_07VE9cvDMUA7kIwJdbg",
+        "title": "매일 쓰는 화장품, 비건 인증까지 꼼꼼하게🌿",
+        "description": "성분도, 제형도, 효과도. 매일 쓰는 화장품일수록 어느 하나 놓치기 싫잖아요   렛미스킨은 피부에 필요한 케어는 충분히 담고, 제품을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s1bQmxYVFR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s1bQmxYVFR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s1bQmxYVFR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s1bQmxYVFR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s1bQmxYVFR8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "letmeskin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-11T04:44:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L9sYxS58NbYwJitRKflUjqSBcuE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dUwo4vDt9bg"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-06T06:09:20Z",
+        "channelId": "UCp6nAQvBB22344XBFuUWyeA",
+        "title": "📆 9/7 올리브영 오특📢 참마 비건 밀크 클렌저 220ml 리필 기획 25,000➡️16,500 34% off #올영세일 #클렌징밀크추천 #올영추천템",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dUwo4vDt9bg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dUwo4vDt9bg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dUwo4vDt9bg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dUwo4vDt9bg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dUwo4vDt9bg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ARU",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-06T06:09:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "99NC6Tv32t0zzFG_d7fY1Gr2ROI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wJNWW1EjZz8"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-27T07:08:49Z",
+        "channelId": "UCgp4XLx5VXpiN-EHzzdptOw",
+        "title": "번들거리는 베이스, 보송하게 마무리해요 | 이지비건 쉼 파우더 팩트",
+        "description": "베이스 메이크업 후 번들거림을 정리하고 싶을 때 이지비건 쉼 파우더 팩트를 사용했어요. 퍼프로 가볍게 눌러주니 보송하게 마무리 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wJNWW1EjZz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wJNWW1EjZz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wJNWW1EjZz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wJNWW1EjZz8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wJNWW1EjZz8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "또뷰",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-27T07:08:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SALnofqgAb3Kkl54H1HjIm3nID8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "51oaFkyMV24"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-05T14:32:14Z",
+        "channelId": "UC2gaksmo_jhrHQd4XfknZIg",
+        "title": "민감한 Y존 피부 실패 없는 비건 케어 #웰리카 #비건세트 #Y존케어",
+        "description": "이 포스팅은 네이버 쇼핑 커넥트 활동의 일환으로, 판매 발생 시 수수료를 제공받습니다. https://naver.me/Gwfynsg4 예민한 Y존 고민?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/51oaFkyMV24/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/51oaFkyMV24/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/51oaFkyMV24/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/51oaFkyMV24/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/51oaFkyMV24/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "조이조이조이‘pick",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-05T14:32:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xr-nLKmn5YqNgAqPwdoYtYZ7oLo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l8vQzgpDQIU"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-05T05:52:21Z",
+        "channelId": "UCBTlW3wwCfRXKCNtrGqUIfw",
+        "title": "#올리브영 추천템 클렌징 젤, #비건이펙트 청보리로 깐달걀피부 도전",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l8vQzgpDQIU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l8vQzgpDQIU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l8vQzgpDQIU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l8vQzgpDQIU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l8vQzgpDQIU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "겨미토끼",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-05T05:52:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j0UHk-eyHGnjhjNa9k7beUTO65o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FNx_r4hr-vg"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-17T11:23:53Z",
+        "channelId": "UCAnSHyBFolEZSxTcb2cTIVQ",
+        "title": "#협찬 환절기 푸석피부, 이렇게 해결!✨",
+        "description": "환절기에 피부가 예민하고 건조하다면? 이지비건 쉼 퓨어 수딩 토너 & 보습 세럼으로 촉촉하게 케어하기   순해서 데일리로 부담 없이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FNx_r4hr-vg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FNx_r4hr-vg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FNx_r4hr-vg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FNx_r4hr-vg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FNx_r4hr-vg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "멜로우데이 mellowday",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-17T11:23:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fi1yNRhzlnbEXDIEZqeRfmSrkYU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SeuuS65taOk"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-11T11:00:21Z",
+        "channelId": "UCZ75Bt8hZt1AO2zRw36QJHw",
+        "title": "아떼 비건 릴리프 비비쿠션 (무보정)",
+        "description": "비건릴리프비비쿠션 #모공커버 #여름밤.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SeuuS65taOk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SeuuS65taOk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SeuuS65taOk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SeuuS65taOk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SeuuS65taOk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여름밤 SummerNight",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-11T11:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x72-TWauPBWuwguMPVLAbdN6Gzc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V801_rgd4IM"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-26T11:41:53Z",
+        "channelId": "UC-Vx5tDNOh35PWGdUsn7rlw",
+        "title": "비건화장품 휴캄 같이 써볼까요? #휴캄 #비건",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V801_rgd4IM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V801_rgd4IM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V801_rgd4IM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V801_rgd4IM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V801_rgd4IM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "yeri0716",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-26T11:41:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L8R0UMaAENuHD43vRqefn3SNPF0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ImnAJT_Oo2Q"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-28T10:29:58Z",
+        "channelId": "UCoVo45Hu47PC7ji7LtEQCag",
+        "title": "올영 블랙헤드 박멸 템!",
+        "description": "제품제공 @mayyoung.kr 블랙헤드 고민인 사람 다 모여     #메이영 #오일투폼클렌저 #비건 #클렌징폼.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ImnAJT_Oo2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ImnAJT_Oo2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ImnAJT_Oo2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ImnAJT_Oo2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ImnAJT_Oo2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "자두픽",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-28T10:29:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mqwr_VFucQpiS7IY74-vXn3iTlw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_a4UpJZejY4"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-20T06:19:09Z",
+        "channelId": "UCgp4XLx5VXpiN-EHzzdptOw",
+        "title": "이지비건 에어필 워터틴트 02 위캔드 잇·07 피어 온 모브 발색 촉촉한 가을 데일리립 추천 #Shorts",
+        "description": "가볍고 촉촉한 이지비건 에어필 워터 틴트 두 컬러를 발라봤어요. 맑고 생기 있는 02 위캔드 잇과 차분하면서 분위기 있는 07 피어 온 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_a4UpJZejY4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_a4UpJZejY4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_a4UpJZejY4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_a4UpJZejY4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_a4UpJZejY4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "또뷰",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-20T06:19:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OG0rbsrlsLF0MFmTmPkeIP61sbA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uQE2m9KL4Jw"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-15T10:45:31Z",
+        "channelId": "UCtgE4LyeI-Y2ZADVA-ogRaw",
+        "title": "백화점 25만원 비타민C 세럼! 올리브영에서 1만원대인이유",
+        "description": "15년차 화장품 개발자가 알려주는 좋은 비타민C 고르는 방법과 백회점 25만원 비타민C 세럼이 올영에선 1만원대인 이유를 영상에서 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uQE2m9KL4Jw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uQE2m9KL4Jw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uQE2m9KL4Jw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uQE2m9KL4Jw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uQE2m9KL4Jw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "핫한걸",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-15T10:45:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h5PgUurCyLOevTq6t_6mggbKw58",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EbA_m_fxfGk"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-16T16:56:29Z",
+        "channelId": "UCCckokt9InEFAVrKnfy2Fsg",
+        "title": "왜 직접 비건 수분크림을 만들게 됐을까요?",
+        "description": "평소 홍조가 심하고 얼굴에 열감이 자주 올라오다 보니 화장품을 고를 때마다 늘 고민하게 됩니다. “뭘 발라야 내 피부가 좀 편안할까?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EbA_m_fxfGk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EbA_m_fxfGk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EbA_m_fxfGk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EbA_m_fxfGk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EbA_m_fxfGk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/EbA_m_fxfGk/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "아름다운손길",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-16T16:56:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LWIh_vRJVHf_Lmkzdvu_Zm916Jc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E73M39o8KrE"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-04T05:53:25Z",
+        "channelId": "UCk0wIR_MWKYRs3cx0muHgPQ",
+        "title": "갑자기 올라온 트러블 때문에 신경 쓰일 때💚전날 밤 틴즈톤즈 트러블 응급 스팟케어밤으로 콕! #틴즈톤즈  #전날밤 #스팟케어밤 #트러플피부 #비건화장품 #여드듬성피부",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E73M39o8KrE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E73M39o8KrE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E73M39o8KrE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E73M39o8KrE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E73M39o8KrE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "드림미소 여기어때",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-04T05:53:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JH-RTvRN4IsH-y3s9yghHAAYsNk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ROZWJ95zfLw"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-11T01:21:12Z",
+        "channelId": "UCzh4TlLCP2qoAaig-lQrr-Q",
+        "title": "[광고] 이즈앤트리 참마 비건 밀크 클렌저 220ml+ 100ml 리필기획",
+        "description": "올영세일 #클렌징밀크추천 #올영추천템 #이즈앤트리 #참마클렌징밀크.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ROZWJ95zfLw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ROZWJ95zfLw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ROZWJ95zfLw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ROZWJ95zfLw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ROZWJ95zfLw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "gilgiri_kkang",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-11T01:21:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qAufwpftihTVD2vHLUAj3U0ghyA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2eht42qfe4w"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-08T09:00:06Z",
+        "channelId": "UChsQ17C4OxWKChbf-6P3ixg",
+        "title": "온 가족이 같이 써도 자극 전혀 없는 역대급 순한 비건 로션 #shorts #비건바디케어 #온가족로션 #순한보습제 #피부자극 #사계절로션",
+        "description": "안소희가 매일 바른다는 민감 피부 구원템! 수분 크림보다 촉촉한 사계절 보습 로션의 정체는? 끈적임 없이 피부 속건조만 싹 잡아주는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2eht42qfe4w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2eht42qfe4w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2eht42qfe4w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2eht42qfe4w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2eht42qfe4w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "1분 스타픽",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-08T09:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3Zk3dPkTQ62cZuxQmxzMRPFwkvw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qlei9yoXB1s"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-20T09:40:43Z",
+        "channelId": "UC1p4L0pR0XolejZvm270jdA",
+        "title": "🎯누리앙 비건 페이스 크림 🎯#크림#비건크림#페이스크림#누리앙크림",
+        "description": "누리앙 비건 페이스 크림 #크림#비건크림#페이스크림#누리앙크림 ✨누리앙은 세계에서 가장 오래된 영국 비건 단체 비건 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qlei9yoXB1s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qlei9yoXB1s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qlei9yoXB1s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Qlei9yoXB1s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Qlei9yoXB1s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/Qlei9yoXB1s/sardefault.jpg",
+            "width": 941,
+            "height": 1672
+          }
+        },
+        "channelTitle": "썰끝에득템",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-20T09:40:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gxLamWPa9GYmLzSwIv3xzOW67YY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K5M_0lRNmOE"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-24T03:34:15Z",
+        "channelId": "UCHT9bokCjhpAYUhgao3aqtw",
+        "title": "더마쉐어 비건 NMN 리프팅 에어리 광노화케어 수분 선세럼 솔직 후기",
+        "description": "오늘의 득템 온도는 몇 도일까요? 알뜰한 쇼핑 정보를 함께 찾아봐요. 살까 말까 고민될 때 들러보세요. 괜찮은 상품과 할인 정보를 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K5M_0lRNmOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K5M_0lRNmOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K5M_0lRNmOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K5M_0lRNmOE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K5M_0lRNmOE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "특템온도",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-24T03:34:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "glj6pnR2XFLMLCcQ8AC10jzSUtA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iJcCpBqZbGM"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-20T13:10:09Z",
+        "channelId": "UCwqkj02zUVglfLoS_tT74BQ",
+        "title": "대세를 따르라 #이지비건 #에어필워터틴트 #워터틴트 #촉촉틴트 #물광틴트 #물빛립 #글로우립 #데일리립 #가을립추천 #가을메이크업 #비건틴트 #비건립 #맑은립",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iJcCpBqZbGM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iJcCpBqZbGM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iJcCpBqZbGM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iJcCpBqZbGM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iJcCpBqZbGM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "송다은",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-20T13:10:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HqN3bMRwZosupdivXNNwr6uQgN8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "17u8fRJepq8"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-03T05:00:04Z",
+        "channelId": "UCPk1Gf7zRwlN0L7ONn_jAMA",
+        "title": "안소희 바디로션 추천 올영세일 비건로션 대용량보습 #내돈내산 #쇼핑쇼츠 #연예인 #쇼츠추천 #안소희",
+        "description": "안소희 #바디로션 #올영세일 #일리윤 #비건화장품 #보습추천 #가성비템 #대용량로션.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/17u8fRJepq8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/17u8fRJepq8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/17u8fRJepq8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/17u8fRJepq8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/17u8fRJepq8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "픽스토리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-03T05:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e6zVaGU-ueyZoCC9zLyesAg4hnk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tZDyfZZlFfE"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-19T00:00:04Z",
+        "channelId": "UC6tf9NbOEkZcX1CocpV3WJQ",
+        "title": "피부 속까지 촉촉해지는 최화정 추천 유기농 속살 크림 #shorts #레쁠레뜨 #속살크림 #속주름크림 #프랑스유기농 #유기농크림 #보습크림 #주름케어 #피부관리 #연예인추천템",
+        "description": "Shorts #연예인추천템 #레쁠레뜨 #레쁠레뜨오트스킨리뉴잉크림 #속살크림 #속주름크림 #프랑스유기농 #프랑스유기농화장품 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tZDyfZZlFfE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tZDyfZZlFfE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tZDyfZZlFfE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tZDyfZZlFfE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tZDyfZZlFfE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "모두알자",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-19T00:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C8RcC-yl7eXUQMX02Mg7baMplQc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QQQU8q54si4"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-14T05:29:00Z",
+        "channelId": "UC6WAKOGGfWuAX23NZsXCjEA",
+        "title": "SNS 난리 난 멜릭서 비건 립밤 #비건립밤 #립밤추천 #입술각질",
+        "description": "이 포스팅은 네이버 쇼핑 커넥트 활동의 일환으로, 판매 발생 시 수수료를 제공받습니다. https://naver.me/F8li8vfG SNS 난리 난 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QQQU8q54si4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QQQU8q54si4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QQQU8q54si4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QQQU8q54si4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QQQU8q54si4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rothchild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-14T05:29:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nTeS24XJ09zAVnuXo96eKkJxtqs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rlW1aHSUkRU"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-11T13:49:26Z",
+        "channelId": "UCl9LB6O9JFGb00eOa3haf_Q",
+        "title": "이지비건 에어필 워터틴트 2종 발색비교🤍",
+        "description": "[협찬] 올가을 맑고 촉촉한 생기립 연출하고 싶다면? 이지비건 에어필 워터틴트 사용해 봤어요! ✨ ​가벼운 오일을 머금은 라이트 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rlW1aHSUkRU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rlW1aHSUkRU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rlW1aHSUkRU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rlW1aHSUkRU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rlW1aHSUkRU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "jane",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-11T13:49:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NM7-5KaoJh98g3_BC2LY-AYWnFc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aZ9WJ8lUUQ0"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-11T13:54:49Z",
+        "channelId": "UCl9LB6O9JFGb00eOa3haf_Q",
+        "title": "올가을 데일리립 찾는다면? 이지비건 에어필 워터틴트 2종 발색비교🤍",
+        "description": "[협찬] 올가을 맑고 촉촉한 생기립 연출하고 싶다면? 이지비건 에어필 워터틴트 사용해 봤어요! ✨ ​가벼운 오일을 머금은 라이트 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aZ9WJ8lUUQ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aZ9WJ8lUUQ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aZ9WJ8lUUQ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aZ9WJ8lUUQ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aZ9WJ8lUUQ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "jane",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-11T13:54:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vVpRPOrqk7ZkgeG3DO8p79D_rnQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qskMn5QEOYI"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-03T12:27:39Z",
+        "channelId": "UCSL80xs_jps-cnmrwNxGjXA",
+        "title": "해외에서 핫한 탱탱 아이볼 세럼👀 올영세일 추천템! | AXIS-Y 비건 콜라겐 아이세럼",
+        "description": "협찬 해외에서 핫한 탱탱 아이볼 세럼, 올영세일 추천템! ✨ AXIS-Y 비건 콜라겐 아이 세럼을 직접 사용해봤어요. 비건 콜라겐 + 5종 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qskMn5QEOYI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qskMn5QEOYI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qskMn5QEOYI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qskMn5QEOYI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qskMn5QEOYI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "heedolog",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-03T12:27:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0MRQew0Yc4M8kHXJqnRWhjqyi4w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lt_eJ6TiCws"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-11T09:08:50Z",
+        "channelId": "UCsFVfxIlfORsjF9acbkuYAw",
+        "title": "🚨엘솔레 자사몰에서만 반값 단독 특가를 오픈합니다!🚨      #비건화장품  #승무원미스트 #미스트추천 #엘솔레 #메이크업베이스",
+        "description": "단순한 수분 공급을 넘어 피부 본연의 힘을 길러주는 똑똑한 멀티 케어템, [엘솔레 모이스처라이징 미라클 미스트 토너] ✨ 자사몰 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lt_eJ6TiCws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lt_eJ6TiCws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lt_eJ6TiCws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lt_eJ6TiCws/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lt_eJ6TiCws/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/lt_eJ6TiCws/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "L.Soulle | 엘솔레",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-11T09:08:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0NJ0Isxt4K_Dg-vi4bU2NuT6mog",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lLADCF-PZ_g"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-04T10:13:31Z",
+        "channelId": "UCfMVPBe6PQmiaCURO9EmpoQ",
+        "title": "덜 사고 덜 발랐더니, 피부가 숨을 쉽니다",
+        "description": "덜 사고 덜 발랐더니, 피부가 숨을 쉽니다] 원문확인하기 https://www.nbiznews.net/news/472550 #비건화장품 #클린뷰티 #피부장벽 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lLADCF-PZ_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lLADCF-PZ_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lLADCF-PZ_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lLADCF-PZ_g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lLADCF-PZ_g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "suhacos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-04T10:13:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fo8mcXiqOfhDrOSLS8uneJVhIPY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tPsTmOA7fZk"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-09T03:46:40Z",
+        "channelId": "UCRG9PT_qk9HbR34yM0DaWMA",
+        "title": "[뷰메추]  메이크업 전 3분! 화장 찰떡같이 먹는 피부결 치트키 💚 #엄정화 #플레이팩 #클렌징폼 #뷰티쇼츠",
+        "description": "오늘의 뷰티 메뉴를 추천합니다   메이크업 전 3분 투자로 화장 찰떡같이 먹는 치트키! 팩 따로, 세안 따로 하지 말고 하나로 끝내 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tPsTmOA7fZk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tPsTmOA7fZk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tPsTmOA7fZk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tPsTmOA7fZk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tPsTmOA7fZk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뷰티숏핑맛집",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-09T03:46:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bhsi0gckgfgdUGjAjiFEG2UY4as",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0_RAm_qGSWs"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-06T11:01:47Z",
+        "channelId": "UCR8th9vv4cSnfoY-Gx5hnbA",
+        "title": "이 브러쉬가 다이소의 실수라고 불리는 이유(마지막 캡처📸) #다이소#브러시#다이소브러시#다이소뷰티",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0_RAm_qGSWs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0_RAm_qGSWs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0_RAm_qGSWs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0_RAm_qGSWs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0_RAm_qGSWs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스칼렛 언니",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-06T11:01:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7LId_ybgND8qe1TuGuu8aNIaOzc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LQ8feVUAwAY"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-02T10:51:09Z",
+        "channelId": "UCFeTGoL6RULDP5pKf810d0Q",
+        "title": "채식과 비건은 뭐가 다를까? 차이는 식탁 밖에 있었다",
+        "description": "제목 ━━━━━━ 채식과 비건은 뭐가 다를까? 차이는 식탁 밖에 있었다 ━━━━━━ 설명 ━━━━━━ 같은 말처럼 쓰이지만 채식 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LQ8feVUAwAY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LQ8feVUAwAY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LQ8feVUAwAY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LQ8feVUAwAY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LQ8feVUAwAY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "In Odd Corner",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-02T10:51:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2SVYtNzEPo90DUOGfsa1p3uWJcI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xSEFT1xEhpo"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-12T01:35:08Z",
+        "channelId": "UCuJ2schwexQtzmrQK3XAnXw",
+        "title": "립 제품의 붉은색 비밀? 카민 쉽게 알기",
+        "description": "립스틱과 블러셔에서 만날 수 있는 붉은 색소 카민을 쉽게 설명합니다. 카민은 코치닐 곤충에서 얻는 동물 유래 색소로, 선명한 붉은색 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xSEFT1xEhpo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xSEFT1xEhpo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xSEFT1xEhpo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xSEFT1xEhpo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xSEFT1xEhpo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "화장품성분연구소",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-12T01:35:08Z"
+      }
+    }
+  ]
+}

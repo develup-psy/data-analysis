@@ -1,0 +1,2212 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "532nl3XWWlCck4nUvq1qHuW-H78",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qX5T4U6FaX9edJ63t6yeg0XLIJo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ctHkg7ru0Rg"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-30T12:40:01Z",
+        "channelId": "UC_3zuiuxex4cbO76QAUgDuQ",
+        "title": "샤워 그 이후..스킨케어인데 예민피부 즉각 진정되는 루틴🫧",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ctHkg7ru0Rg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ctHkg7ru0Rg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ctHkg7ru0Rg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ctHkg7ru0Rg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ctHkg7ru0Rg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "예은 yerendipity",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-30T12:40:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d5kP7ghg2mA4T7vEa9Sl4Gmln3k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "20I7dRV9mMg"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-23T11:00:10Z",
+        "channelId": "UCvGvf3Lk0Z5reU544g_SzPg",
+        "title": "딱! 이대로만 하면 됩니다 | 인생 피부 만들어주는 하루 스킨케어 꿀팁!",
+        "description": "오늘은 정말 간단하지만 피부 컨디션을 확 바꿔줄! 하루 스킨케어 꿀팁을 가져왔습니다. 피부고민 해결해줄 치트키 꿀템들도 있으니까 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/20I7dRV9mMg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/20I7dRV9mMg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/20I7dRV9mMg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/20I7dRV9mMg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/20I7dRV9mMg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "비트 BTE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-23T11:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p9f-8krwzHi0KW_1dMIXPG8UHLA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xV7tAPVmuMY"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-28T04:52:26Z",
+        "channelId": "UCc-zCCulW6jq1lmWjlKCUkw",
+        "title": "“K뷰티 관점이 신기해”, 화장품에 담겨있는 한국과 서양의 차이 ",
+        "description": "출처 https://youtu.be/a8AyodVEVM8?si=7egpb3uvtG90COOQ https://youtu.be/MAfAkZfYDSg?si=zAchRTSrzWEu40Ku ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xV7tAPVmuMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xV7tAPVmuMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xV7tAPVmuMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xV7tAPVmuMY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xV7tAPVmuMY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "일간 소울영어",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-28T04:52:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2FnxCQU19kdREm42FUKwmebwsng",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1On526uSNR4"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-14T04:00:01Z",
+        "channelId": "UCT6W2AUy8If3fN1OoKIFUsg",
+        "title": "헷갈리는 스킨케어 순서 총정리 #shorts",
+        "description": "피부 보습의 정석을 15년차 피부과 원장이 직접 알려드립니다. #보습제 #기초제품추천 #피부관리 #스킨케어 #피부과전문의 #박경열.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1On526uSNR4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1On526uSNR4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1On526uSNR4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1On526uSNR4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1On526uSNR4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "박경열의 피부상담소",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-14T04:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oG9rm98LCOh6SFMP1iNaIX58pWs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7Vc-eu0sXco"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-16T10:00:13Z",
+        "channelId": "UCYUUPZ6nD_OHpVfViJwRFDA",
+        "title": "No광고) 요청폭발🔥무조건 피부 좋아지는 스킨케어 루틴✨따라서 안 사도 되니까 피부 스트레스면 제발 한 번만 봐주세요🥹 | Skincare routine",
+        "description": "이 영상은 광고가 포함되어 있지 않습니다. ✨이 영상에는 업체(브랜드)로부터 받은 노출 의무가 없는 단순 선물 협찬 제품이 포함되어 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Vc-eu0sXco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Vc-eu0sXco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Vc-eu0sXco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7Vc-eu0sXco/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7Vc-eu0sXco/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김퍼프PUFF",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-16T10:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VXNesZM44_QsJqwYTZ8vwHt7-nk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zW3LdwtQq7k"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-01T13:55:26Z",
+        "channelId": "UCK3L6x0ZGU-2cfTDMLnmUyw",
+        "title": "광고❌ 2025 연말결산템 BEST5👑 화잘먹 스킨케어 이걸로 사세요!! #올영추천템",
+        "description": "올 한해 제일 잘쓴템 올리브영 기초추천템 !! 화잘먹 세럼 화잘먹토너 추천! #올영추천템 #올리브영추천템 #올영세일.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zW3LdwtQq7k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zW3LdwtQq7k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zW3LdwtQq7k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zW3LdwtQq7k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zW3LdwtQq7k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "진뉴 JINNEW",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-01T13:55:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RYRzAdD4yoPzxUSxBK2hhInywvs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2v1eQ31XCAA"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-05T13:09:31Z",
+        "channelId": "UCYEEtPL7IlSvNCLL9k5UQyg",
+        "title": "ASMR 한국식 미백 관리 | 모델 출신 원장의 피부관리, 복부 슬림, 통증 완화 리얼사운드",
+        "description": "오벳 에스테틱 @o_vet.aesthetic 광명로 865 2층 얼굴-광채 스킨 미백 케어 (5만원) 복부-슬림 다이어트 석션 복부 관리(10만원) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2v1eQ31XCAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2v1eQ31XCAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2v1eQ31XCAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2v1eQ31XCAA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2v1eQ31XCAA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MIKA ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-05T13:09:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "onBCT3MWWnz62oqAVmWu7dydDHo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N1f17rzf798"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-16T11:10:48Z",
+        "channelId": "UCT3XCWBiNy-mnS0awYq_trw",
+        "title": "직접 겪어 본 피부 망치는 최악의 스킨케어 습관",
+        "description": "해당 영상은 유료광고를 포함하고 있지 않습니다 *Gmail: [email removed] *instagram: jundoly_ ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N1f17rzf798/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N1f17rzf798/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N1f17rzf798/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N1f17rzf798/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N1f17rzf798/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준돌",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-16T11:10:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e0BaR00mCtWWrtv4nthTTLFcNTQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v0Ep1YROvzk"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-08T17:02:51Z",
+        "channelId": "UCmc5qAKJzvNHYe-7NzgOHsw",
+        "title": "더마아키텍트 시연법 공개! 100% 만족 스킨케어 마무리 비법✨Live Skincare Demo: Derma Architect’s Perfect Finishing Touch💆‍♀️",
+        "description": "더마아키텍트 홈파티때 소비자분들 시연 해 주실때 참고하세요~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v0Ep1YROvzk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v0Ep1YROvzk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v0Ep1YROvzk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v0Ep1YROvzk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v0Ep1YROvzk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "암웨이스타이윤숙이야기",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-08T17:02:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fSnbPGpe9kkFxyWhgkNkRHUlCd4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kx93qdFOKE8"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-28T10:15:08Z",
+        "channelId": "UCgtgC3Q2UBytpJooOCq4DJg",
+        "title": "요즘 제일 잘 쓰는 기초템 best4 (스킨케어 덕후 나야 .. 🫧)",
+        "description": "이 영상은 리얼베리어의 유료광고를 포함하고 있습니다 #광고 스킨케어 덕후의 요즘 제일 잘 쓰는 넘버원 크림은 바로,,, ! 식약처 인증 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kx93qdFOKE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kx93qdFOKE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kx93qdFOKE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kx93qdFOKE8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kx93qdFOKE8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "하이빈hibeen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-28T10:15:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VRRE8xNf7BwZtxej4oqV_mM-sxM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OAVzWWIzosM"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-30T08:45:19Z",
+        "channelId": "UC7YZs-gjYRCuDRPPym9Pm9g",
+        "title": "2026 물광스킨케어~선크림~파데까지",
+        "description": "물광 #물광피부 #건성피부 #수부지 안녕하세요 또니입니다   스킨케어 전체!!!! 선크림 파운데이션 까지 또봄이들이 제 루틴 처음부터 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OAVzWWIzosM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OAVzWWIzosM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OAVzWWIzosM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OAVzWWIzosM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OAVzWWIzosM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "또니DDonieBEAUTY",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-30T08:45:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W0JvFjWolvqvcnADbLhMVm6Xpm0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IDl6rgrGiTI"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-22T13:07:06Z",
+        "channelId": "UCrCdZl27CS-SlBDpNDZZ-qw",
+        "title": "여행용 스킨케어 준비 asmr🤩 #청담언니 #요리하는메이크업아티스트",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IDl6rgrGiTI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IDl6rgrGiTI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IDl6rgrGiTI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IDl6rgrGiTI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IDl6rgrGiTI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "화장하는청담언니",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-22T13:07:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J3EbKN5HFU9DFjhaybA9C3-E1ds",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gDYITxly4mA"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-11T12:01:17Z",
+        "channelId": "UCChdHmdkgTpk0iyuODYxJIw",
+        "title": "스킨케어 이렇게 하면 화장 안 먹을 수가 없음!!🙊(+꿀팁 대방출) &quot;해니 최초 마켓 OPEN🎊&quot;",
+        "description": "본 영상은 텐시온 유료광고가 포함되어 있습니다 인스타그램 @haeni_beauty https://www.instagram.com/haeni_beauty/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gDYITxly4mA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gDYITxly4mA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gDYITxly4mA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gDYITxly4mA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gDYITxly4mA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/gDYITxly4mA/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "해니 haeni beauty",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-11T12:01:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U45jVYOdKld8fZsOrtLs95oV1Jg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uJPV9yRIqgo"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-02T03:18:06Z",
+        "channelId": "UCxR4o2eiQz_nc2dUXGyysCw",
+        "title": "다이소 화장품 비추템!!!! 사지마ㅏㅏㅏ!!!!",
+        "description": "이 제품들 뿐만 아니라 비추템들 아주 많아요 뭐 지난번 제이엠솔루션 폼클이며, 에이솔루션 폼클이며… 남성용 화장품은 두말할 것도 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uJPV9yRIqgo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uJPV9yRIqgo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uJPV9yRIqgo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uJPV9yRIqgo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uJPV9yRIqgo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "잠티",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-02T03:18:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BffAPVPuiCjf89heSGxbyp9b_rY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-8DF4fLI98c"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-16T12:09:41Z",
+        "channelId": "UC0IiRuu05k9HorF0GGWVodw",
+        "title": "내가 요즘 진짜 잘 쓰고 있는 인생 스킨케어 제품들 💡",
+        "description": "My favorite skincare products! 많은 분들이 궁금해하시는 것 같아서 오늘은 제가 찐으로 사용하는 데일리템, 인생템, 손이 자주가는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-8DF4fLI98c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-8DF4fLI98c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-8DF4fLI98c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-8DF4fLI98c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-8DF4fLI98c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "본지나 BON GINA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-16T12:09:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GGmS1W68LYJ6xUSjM5N6CZHZHAI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Su4fT-LZMWI"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-10T02:19:58Z",
+        "channelId": "UCRu7798pJRaY1cIHJAFopyg",
+        "title": "여드름쟁이들은 절대 모르는 내용입니다",
+        "description": "익재 카플친 추가 (마켓 5분 전 알림톡 보내드림!)   https://bit.ly/4ptL65m \"남자 여드름 피부 전용 설계, 마케팅 거품 빼고 제조 단가에 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Su4fT-LZMWI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Su4fT-LZMWI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Su4fT-LZMWI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Su4fT-LZMWI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Su4fT-LZMWI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "익재",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-10T02:19:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RdGwIFL2eJZD7cmdJ0omR5knTBE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ixgjeSz-HbE"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-02T13:10:58Z",
+        "channelId": "UC30j37FNLZvJy1LHiQed9lw",
+        "title": "광고❌ 자기관리 미친 사람의 겨울철 모닝 루틴 대공개😎 morning care routine",
+        "description": "2025년 한 해 걸리들 덕분에 너무 행복했어! 2026년도 잘 부탁해 걸리들   오늘은 새해 첫 콘텐츠로 요즘 내 겨울철 모닝 루틴 낋여 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ixgjeSz-HbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ixgjeSz-HbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ixgjeSz-HbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ixgjeSz-HbE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ixgjeSz-HbE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "에이미Amy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-02T13:10:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wK8yK_O2eTviDl7i6Q6CgVSVT4k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZyKtCIkbma4"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-06T11:30:41Z",
+        "channelId": "UCdpc3MhTE28FlE3A5EEClfQ",
+        "title": "ASMR Facial &amp; Decollette 에스테틱 피부관리  #데콜테 #스킨케어 #aesthetic #asmrskincare #에스테틱피부관리",
+        "description": "안녕하세요. 스킨티쳐입니다. 오늘은 저는 촬영을 하고, 예쁜 모델분을 섭외했습니다. 스테이온 에스테틱 별내점 써니원장님의 스테이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZyKtCIkbma4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZyKtCIkbma4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZyKtCIkbma4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZyKtCIkbma4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "skinteacher",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-06T11:30:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J-ipRT1I9dxSfE7HwKefRY5YC-c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "35UaNmOV79g"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-25T02:06:46Z",
+        "channelId": "UCfWeb7WmlWo1q4Lb4V5lLWQ",
+        "title": "워킹맘의 겨울 아침 메이크업 루틴 ❄️✨☃️ #모닝루틴 #스킨케어",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/35UaNmOV79g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/35UaNmOV79g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/35UaNmOV79g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/35UaNmOV79g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/35UaNmOV79g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "유치치 chichi U",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-25T02:06:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FaRWYB2EfzB0EO8Z6nVpDMK4LbY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pcF3z016K_g"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-23T10:38:12Z",
+        "channelId": "UCoqkR26bl8dc7C19psm6whg",
+        "title": "2026 - Glow up vlog ‧˚ 𝄞⊹ | 내가 정기적으로 받는 시술들 &amp; 윤기나고 부드러운 살결과 머릿결 셀프 홈 케어",
+        "description": "여러분。。!! 영상 너무 오랜만이죠! 11월 24일에 일본 워킹 홀리데이 합격 발표가 난 이후로 부터 원래 살던 한국 집 계약일에 맞춰 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pcF3z016K_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pcF3z016K_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pcF3z016K_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pcF3z016K_g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pcF3z016K_g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아린 wested_arin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-23T10:38:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "odcvzoFlcMvNb2p2aIh3xHE7y2w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DmHonbs3tr4"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-12T11:13:08Z",
+        "channelId": "UCoFfV8sTi5PWKEdvJP2XzWQ",
+        "title": "얘네는 꼭 내 돈 주고 삽니다 #올리브영 #스킨케어",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DmHonbs3tr4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DmHonbs3tr4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DmHonbs3tr4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DmHonbs3tr4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DmHonbs3tr4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "늘이농",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-12T11:13:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vRgvOO7WOZWdsGSGD7_NwDpEmAA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RWXPZJ750ew"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-14T10:00:52Z",
+        "channelId": "UCLFol-qo-0ew1JRSz-jXlUw",
+        "title": "눈터진날 스킨케어..",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RWXPZJ750ew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RWXPZJ750ew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RWXPZJ750ew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RWXPZJ750ew/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RWXPZJ750ew/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뉴진모하뉴",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-14T10:00:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2LJHn4VD3Yl-m_YivW9qig7Vo9Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3OVOYw9mr6M"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-10T04:03:05Z",
+        "channelId": "UCLyRxUcEIUvrG5wAS2TaE9w",
+        "title": "“이것만 사도 뽕 뽑습니다!🔥” 한국엔 없는 일본 드럭스토어 화장품 필수 구매 리스트 ㅣ뷰티템 10가지 총정리",
+        "description": "본 영상은 어떠한 업체의 광고나 협찬도 포함하지 않은 개인 리뷰 영상입니다. 비즈니스 문의: [email removed] 타임라인 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3OVOYw9mr6M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3OVOYw9mr6M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3OVOYw9mr6M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3OVOYw9mr6M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3OVOYw9mr6M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "피부는 희쌤",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-10T04:03:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2okVSoNVdkXLfPdA9yJAY8XVLXI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tWbgd9B09x0"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-02T10:44:00Z",
+        "channelId": "UCT3XCWBiNy-mnS0awYq_trw",
+        "title": "좁쌀 여드름 ”무조건“ 3일안에 없애는법",
+        "description": "해당 영상은 유료광고계약을 포함하고 있지 않습니다 Gmail: [email removed] instagram: jundoly_ ㅡㅡㅡㅡㅡㅡㅡㅡㅡ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tWbgd9B09x0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tWbgd9B09x0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tWbgd9B09x0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tWbgd9B09x0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tWbgd9B09x0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준돌",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-02T10:44:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jIENcavqmdp_rDOiz5eZkdYRiDA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iLLf-xwiecA"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-19T06:06:54Z",
+        "channelId": "UCfWeb7WmlWo1q4Lb4V5lLWQ",
+        "title": "임신 후 뒤집어진 피부🥵 극복한 스킨케어 루틴￼! #임신여드름 #임산부피부관리",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iLLf-xwiecA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iLLf-xwiecA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iLLf-xwiecA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iLLf-xwiecA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iLLf-xwiecA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "유치치 chichi U",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-19T06:06:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NMgcmg2aCRHyWM8JIum6SmrASWo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PV7QRk8hu50"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-27T11:00:45Z",
+        "channelId": "UChaTUCM7bPBTJaIZQ83PNwQ",
+        "title": "🏥 피부과 3대장 중 1등 했다는, &#39;제로이드 수딩 크림’ 솔직 리뷰🧴",
+        "description": "남자관리 #스킨케어 #피부과 #제로이드 #크림추천.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PV7QRk8hu50/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PV7QRk8hu50/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PV7QRk8hu50/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PV7QRk8hu50/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PV7QRk8hu50/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스완SWAN_현실남자관리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-27T11:00:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TThibqfJCs3XQVt6GvEh1uS7vJY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2pSFt7RzG6o"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-21T11:10:35Z",
+        "channelId": "UCAbLNUPDKsjTjdeQjSiskiw",
+        "title": "요즘 귀찮아서 이렇게만 해요 🛀💦 #스킨케어루틴 #skincare #nightroutine",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2pSFt7RzG6o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2pSFt7RzG6o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2pSFt7RzG6o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2pSFt7RzG6o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2pSFt7RzG6o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현현",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-21T11:10:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y5Xk9R6UQw8n5vGRwYZNp2mNCtg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j1NOG8yPwmQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-11T07:18:28Z",
+        "channelId": "UCR8th9vv4cSnfoY-Gx5hnbA",
+        "title": "스킨케어 숨은 꿀템  제보를 기다립니다..이 영상을 널리 퍼뜨려주세요🙏🏻",
+        "description": "유명하지 않다는 이유로 사라지는 스킨케어 꿀템들, 지금 이 제보가 마지막 기회일지도 모릅니다. 정말 좋은 제품들 찾아올게요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j1NOG8yPwmQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j1NOG8yPwmQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j1NOG8yPwmQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j1NOG8yPwmQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j1NOG8yPwmQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스칼렛 언니",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-11T07:18:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nDgz8oCrxCiOQC18KNtDfakHbBs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zC2TPCWmTUg"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-05T09:01:29Z",
+        "channelId": "UCVtKoFzGBO7XOtr-4mTkLKw",
+        "title": "겨울철 화잘먹템 추천!! (+ 유쿄 스킨케어) #ㅈㅔ #추천 #루아센시아 #코덕 #올영추천템 #스킨케어",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zC2TPCWmTUg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zC2TPCWmTUg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zC2TPCWmTUg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zC2TPCWmTUg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zC2TPCWmTUg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "유쿄",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-05T09:01:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JXnz7haBMOTcYzeErEivlPalGCs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3tc0u2V7O60"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-28T12:03:00Z",
+        "channelId": "UClwBDUAxmjb9zosF_f3l0Ng",
+        "title": "성공률 100% 다음날 피부 좋다는 말 듣는 스킨케어 루틴💦",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3tc0u2V7O60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3tc0u2V7O60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3tc0u2V7O60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3tc0u2V7O60/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3tc0u2V7O60/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코가이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-28T12:03:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bwfyiZBGNRbR-ralDplcwHlSxKI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "je-9b8t_k2g"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-20T11:45:09Z",
+        "channelId": "UCuzsaQcL1N801SzHIIzzXHA",
+        "title": "수부지 화잘먹 루틴 (광고❌, 10시간 이상 지속)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/je-9b8t_k2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/je-9b8t_k2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/je-9b8t_k2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/je-9b8t_k2g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/je-9b8t_k2g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "단츄눈",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-20T11:45:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tEGhEokjRrw8IudBRwhw01i3gL4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cVDsDpjdzfA"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-09T08:00:57Z",
+        "channelId": "UCT6W2AUy8If3fN1OoKIFUsg",
+        "title": "(광고❌)&quot;보습제 이렇게 바르면 병원 안가도 됩니다&quot; 원장님의 100% 찐 보습템 대공개, 동안피부 만드는 앰플, 로션 제대로 바르는 법을 알려드립니다.",
+        "description": "보습제 #보습제추천 #기초스킨케어 #보습꿀팁 #앰플추천 #스킨케어 #로션추천 #보습제인생템 #피부과전문의 안녕하세요 여러분의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cVDsDpjdzfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cVDsDpjdzfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cVDsDpjdzfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cVDsDpjdzfA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cVDsDpjdzfA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "박경열의 피부상담소",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-09T08:00:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mUYEWowPzdpzlUAY2gafrIEBLC4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s0TSHTyxjVc"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-19T09:01:30Z",
+        "channelId": "UCGhRiaKgkLlvPoBulWhX4gQ",
+        "title": "백화점 4만원대~26원대 스킨케어템 직접 써봤습니다🔥 2026 새해맞이 피부고민 맞춤 솔루션템 추천! (+구독자이벤트)",
+        "description": "ఇ Instagram : https://www.instagram.com/hyunjjiiii/ ఇ E-mail : [email removed] *영상 화질을 2160p로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s0TSHTyxjVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s0TSHTyxjVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s0TSHTyxjVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s0TSHTyxjVc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s0TSHTyxjVc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "짱순ZZangsoon",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-19T09:01:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "066kbzCPaPwEKRgV87zLg-uxS8s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8a5P7acSDdg"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-19T12:00:13Z",
+        "channelId": "UC9P1tkf6e0hS7vzuDEuuAeA",
+        "title": "내 피부보고 다들 물어본 결광 스킨케어 루틴의 모든것✨#광채베이스",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8a5P7acSDdg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8a5P7acSDdg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8a5P7acSDdg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8a5P7acSDdg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8a5P7acSDdg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쏭냥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-19T12:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kK0ladZV8KM-W6NdeiH0StldQDk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eRU8RMgLktk"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-22T09:40:24Z",
+        "channelId": "UCjjL9P7exq97lMsuj0A3_RA",
+        "title": "스킨케어 제발 ‘천천히’ 하세요!",
+        "description": "20년차 코스메틱 CEO 꿀팁.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eRU8RMgLktk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eRU8RMgLktk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eRU8RMgLktk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eRU8RMgLktk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eRU8RMgLktk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "엠레드 클리닉 AMRED CLINIC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-22T09:40:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-yYICQ4igT_oWaNOpTr-4mXUe-c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Fwczfw25HiM"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-26T11:24:42Z",
+        "channelId": "UC0N_8bIjmMdWbq6gK9hlUjg",
+        "title": "40대 겨울철 찐 나이트 스킨케어 루틴#나이트루틴",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fwczfw25HiM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fwczfw25HiM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fwczfw25HiM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fwczfw25HiM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fwczfw25HiM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쥴리쿠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-26T11:24:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j8oizt51WgpJ8EPqpaAoHxKRNH4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CUdIbAeZaj8"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-20T11:00:22Z",
+        "channelId": "UCYsv-IHC-B-DiVMmJuqibcg",
+        "title": "‼️40대~70대 필수 시청‼️ 늘어가는 피부고민 해결을 위해 반드시 사용해야 하는 성분과 홈케어 방법, 추천 시술까지 총정리",
+        "description": "안녕하세요 제이나 입니다. 많은 분들이 댓글에서 요청하셨던 40대부터 70대까지 피부 관리법 영상을 가져왔습니다. 대표적인 4070 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CUdIbAeZaj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CUdIbAeZaj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CUdIbAeZaj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CUdIbAeZaj8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CUdIbAeZaj8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "제이나 [Jaina]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-20T11:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vyCk91jRmKCwEl_D074tM_2kUCc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3ChZ-hskv_s"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-01T05:20:02Z",
+        "channelId": "UCfWeb7WmlWo1q4Lb4V5lLWQ",
+        "title": "완벽한 쌩얼피부 준비 완료! 🕺🦄💟 #뷰티꿀팁 #스킨케어",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3ChZ-hskv_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3ChZ-hskv_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3ChZ-hskv_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3ChZ-hskv_s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3ChZ-hskv_s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "유치치 chichi U",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-01T05:20:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q-89yTQzdUBfcfFthajE1_bS-iI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tLWSSyvgFDc"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-16T13:48:38Z",
+        "channelId": "UCRFh2MoRiD-whPn0QuOzMFQ",
+        "title": "🚨피부 뒤집혔을 때! 2주 리셋 스킨케어 루틴 4가지✨ #shorts",
+        "description": "영상에서 사용한 제품 1️⃣ 셀리맥스 노니패드 2️⃣ 셀리맥스 노니앰플 3️⃣ 빌리프 아쿠아밤 4️⃣ 바이오더마 시카 비오 크림 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tLWSSyvgFDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tLWSSyvgFDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tLWSSyvgFDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tLWSSyvgFDc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tLWSSyvgFDc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이리유 iliyu",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-16T13:48:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0hZDacP4RdzdqGu6-Kgu0CCA_T0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pCT4Qcpw-oY"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-30T12:43:37Z",
+        "channelId": "UC9pR3MoUeYJnJ7JwlgwRygA",
+        "title": "심한 여드름 흉터 치료 후기 + 재생, 진정 관리 스킨케어 루틴🔥",
+        "description": "안녕하세요!!! 한무드입니다~! 이번 영상에서는 여드름 흉터 치료 2회차 후기를 바탕으로 여드름 흉터 치료를 받으면서 실제로 어떤 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pCT4Qcpw-oY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pCT4Qcpw-oY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pCT4Qcpw-oY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pCT4Qcpw-oY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pCT4Qcpw-oY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "한무드",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-30T12:43:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6qLri-s9LOJoNeUOhtdbyokfjdE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Spvr1amiDgA"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-08T11:23:50Z",
+        "channelId": "UCrlUlicedicJ5mlibqC62Eg",
+        "title": "저는 이것만 죽어라 썼어요…왕모공 피부 2025년 화잘먹 결산템🔥",
+        "description": "이 영상은 '유료 광고 계약 사항'이 포함되어 있지 않습니다 유튜브에서 다 하지 못한 얘기는 인스타에서 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Spvr1amiDgA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Spvr1amiDgA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Spvr1amiDgA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Spvr1amiDgA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Spvr1amiDgA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뷰드름 유튜버 인씨",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-08T11:23:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7jzJPwYpKKLcpL2NISlYm7TxABA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "buxefF1r76E"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-07T11:01:19Z",
+        "channelId": "UCvGvf3Lk0Z5reU544g_SzPg",
+        "title": "올영 1위? 에스트라 아토베리어365 크림 진짜 좋을까?",
+        "description": "영상 내 태그된 쿠팡 링크로 구매 시, 수수료를 받아 내돈내산 콘텐츠 제작에 도움이 됩니다. ✓ 인스타그램 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/buxefF1r76E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/buxefF1r76E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/buxefF1r76E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/buxefF1r76E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/buxefF1r76E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "비트 BTE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-07T11:01:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i85eL_dVzwhsk7uUHEOKtibpnlI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V2fDTuIh0DA"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-21T01:15:01Z",
+        "channelId": "UCqnokRU3HvMggT_8_NcIc-w",
+        "title": "평범한 중3의 나이트 루틴🫧 | 클렌징부터 씻는 것까지… | 좋은 피부 유지하는 방법 ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V2fDTuIh0DA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V2fDTuIh0DA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V2fDTuIh0DA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V2fDTuIh0DA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V2fDTuIh0DA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "률",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-21T01:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BfY4-Qnp9yEuR1qu77T3amZD9D8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s38HjuFq7hU"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-03T12:01:47Z",
+        "channelId": "UCqnlLQytrn75s_5gSQ0CUBQ",
+        "title": "딱 5분만⏰ 겨울 화잘먹 스킨케어 루틴 아침편☀️ #스킨케어 #스킨케어루틴 #화잘먹",
+        "description": "나름... 피부과 안다니면서 화장 꽤나 잘 먹는다고 자부하는 저인지라... 주변에서도 종종 뭐 쓰냐고 물어보곤 하는데요(승무원분들은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s38HjuFq7hU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s38HjuFq7hU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s38HjuFq7hU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s38HjuFq7hU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s38HjuFq7hU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "플랑",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-03T12:01:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FKWF6-wUp32n1i7t3-RB_JlHsFc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UTK9BbTd4Mc"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-30T09:13:48Z",
+        "channelId": "UC-Z5H4ZyxZnYiH1iYonvKbQ",
+        "title": "두 번째 손님😆 (동생 로션 발라주기🧴) #스킨케어 #피부 #마스크팩 #관리하는남자 #동생",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UTK9BbTd4Mc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UTK9BbTd4Mc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UTK9BbTd4Mc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UTK9BbTd4Mc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UTK9BbTd4Mc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "안서훈",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-30T09:13:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "agQMHSCv5DWnTMSOJoJQzJ8uSso",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zDctOvpXWQs"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-07T11:31:07Z",
+        "channelId": "UCe-DjfQ5QCTKD9-C3CPj5sA",
+        "title": "피부과 원장님이 알려주는 아침 스킨케어 &#39;1분&#39;의 법칙",
+        "description": "안녕하세요, 당신의 가장 예쁜 순간을 찾아드리는 피부술사 박세윤입니다. 아침에 공들여 한 화장이 선크림 단계에서 때처럼 밀려 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zDctOvpXWQs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zDctOvpXWQs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zDctOvpXWQs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zDctOvpXWQs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zDctOvpXWQs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "예뻐지세윤",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-07T11:31:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1ND_x1LWmmJH6GSRR0MfHW_v4FQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OZZFXkotnmo"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-30T01:53:26Z",
+        "channelId": "UCHOFsOYkg0VctXNRuRRySCg",
+        "title": "라로슈포제 b5+ b5비교 #올리브영 #재생크림 #스킨케어",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OZZFXkotnmo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OZZFXkotnmo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OZZFXkotnmo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OZZFXkotnmo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OZZFXkotnmo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톨지니",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-30T01:53:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7Bg0DzppFvtHYh02FhsLqhOMUOI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P7621eA8K8g"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-02T09:24:40Z",
+        "channelId": "UCYdYEVp2t0zD5xJu0hKWAgw",
+        "title": "여드름 압출받다 막말듣고 운 썰,,,🤯 #스킨케어 #나이트루틴 #여드름관리",
+        "description": "여드름피부 #지성피부 #스킨케어루틴.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P7621eA8K8g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P7621eA8K8g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P7621eA8K8g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P7621eA8K8g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P7621eA8K8g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "조말랭Jomalraeng",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-02T09:24:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yZxaN9bLH3YH2Dr-QCjrgGN4gPM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "azbSRyFOmh0"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-15T09:36:06Z",
+        "channelId": "UCHOFsOYkg0VctXNRuRRySCg",
+        "title": "모공 넓어지는 최악의 습관 TOP7 #모공케어 #피부관리 #스킨케어",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/azbSRyFOmh0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/azbSRyFOmh0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/azbSRyFOmh0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/azbSRyFOmh0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/azbSRyFOmh0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톨지니",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-15T09:36:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uWz3kqvaN0ujP7DkwaCo_7gg6nA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kJBNgw37AZU"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-18T23:01:00Z",
+        "channelId": "UCLFol-qo-0ew1JRSz-jXlUw",
+        "title": "초초고보습 스킨케어",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kJBNgw37AZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kJBNgw37AZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kJBNgw37AZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kJBNgw37AZU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kJBNgw37AZU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뉴진모하뉴",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-18T23:01:00Z"
+      }
+    }
+  ]
+}

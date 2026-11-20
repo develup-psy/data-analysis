@@ -1,0 +1,2252 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "9wQdEUIYPie4na-LHvzo-JLu500",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 288866,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aZn-Ksw0k23Fbxw5DDJ26m_jeXo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ybGqh4LnlCA"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-26T07:30:53Z",
+        "channelId": "UCmr4EtRQtm7K0zHG_0e8UBw",
+        "title": "피부장벽 무너졌을때 절대 하면 안되는 2가지",
+        "description": "약사로서 피부 상담할때 제일 강조하는게 절대 안해야하는거, 이거 두개는 우선 장벽무너졌을때 특히 진짜진짜 하지말아요, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ybGqh4LnlCA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ybGqh4LnlCA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ybGqh4LnlCA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ybGqh4LnlCA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ybGqh4LnlCA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쎄씨약사 [Ceci - 세포들의 시간]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-26T07:30:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H67M5zzWpYrxD5UlZKtrINSk5Nk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8sIdUeOrIdE"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-02T23:00:11Z",
+        "channelId": "UC_H0qPl7BGnfo5VHxp-298w",
+        "title": "피부 장벽을 망치는 습관 7가지",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8sIdUeOrIdE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8sIdUeOrIdE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8sIdUeOrIdE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8sIdUeOrIdE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8sIdUeOrIdE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "약사동생",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-02T23:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MZx5P7Oamo_kWcc1HhI6cqjfgSU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YgbEcqZM5go"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-30T23:00:23Z",
+        "channelId": "UCv2d6bZlquOUh_fQdp9XMMg",
+        "title": "비싼 화장품보다 중요한 딱 2가지…피부 노화 늦추려면 이것부터 바르세요 | 김현정 교수 [EP. 222]",
+        "description": "피부를 위해 정말 많은 화장품이 필요할까요? 가천대학교 의과대학 길병원 피부과 김현정 교수에게 피부 장벽을 지키는 방법부터 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YgbEcqZM5go/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YgbEcqZM5go/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YgbEcqZM5go/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YgbEcqZM5go/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YgbEcqZM5go/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/YgbEcqZM5go/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "김재원TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-30T23:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sHjRz8io6yeQMCAila0clUsAZ_A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yy62fbcLO1w"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-22T02:00:13Z",
+        "channelId": "UCtgE4LyeI-Y2ZADVA-ogRaw",
+        "title": "피부 전문가들이 알려주는! 다이소 화장품 추천템 VS 비추천템",
+        "description": "서울대 의사와 피부과 실장인 피부 전문들이 알려주는 다이소 화장품 추천템 VS 비추천템 영상에서 확인해 주세요! 영상속 제품은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yy62fbcLO1w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yy62fbcLO1w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yy62fbcLO1w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yy62fbcLO1w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yy62fbcLO1w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "핫한걸",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-22T02:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xNDX0ZTZ9AFDEKzIjCSlBgyojmw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pVj2L7d6-cY"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-04T09:00:24Z",
+        "channelId": "UCW4_AOlBNg_dR4DQ1f0OD7Q",
+        "title": "피부 장벽 1주 만에 회복하는 방법 | 피부가 따갑고 빨갛다면?  | 피부과 전문의가 설명합니다",
+        "description": "피부 장벽이 무너졌을때, 이 영상만 보시면 됩니다. 물만 닿아도 피부가 따갑고, 얼굴이 빨개지고 가렵다면 평소 잘 사용하던 화장품도 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pVj2L7d6-cY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pVj2L7d6-cY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pVj2L7d6-cY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pVj2L7d6-cY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pVj2L7d6-cY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/pVj2L7d6-cY/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "유명해지고 싶은 레디피부과",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-04T09:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i0aCDSalykeATjELVw6ubyhWJ4I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BJd8uHhKy2Y"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-30T10:15:02Z",
+        "channelId": "UCW9WRSzIZdC5lj6SuHviEZQ",
+        "title": "무너진 피부장벽 회복방법부터 나타나는 대표적인 증상 TOP 6가지! 병원가기전에 꼭 보세요",
+        "description": "안녕하세요, 피부과전문의 권인호입니다! 요즘 피부장벽이 무너져서 얼굴이 쉽게 붉어지고 트러블이 생겨서 불편함을 느끼시는 분들 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BJd8uHhKy2Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BJd8uHhKy2Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BJd8uHhKy2Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BJd8uHhKy2Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BJd8uHhKy2Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "피부호 권인호 | 피부과전문의",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-30T10:15:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cwHPsJiVW-plcS9bBiDbsrpGZ90",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dJ2MlyBGYAA"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-31T11:31:09Z",
+        "channelId": "UC6gbVH-zlupe0E1iUbnI8XQ",
+        "title": "오늘 피부도 고생했으니까♥️(피부 장벽템)#구독자이벤트",
+        "description": "리얼더마 #장벽크림 #리얼더마B5크림 #B5크림 #피부장벽 #피부진정 #진정크림 #보습크림 #수분크림 #민감성피부 #건성피부 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dJ2MlyBGYAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dJ2MlyBGYAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dJ2MlyBGYAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dJ2MlyBGYAA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dJ2MlyBGYAA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "예진아C",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-31T11:31:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6M95Nf3Nw30RbAn7gn4gv8cIjMs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wMrSwqYIy5o"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-31T10:01:41Z",
+        "channelId": "UC73pldKqWhuMAB6yJgV2tVw",
+        "title": "믿었던 수분 크림이 피부 장벽을 망친다? 속건조 잡는 피부 장벽 강화 전략 두 가지! 🏰🗡️",
+        "description": "안녕하세요. 당신의 피부과 전문의, 허준원입니다 ‍⚕️ 혹시 모두들 기초 스킨케어 어떻게 하고 계신가요? 저희 작가님께 물어 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wMrSwqYIy5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wMrSwqYIy5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wMrSwqYIy5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wMrSwqYIy5o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wMrSwqYIy5o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "당신의 피부과 전문의, 허준원",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-31T10:01:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ePQsEiuIobitQP-O6DK2YvxRSEo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QaxmYWUsr3M"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-30T03:00:26Z",
+        "channelId": "UCTynmGiy6DqMY4VtecmMvzQ",
+        "title": "장나라가 3시간마다 얼굴에 바르는 게 이거라고? 진짜 피부 미쳤다",
+        "description": "장나라가 3시간마다 화장 위에 덧바른다는 동안 피부 비결! 이미 생긴 기미까지 옅어지고 자연스러운 톤업까지 되는 진짜 이유를 공개 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QaxmYWUsr3M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QaxmYWUsr3M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QaxmYWUsr3M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QaxmYWUsr3M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QaxmYWUsr3M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "힙픽",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-30T03:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fdwnvVW7g0ktqUim_Ca9HvoGM24",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9ghIkqRyo-U"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-22T12:23:13Z",
+        "channelId": "UCxR4o2eiQz_nc2dUXGyysCw",
+        "title": "속건조 반대가 속보습이면, 반건조오징어 반대는 반촉촉존잘남임?",
+        "description": "안녕하세요 여러분 잠티입니다. 속건조 해결은 뭐다? 피부장벽 개선이다ㅏㅏㅏㅏ 그리고 최근에 예전 영상을 봤는데, 착실히 살이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9ghIkqRyo-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9ghIkqRyo-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9ghIkqRyo-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9ghIkqRyo-U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9ghIkqRyo-U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/9ghIkqRyo-U/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "잠티",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-22T12:23:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D5Hv0RoFjd0iz65ytcxC4cO8dCc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gTm4vXqDWbk"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-22T11:44:39Z",
+        "channelId": "UCfzHWZgb4O0DY057A1FWBnA",
+        "title": "피부 장벽에 도움되는 기초템 4가지 🧴",
+        "description": "민감성 피부라면 기초템 아무거나 쓰기 어렵잖아요   저도 피부가 예민해서 이것저것 바꿔보다가 2년 이상 꾸준히 써본 기초템들 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gTm4vXqDWbk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gTm4vXqDWbk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gTm4vXqDWbk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gTm4vXqDWbk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gTm4vXqDWbk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "연뉴",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-22T11:44:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kPLZapFshKPG2K2TVk-HkwesdQQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y6NPfo0ZoFs"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-01T09:40:23Z",
+        "channelId": "UCkbdj160TOyPTvgmnctF4Sg",
+        "title": "여름철 박살난 피부장벽 100% 완벽 복구하는 법",
+        "description": "피부관리 #이소티논 #여드름 #스킨케어.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y6NPfo0ZoFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y6NPfo0ZoFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y6NPfo0ZoFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y6NPfo0ZoFs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y6NPfo0ZoFs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "싱믄",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-01T09:40:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TtY6xCbUd4u-w7SwYkfWPcNpTSg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ILj4Ptsfquk"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-19T16:48:02Z",
+        "channelId": "UCWursKCe2pQPFCKkGCciGZQ",
+        "title": "피부가 뒤집어졌을 때 이것만은 꼭 지키세요｜여름 피부장벽 관리 🥵 #장벽크림 #민감성피부 #피부장벽 #피부장벽강화 #올리브영",
+        "description": "여름엔 자외선이랑 열 때문에 피부가 금방 붉어지고 예민해지지 않나요 특히 밖에 오래 돌아다닌 날엔 피부가 괜히 뒤집어진 느낌이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ILj4Ptsfquk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ILj4Ptsfquk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ILj4Ptsfquk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ILj4Ptsfquk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ILj4Ptsfquk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYUN22",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-19T16:48:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nHvABmqYdhCr5x68yiKwu1a2lp0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PmrXKcM2YMI"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-27T17:27:39Z",
+        "channelId": "UCN820P3PLVl7v0nPdnXTtLQ",
+        "title": "모공 피지 색소침착 다되는 나이아신아마이드 팩폭리뷰",
+        "description": "색소침착이랑 피지 잡는 데 그렇게 좋다는 나이아신아마이드! 다들 하나쯤 품고 계시거나 사볼까 고민 중이셨죠? 모공은 넓고 민감 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PmrXKcM2YMI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PmrXKcM2YMI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PmrXKcM2YMI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PmrXKcM2YMI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PmrXKcM2YMI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "피부장벽지킴이 민조이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-27T17:27:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qGv78eKJJhLWISvbZJgjzJeXAGA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UFR_9-WIs88"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-15T14:30:07Z",
+        "channelId": "UCAirUvR94MLsGchTju6FL2Q",
+        "title": "피부 장벽 무너진 사람 특징",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UFR_9-WIs88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UFR_9-WIs88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UFR_9-WIs88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UFR_9-WIs88/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UFR_9-WIs88/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "피부일타 민원장",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-15T14:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4D4RoDCcJmgMXX_hNADOFT-vfX8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OIyHw7Ek_a0"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-15T03:53:42Z",
+        "channelId": "UCYY-Y-Ub0tTwMt3rAeYKGsA",
+        "title": "피부 장벽 회복에 효과 본 5가지",
+        "description": "모낭염 좁쌀여드름 쉽게 생기고 피부장벽이 쉽게 무너지던 사람의 피부 회복에 효과 본 소소한 관리 #모낭염 #피부관리 #홈케어 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OIyHw7Ek_a0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OIyHw7Ek_a0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OIyHw7Ek_a0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OIyHw7Ek_a0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OIyHw7Ek_a0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "유꼬",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-15T03:53:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FtW5z0Y4LzTJC4FQojQHf1r4Tt8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lU0EskI6um0"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-22T05:46:04Z",
+        "channelId": "UClsx-wvytR6oFE0EZ8hWX6w",
+        "title": "효과 없는 장벽크림 확인 방법 30초면 가능",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lU0EskI6um0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lU0EskI6um0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lU0EskI6um0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lU0EskI6um0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lU0EskI6um0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "퓨어포어",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-22T05:46:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cYWMSX0cKH77WghdNACnw2i54RA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r0Dfvcvew6g"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-19T03:30:14Z",
+        "channelId": "UCyRNxbCK8vdq-F-sBEL-hyg",
+        "title": "민감성 피부 주목!! 피부 장벽 무너졌을 때 증상 5가지!",
+        "description": "부산피부과 #부산피부과전문의 #그대고운피부과 한 분 한 분의 소중한 댓글에 답변을 하나하나 드릴 수는 없지만 댓글을 적어주시면 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r0Dfvcvew6g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r0Dfvcvew6g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r0Dfvcvew6g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r0Dfvcvew6g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r0Dfvcvew6g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/r0Dfvcvew6g/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "부산피부과전문의 이원구",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-19T03:30:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gUPx2ukEA2gPvFvDrbrN0gldWMA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x_worsHf1dU"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-01T11:10:39Z",
+        "channelId": "UCN820P3PLVl7v0nPdnXTtLQ",
+        "title": "지긋지긋한 요철 없애는 방법 | 피부관리사 찐 애정템",
+        "description": "요철 #알로에젤 최근에 지인들이 요즘 최대 고민이 피부 진정이랑 오돌토돌 요철이라고 방법 좀 알려달라고 하더라고요? 그래서 제 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x_worsHf1dU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x_worsHf1dU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x_worsHf1dU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x_worsHf1dU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x_worsHf1dU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "피부장벽지킴이 민조이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-01T11:10:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k0Zdmv5FlzlXaBgIS_Q3CBaAjlg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9ZsGsH7fy5E"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-30T10:00:12Z",
+        "channelId": "UCvlVPiO17tbzdqHKeh_wJEQ",
+        "title": "갑자기 춥고 건조한 날씨 피부가 따갑고 당긴다면, 피부장벽 회복은 ‘이거’부터 하세요 | 연세 A&amp;B 피부과",
+        "description": "갑자기 추워진 날씨 때문에 건조해지면 피부가 따갑고 당기기 시작합니다. 이러한 증상은 피부 장벽이 무너질 때 생기는 현상입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9ZsGsH7fy5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9ZsGsH7fy5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9ZsGsH7fy5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9ZsGsH7fy5E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9ZsGsH7fy5E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이해진의황금피부",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-30T10:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W50rGgn8z2qbJeGpgxAzE-gFXck",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mQTOdE50ofk"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-19T03:37:16Z",
+        "channelId": "UC2hLaE_R8ldNY7OCDmvA-Cw",
+        "title": "피부장벽톤업재생크림 비반로션 피부보호크림으로 쓰세요#비반콴트망카로션",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mQTOdE50ofk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mQTOdE50ofk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mQTOdE50ofk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mQTOdE50ofk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mQTOdE50ofk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "다드림원장",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-19T03:37:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NuI32m46Jkv9g6Ab46RCTTjYqes",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rdu9Vjm4rOw"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-29T04:00:11Z",
+        "channelId": "UCDZZFy1UcJwNv8ccLv0TTfA",
+        "title": "브이빔 레이저 이럴때는 절대 하지 마세요 피부장벽 다 망칩니다",
+        "description": "아토피 #주사피부염 #지루성피부염 #스테로이드부작용 치료문의 02-547-0175 치료효과 없을시 치료비 전액 환불되는 피부치료 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rdu9Vjm4rOw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rdu9Vjm4rOw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rdu9Vjm4rOw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rdu9Vjm4rOw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rdu9Vjm4rOw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "My Skin Doctor - 더마허브 TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-29T04:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NwiHIOHsiHr9AA4lRLTAxM_9ASs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tm4yKf1SZls"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-27T12:00:32Z",
+        "channelId": "UC3ZQbE9FKR8TwHYqTNcIXQQ",
+        "title": "제대로 ‘효과’ 본 것만🔥 피부 고민별 스킨케어 찐추천템 &amp; 루틴.zip (광고❌ 수분• 진정케어, 모공, 트러블, 잡티,  클렌징까지..)",
+        "description": "광고 없습니다.* SNS https://www.instagram.com/hoon1on/ [email removed] ⤵️ 2025.ver ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tm4yKf1SZls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tm4yKf1SZls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tm4yKf1SZls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tm4yKf1SZls/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tm4yKf1SZls/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HOONION",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-27T12:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QlVGTiWKOuvOuRdbkU7BgbhGz-A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yMsZ2b35Z0c"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-31T04:42:42Z",
+        "channelId": "UCtbZ_cymnMVQwqlwsdl2pFw",
+        "title": "25년 연구 끝에 찾은 장벽 개선의 답 | 시카플라스트 밤 B5+",
+        "description": "손상된 피부장벽, 왜 라로슈포제 시카플라스트 밤 B5+일까? 25년 연구 끝에 찾은 장벽 개선의 답 ✓전 세계 36개국, 38개의 연구¹⁾로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yMsZ2b35Z0c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yMsZ2b35Z0c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yMsZ2b35Z0c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yMsZ2b35Z0c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yMsZ2b35Z0c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "라로슈포제",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-31T04:42:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yyWSuT1yH-hnsyAadXi_3VutWh4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TEcciUb2sqQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-07T06:47:58Z",
+        "channelId": "UC_koLWLqoOsScJDJC39-B0g",
+        "title": "상처가 남은 피부 장벽을 재건할 때 아연이 콜라겐 생성을 촉진하는 기전",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TEcciUb2sqQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TEcciUb2sqQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TEcciUb2sqQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TEcciUb2sqQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TEcciUb2sqQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "까미야 놀자.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-07T06:47:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PMd7yub4xk27_22e_RvnnMJHSxU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Nt7p11tMLto"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-08T00:22:32Z",
+        "channelId": "UCiiYM77UGrWIdOmMopc0KHA",
+        "title": "피부 장벽 다 무너뜨리는 약산성? 20년차 BM이 뽑은 진짜 BEST 약산성 클렌저 4가지",
+        "description": "피부 장벽은 지켜주고 속건조는 잡아주는 진짜 '잘 만든' 약산성 클렌저만 모았습니다! ✨ 내 피부 타입에 딱 맞는 2차 클렌저와 좋은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nt7p11tMLto/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nt7p11tMLto/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nt7p11tMLto/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nt7p11tMLto/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nt7p11tMLto/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "수리얼 SUREAL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-08T00:22:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "it_yOTMnDlbHNeYq-B8fOzZIWlQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0nAriQ2bv6A"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-17T12:02:27Z",
+        "channelId": "UCCY9FjIRQ2al8YliHwmyuCg",
+        "title": "무너진 피부장벽 복구?! 판테놀로!",
+        "description": "[제품제공] 혹시 이중세안해..? 클렌징할 때 뽀득뽀득.. 자극있어..? 피부 장벽이 무너질 수도 있다구ㅠㅠ!! 그럼 코스노리의 판테놀 라인 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0nAriQ2bv6A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0nAriQ2bv6A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0nAriQ2bv6A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0nAriQ2bv6A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0nAriQ2bv6A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쟌ZIAN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-17T12:02:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JdiAurDW-9ztX6rubjxgQTgmfok",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Nv3CJ2eHTRo"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-28T11:00:39Z",
+        "channelId": "UCvMw-d9lmPF-N7agMUKeYKw",
+        "title": "피부과의사가 비밀리에 추천하는 피부 장벽 재생크림 정체 #피부과1억 #피부재생크림 #피부과추천 #피부장벽크림 #강민경클렌저 #여드름재생크림 #피부과화장품 #꿀피부비결 #재생크림추천",
+        "description": "[프로필 링크 상품 5번] 피부과에 1억 쓴 연예인이 진짜 정착한 피부 장벽 재생크림 정체! 피부과 안 가고 집에서 꿀피부 되는 의사 추천 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nv3CJ2eHTRo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nv3CJ2eHTRo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nv3CJ2eHTRo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nv3CJ2eHTRo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nv3CJ2eHTRo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Pick_Me",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-28T11:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vDvQbQOxrQgtu4DZdJiYdaLtNTA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X1GGQxTYNCM"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-16T11:00:25Z",
+        "channelId": "UCiV4_cGVt-t-j6jMQ7RCrXw",
+        "title": "피부 장벽 무너지면 생기는 가려움증, 2차 감염 위험과 올바른 관리법 I KBS 알약톡톡 20160123 방송",
+        "description": "'욕실 나가기 전에' 보습제 발라야 요즘 차고 건조한 날씨로 피부 때문에 고민이신 분들이 많습니다. 오늘은 겨울철 발생할 수 있는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X1GGQxTYNCM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X1GGQxTYNCM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X1GGQxTYNCM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X1GGQxTYNCM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X1GGQxTYNCM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/X1GGQxTYNCM/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "KBS 생로병사의 비밀",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-16T11:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EydiE-Y536LGmlN6xPqDc0SmfBU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tHLW5MAMok4"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-27T08:00:27Z",
+        "channelId": "UCeW13kHjeb_sviMo30GGBEw",
+        "title": "피부 장벽 무너지는 최악의 세안법 #shorts",
+        "description": "50대피부관리 #중년피부관리 #기초화장품 #기초화장품추천 #중년피부 #50대피부 #탄력관리 #안티에이징 #스킨케어 #피부장벽 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tHLW5MAMok4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tHLW5MAMok4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tHLW5MAMok4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tHLW5MAMok4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tHLW5MAMok4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "단아한 이원장",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-27T08:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MZ4oMFhdIE2zyqM3Kn4wIaEdu8M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RW42C_XbTS4"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-27T11:51:34Z",
+        "channelId": "UCd7icqUv7f8k2E6n4WOCIQg",
+        "title": "따라하면 일주일만에 피부 좋아지는 클렌징/스킨케어 루틴 (2026ver.)",
+        "description": "스킨케어루틴 #피부관리 #클렌징 #선크림 #레티놀 텐시온 마지막 세일 · 최대할인 69% https://bit.ly/4i2GMIV ✓ 피부결에서 진행 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RW42C_XbTS4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RW42C_XbTS4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RW42C_XbTS4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RW42C_XbTS4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RW42C_XbTS4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "피부결",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-27T11:51:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4tLmG8Pr-2J0DhUY08BUg5nES84",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6hqw89m43Co"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-06T09:22:14Z",
+        "channelId": "UCdgox0o2bY1zbh37iihMMsQ",
+        "title": "지금 당장 피부가 좋아지고 싶다면 따라하세요. 피부관리 10년차 노하우 공개",
+        "description": "5년간 신중하게 고르고 고른 문장군 족보템 구경가기 https://vo.la/DAfdv14 제품, 루틴 정보   영상에 나온 순서대로 1️⃣ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6hqw89m43Co/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6hqw89m43Co/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6hqw89m43Co/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6hqw89m43Co/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6hqw89m43Co/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/6hqw89m43Co/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "문장군",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-06T09:22:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0mKiGRDQrV36JOgJKDXZ9s8UqJc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0kubcG3cs68"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-05T06:09:04Z",
+        "channelId": "UC679CMTLntnAm4mmPfsAJgw",
+        "title": "&quot;피부가 좋아지는 사람들은 이것부터 챙깁니다&quot;  #세라마이드 #피부장벽 #이너뷰티 #스핑고미엘린 #밀크세라마이드 #피부관리 #뷰티풀롱제비티",
+        "description": "피부장벽의 핵심 성분인 세라마이드. 그렇다면 삼겹살이나 우유만 많이 먹으면 충분할까요? 의외로 피부에 필요한 스핑고미엘린의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0kubcG3cs68/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0kubcG3cs68/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0kubcG3cs68/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0kubcG3cs68/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0kubcG3cs68/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뷰티풀 롱제비티",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-05T06:09:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Kc8eQfbQFY_fHpzAlICeu3FbW2M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "droUGRxZ824"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-10T10:16:41Z",
+        "channelId": "UCLvk76DFmbHIveAvYUDajUg",
+        "title": "비싼 화장품 필요없어요‼️같이 쓰면 효과 2배 되는 올리브영 화장품 꿀조합 7가지(여드름, 화장들뜸, 각질부각, 민감성피부 스킨케어, 속건조, 모공)",
+        "description": "피부과 #홈케어 #피부관리 뷰티나니 인스타그램 : https://www.instagram.com/beauty_nani_/ 저랑 수다떨며 피부화장품 정보 받고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/droUGRxZ824/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/droUGRxZ824/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/droUGRxZ824/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/droUGRxZ824/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/droUGRxZ824/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/droUGRxZ824/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "뷰티나니?BeautyNANI?",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-10T10:16:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BrBKmyCAfTQ5CQ3Fn9XyZl8GDpE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ij-Ptm7_7Lo"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-10T13:03:37Z",
+        "channelId": "UCT3XCWBiNy-mnS0awYq_trw",
+        "title": "피부 아작났을 때 100% 회복 시켜준 나이트 루틴.. 제발 한번만 따라해보세요!!",
+        "description": "해당 영상은 유료광고 계약을 포함하고 있지 않습니다 Gmail: [email removed] instagram: jundoly_ ㅡㅡㅡㅡㅡㅡㅡㅡㅡ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ij-Ptm7_7Lo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ij-Ptm7_7Lo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ij-Ptm7_7Lo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ij-Ptm7_7Lo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ij-Ptm7_7Lo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준돌",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-10T13:03:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1kmdZqyjugtLHA0mMg6VjcymSqk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uIVTtDjTdsw"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-19T12:00:18Z",
+        "channelId": "UC86AuKBawrgBuEZIgiOo7hA",
+        "title": "피부장벽 무너져 쿠팡에서 화장품 산다면, 피부과 의사는 이걸 추천",
+        "description": "피부장벽이 무너져 피부가 예민하고 따갑다면 새로운 기능성 화장품을 계속 추가하기보다 장벽 케어부터 확인해보세요. 피부과 의사 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uIVTtDjTdsw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uIVTtDjTdsw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uIVTtDjTdsw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uIVTtDjTdsw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uIVTtDjTdsw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "셀럽의 건강비결",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-19T12:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gXZdSQ2fAG2-zKVrgGMiXsYqjac",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SMtdUIy01Zo"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-24T08:59:40Z",
+        "channelId": "UC0sYbzsTUU-a7njwd4lCHoQ",
+        "title": "바이오더마 I #설윤 의 무결점 피부 장벽 공식은? 아토덤 페이셜 로션!(세로ver.)​",
+        "description": "BIODERMA X SULLYOON ✨ 맑고 투명하게 빛나는 설윤 님과 피부 장벽 전문 브랜드 바이오더마 아토덤이 만났습니다. 깨끗하고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SMtdUIy01Zo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SMtdUIy01Zo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SMtdUIy01Zo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SMtdUIy01Zo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SMtdUIy01Zo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bioderma Korea",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-24T08:59:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IRCSZUtFfQYwd4rxQRgln8b16sc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-mCNomb4LqE"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-22T01:00:22Z",
+        "channelId": "UCopk9qMBXj6i6VKRI4qA2kw",
+        "title": "민감한 피부라면 공감하는 크림 #보습크림 #수분크림 #피부장벽 #시카크림 #뷰티템",
+        "description": "이 영상은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. ⬇️ 영상 속 제품 링크가 궁금하면 아래 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-mCNomb4LqE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-mCNomb4LqE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-mCNomb4LqE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-mCNomb4LqE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-mCNomb4LqE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "투데이꿀템",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-22T01:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "487-Zrc2xtt_9OkVOp2sR-XXJ-s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VkrWNjR_r0M"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-11T02:59:49Z",
+        "channelId": "UCDz4EP0WowsAtMxkWtsLp9w",
+        "title": "촉촉한 피부를 위한 일리윤바디로션으로 피부 장벽을 강화하세요! 💧",
+        "description": "오늘 소개된 제품 입니다✓ 일리윤 세라마이드 아토 대용량 바디로션 제품링크   https://link.coupang.com/a/f7r01sOavQ - 피부 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VkrWNjR_r0M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VkrWNjR_r0M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VkrWNjR_r0M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VkrWNjR_r0M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VkrWNjR_r0M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "득템연구소",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-11T02:59:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "86mLCvCgpntEsAP8-m-ABDng1eE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mb9bbMKHlAs"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-22T02:00:04Z",
+        "channelId": "UCRhACfjsdpVQZCn89Ya5MsQ",
+        "title": "레이저 대신 LDM? 피부 장벽 살리는 비결",
+        "description": "레이저 한 번 받고 피부 뒤집어진 경험 있으신가요? 건성에 예민한 피부라면, 레이저가 오히려 독이 될 수 있어요. 그런 분들한테 LDM ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mb9bbMKHlAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mb9bbMKHlAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mb9bbMKHlAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mb9bbMKHlAs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mb9bbMKHlAs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/mb9bbMKHlAs/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "나만의 뷰티 주치의 Dr. 유진스 Eugenes Skin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-22T02:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QriGCklLZ1YjjnJ36ihKxgDtwDs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z59mVwk2Olk"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-11T09:46:29Z",
+        "channelId": "UCQvcjheCJIjoo0apIfn_tJA",
+        "title": "피부장벽 세럼&amp;크림",
+        "description": "협찬 뭘 발라도 따가운 피부, #피부장벽개선 이 필요해요. #피부장벽 이 약할수록 유해균과 각종 노폐물로 인한 피부 민감도가 올라갈 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z59mVwk2Olk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z59mVwk2Olk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z59mVwk2Olk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z59mVwk2Olk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z59mVwk2Olk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리뷰하는 쿠코",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-11T09:46:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7VnDlXPek2zbc8PSWanQKamXLkY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8GZr4QOH5xI"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-28T03:00:01Z",
+        "channelId": "UCCoowys-9GB5oaF_i27Gs1w",
+        "title": "피부과 의사가 몰래 알려준 피부장벽 완벽 복구템 추천 #연예인추천템 #연예인뷰티 #메이크업 #장벽크림 #피부손상 #크림추천",
+        "description": "피부가 선생님이 직접 추천해 준 문채원의 피부 보호 크림! 피부 손상이나 각질, 붉은 기로 고생할 때 얇게 발라주면 피부 보호막을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8GZr4QOH5xI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8GZr4QOH5xI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8GZr4QOH5xI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8GZr4QOH5xI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8GZr4QOH5xI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PICKED BY",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-28T03:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eYCgfrciniIdDbdglj53LUuZ0eU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Gd4mi_W_ntI"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-27T08:23:47Z",
+        "channelId": "UC9TW9fcaL7JG1WZGWWzDlsA",
+        "title": "무너진 피부 장벽을 구하러 온 세라마이드🛡️",
+        "description": "건조함과 외부 자극이 계속되면 피부도 쉽게 푸석하고 불편하게 느껴질 수 있어요. 이럴 때 스킨케어에서 자주 언급되는 성분이 바로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gd4mi_W_ntI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gd4mi_W_ntI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gd4mi_W_ntI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gd4mi_W_ntI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gd4mi_W_ntI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "담테라DAMTERA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-27T08:23:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0HeSNMKS6A39V6k5XMCrQs5aiFc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-NIUoIghcTw"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-30T15:54:59Z",
+        "channelId": "UCFC3gwNjb6sZ1b3E-B5Dm5w",
+        "title": "광고❌ 피부과 간호사가 쓰는 올영세일 추천 &amp; 비추템-!🌟 (for 수부지, 민감성 피부🫪)",
+        "description": "끄아아아 편집이 이렇게 늦어지다니 ㅠ ㅠ 이런 늦은 시간에도 봐주시는 분들이 계실까여.. 아직 많이 부족하지만.. 제가 정말 관심이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-NIUoIghcTw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-NIUoIghcTw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-NIUoIghcTw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-NIUoIghcTw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-NIUoIghcTw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "가노가노, 간호사 일상 Nursegano",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-30T15:54:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_Gg1hzVttn5dmlQjT6V6f24Ce8w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DFlFUNRSA98"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-05T10:00:16Z",
+        "channelId": "UCMiZCpctVjScTRnzC06fPEA",
+        "title": "여행 다녀와서 쓰던 화장품이 따갑다면? 피부 장벽 붕괴 원인부터 피부과 진정·시술 솔루션까지! #차혜정원장 #화명동피부과 #피부장벽",
+        "description": "\"여행 다녀온 뒤 늘 쓰던 순한 스킨을 발랐는데 갑자기 화끈거리고 따가웠던 적 있으신가요?\" 화장품이 변한 게 아니라 여행지의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DFlFUNRSA98/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DFlFUNRSA98/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DFlFUNRSA98/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DFlFUNRSA98/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DFlFUNRSA98/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "차혜정의 피부노트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-05T10:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cHNb3TddLYuFetOKgfwiq2_G7Rs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UceWLE9Jktc"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-25T04:29:57Z",
+        "channelId": "UC86LOF53d2rwutaCBzMyyew",
+        "title": "무너진 피부 장벽 긴급 재생 루틴 (끈적임 없는 끝판왕 보습막) #피부장벽크림 #진정크림추천",
+        "description": "https://smartstore.naver.com/letscure/products/365522318?nl-ts-pid=jo0fysqWrwIWLwsM1g8-155801&nl-au= ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UceWLE9Jktc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UceWLE9Jktc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UceWLE9Jktc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UceWLE9Jktc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UceWLE9Jktc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "위드스킨랩",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-25T04:29:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K8mrJ3koCl-Dg9Hj2_hItoZEF-8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M0aJcFfO1m4"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-27T00:53:49Z",
+        "channelId": "UCXfA9MxY7mXUtU4OVFc2qjg",
+        "title": "피부장벽 회복엔 이거!! 판테놀 10% ㅁㅊㅁㅊ",
+        "description": "협찬 @todaywith_kr 요즘 자꾸 이마 쪽에 각질 일어나서 스트레스 였는데 피부 장벽이 무너져서 그런 거였음 ㅠㅠ 피부장벽 개선으로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M0aJcFfO1m4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M0aJcFfO1m4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M0aJcFfO1m4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M0aJcFfO1m4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M0aJcFfO1m4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "마토애요",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-27T00:53:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WXVnjsBGiMPj1K7OAcEDDGloBuM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mOl112hQL8c"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-09T11:54:54Z",
+        "channelId": "UCIXQeQrm-AhylGwS4uuZuWg",
+        "title": "수분크림 덧발라도 건조한 이유? 피부장벽부터｜후시다인 8 베리어 에센스",
+        "description": "수분크림을 계속 덧발라도 피부 속당김이 금방 느껴진다면, 피부장벽 케어가 필요할 수 있어요. 요즘 세안 직후 첫 단계에 후시다인 8 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mOl112hQL8c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mOl112hQL8c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mOl112hQL8c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mOl112hQL8c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mOl112hQL8c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "밍우커플 Mingwoo couple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-09T11:54:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yA6JChyuadmIbridQ-mRrm3EU24",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ytwa-xmLo7w"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-12T12:58:30Z",
+        "channelId": "UCMFpzGDVsTdOHDiLMHLSl7A",
+        "title": "15분 피부장벽 케어✨ 후시다인 8 베리어 스킨부스터 크림마스크 후기 #유료광고",
+        "description": "유료광고 요즘 피부가 자꾸 당기고 예민하다면 피부장벽부터 체크해보세요! 15분만에 빠르게 피부장벽과 보습량을 개선해주는 후 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ytwa-xmLo7w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ytwa-xmLo7w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ytwa-xmLo7w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ytwa-xmLo7w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ytwa-xmLo7w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "썬언니TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-12T12:58:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wtAp6PakTjSp9iY-TE6l_Aa2FCM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LfWz2tHFEpk"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-27T09:00:32Z",
+        "channelId": "UCVRezLgkT0xph9UqiWmVSeA",
+        "title": "각질제거 자주 하면 피부 장벽 무너집니다 🙅‍♂️✨",
+        "description": "피부 각질을 억지로 밀어내고 계신가요 ✨ 피부 보호막 역할을 하는 각질은 인위적으로 제거하기보다 충분한 보습으로 진정시키는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LfWz2tHFEpk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LfWz2tHFEpk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LfWz2tHFEpk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LfWz2tHFEpk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LfWz2tHFEpk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "닥터디앤에이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-27T09:00:32Z"
+      }
+    }
+  ]
+}

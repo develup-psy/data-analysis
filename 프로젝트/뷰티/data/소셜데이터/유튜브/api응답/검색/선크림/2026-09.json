@@ -1,0 +1,2237 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "8Jck__u_KYJ8VvA-Ivr5Tp03n0c",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L0gDvDVMrq9-bZwXHzH7k7BIpSk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0syh6ofVE2s"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-23T10:00:24Z",
+        "channelId": "UCS67vJx7ZK7qsbA4gIkXA3w",
+        "title": "홍진경도 못 이긴다는 장영란 2만원대 선크림",
+        "description": "50대 장영란이 인쇄가 다 벗겨질 만큼 쓴 선크림. 같이 간 홍진경과 이지혜가 두 손 들었어요. \"선크림은 달바 거를 쓰고 있어요.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0syh6ofVE2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0syh6ofVE2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0syh6ofVE2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0syh6ofVE2s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0syh6ofVE2s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "셀럽모먼트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-23T10:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AxfOaBAiiEGhqmbq2XVUoWh4T_E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ceS3gQ6IqjM"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-03T09:00:35Z",
+        "channelId": "UCiiYM77UGrWIdOmMopc0KHA",
+        "title": "2026 선크림 판도변화 총정리, 20년차 BM이 성분부터 제형까지 비교분석 후 고른 선크림 추천 Top 9종",
+        "description": "수리얼 인스타그램에서 더 빠른 뷰티 꿀팁 만나기 https://www.instagram.com/sureal_ly 유튜브에 다 담지 못한 일상 속 꿀팁과 실시간 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ceS3gQ6IqjM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ceS3gQ6IqjM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ceS3gQ6IqjM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ceS3gQ6IqjM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ceS3gQ6IqjM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/ceS3gQ6IqjM/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "수리얼 SUREAL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-03T09:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HAyHqGdtmyDGgRp2XimmilRFfIo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pIbGz-u1DU8"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-11T14:00:18Z",
+        "channelId": "UCoMNFh_1SZ5-qrkktzdSPGA",
+        "title": "저라면 이 톤업 선크림은 안 삽니다... 피부가 정말 예뻐보이는 톤업 크림은?🤔",
+        "description": "위 영상은 광고 및 제품 협찬을 포함하지 않습니다* t i m e l i n e / 00:00 인트로 00:32 핑크 톤업 선크림 03:10 보라 톤업 선크림 05:26 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pIbGz-u1DU8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pIbGz-u1DU8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pIbGz-u1DU8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pIbGz-u1DU8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pIbGz-u1DU8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "프롬베이지",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-11T14:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J7hEdnXFiS3PLMOeIydhwbifRDc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ugjtVwr8_hU"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-20T10:01:28Z",
+        "channelId": "UCaJdckl6MBdDPDf75Ec_bJA",
+        "title": "서울대 피부과 원장이 선크림 매일 바르지 말라는 이유 &quot;이렇게 하면 피부 노화 쎄게 온다&quot; |(문정윤 원장 / 1부)",
+        "description": "이번 주말, 공짜로 끝내는 직장인 IT 무료교육 신청하기 (마감임박) 신청하기 : https://forms.gle/yEuvF9YfZ9Jwjy6u9 상세보기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ugjtVwr8_hU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ugjtVwr8_hU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ugjtVwr8_hU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ugjtVwr8_hU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ugjtVwr8_hU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "신사임당",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-20T10:01:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ctK5kozlZW3Ft95_YbR_NXQZpIo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oqv8uiCVOXY"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-13T01:20:18Z",
+        "channelId": "UCYWv3LcfG1IYBP-0-41UIyA",
+        "title": "선크림에 진심인 여배우들",
+        "description": "선크림 바르고 칭찬받는 김고은부터, 거울로 직접 확인하는 채정안까지   공유 손에 덜어주는 장면과 UV 거울의 실제 시연을 한 편 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oqv8uiCVOXY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oqv8uiCVOXY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oqv8uiCVOXY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oqv8uiCVOXY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oqv8uiCVOXY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "잘보면",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-13T01:20:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "siwkb3tlniPr1UC9XPPyNz5j9yM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iE7wPhuAZD4"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-22T06:50:21Z",
+        "channelId": "UCiD6erBBB_jWYH2lJ8KUNvg",
+        "title": "AUL 콜라겐 선크림 광고",
+        "description": "AUL 콜라겐 썬크림!!!!! 나이아신 골드~~!!!!!! 애기 피부가 되는 선크림~~~~~~~~~~!!!!!!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iE7wPhuAZD4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iE7wPhuAZD4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iE7wPhuAZD4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iE7wPhuAZD4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iE7wPhuAZD4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "부산명사수힙합피카츄",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-22T06:50:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v1MkxCr_wBxmBday2PK7m-VLIVE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YCvKXg2TLHo"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-04T10:00:39Z",
+        "channelId": "UCMbFXssgKAblwI4CHENmbVA",
+        "title": "미국 vs 한국 선크림",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YCvKXg2TLHo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YCvKXg2TLHo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YCvKXg2TLHo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YCvKXg2TLHo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YCvKXg2TLHo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "체크아웃",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-04T10:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n99aFW8ttlc0WVZtEQUz1lMjjNM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XBWxF31Qt-s"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-08T07:03:25Z",
+        "channelId": "UCO2nFKu54TCqr14wNpsUjIg",
+        "title": "한국 선크림 VS 미국 썬크림",
+        "description": "한국 선크림 VS 미국 썬크림 백탁현상없이 이게 된다고??",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XBWxF31Qt-s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XBWxF31Qt-s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XBWxF31Qt-s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XBWxF31Qt-s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XBWxF31Qt-s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "츄츄뷰뷰",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-08T07:03:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5B5shO8S44PKIz8wKqTzO7wqfIg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Obvk1mtoe1I"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-15T22:00:26Z",
+        "channelId": "UC3RMRxumD09t-sRdblxQ6qQ",
+        "title": "열받은 피부 “필수”햇볕에 자극받았을땐 이거#선크림 #선크림추천 #피부관리",
+        "description": "햇볕에 오래 노출돼 피부가 뜨겁고 예민하게 느껴진다면 피부관리부터 신경 써야 하는데요! 평소 자외선 노출이 걱정된다면 매일 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Obvk1mtoe1I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Obvk1mtoe1I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Obvk1mtoe1I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Obvk1mtoe1I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Obvk1mtoe1I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "최애의뷰티",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-15T22:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nzd-xtQewAdKG7ZQFKkr7l7pD6s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Mu75c2OPqy8"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-04T08:29:19Z",
+        "channelId": "UClHe-IBvI7BF8PIbiTN7R3g",
+        "title": "김고은 채정안 바를수록 피부가 좋아진다는 피부과 선크림 !",
+        "description": "그냥 시카로는 부족했던 분들 주목!❗️ 흔한 시카 성분과는 차원이 다른 진정 효과인데요, 병풀의 핵심 성분만 꾹 눌러 담은 '테카- ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mu75c2OPqy8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mu75c2OPqy8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mu75c2OPqy8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mu75c2OPqy8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mu75c2OPqy8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "줍줍템즈",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-04T08:29:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D0DZpX76YlsKHKcBKVCPNqnFuXY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CkHFUMIxhtA"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-22T02:49:35Z",
+        "channelId": "UCdOWCDwb4KSwwh5lD3MUI8Q",
+        "title": "메이크업샵은 선크림을 이렇게 바릅니다",
+        "description": "메이크업 전에 선크림, 어떻게 바르고 계세요? 메이크업 아티스트 서옥님은 브러시로 선크림을 얇고 균일하게 펴 바른 뒤, 라텍스 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CkHFUMIxhtA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CkHFUMIxhtA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CkHFUMIxhtA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CkHFUMIxhtA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CkHFUMIxhtA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "빵떠템",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-22T02:49:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4JVF0cs1U0jDWi5gZj11x1T_5zQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EkDkUUaOl2Y"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-28T10:00:18Z",
+        "channelId": "UC4RUS_IZjPOthrSel6zIT5A",
+        "title": "5천원 선크림 발라도 되나 걱정하셨죠? 뒷면 &#39;이 글자&#39;만 확인하세요. 다이소 선크림 추천템과 선크림 안전하게 고르는 꿀팁",
+        "description": "다이소 #선크림 #꿀팁 5천원 선크림 발라도 되나 걱정하셨죠? 뒷면 '이 글자'만 확인하세요. 다이소 선크림 추천템과 선크림 안전하게 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EkDkUUaOl2Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EkDkUUaOl2Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EkDkUUaOl2Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EkDkUUaOl2Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EkDkUUaOl2Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "슬이뷰",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-28T10:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PlA6M5OYaMzHc-EwEPHbPNaaUpg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fVaVrhPVENA"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-24T23:00:06Z",
+        "channelId": "UCH9PgWKYfL8K2xTcfdDdS3A",
+        "title": "0만 유튜버 vs 다이소 선크림, 반전의 재시험 결과",
+        "description": "[안내] 이 영상은 최근 뷰티 업계와 온라인을 뜨겁게 달군 다이소 선크림 품질 검증 공방을 바탕으로 한 이슈 팩트체크 콘텐츠입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fVaVrhPVENA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fVaVrhPVENA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fVaVrhPVENA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fVaVrhPVENA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fVaVrhPVENA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "숏데스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-24T23:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5ciKUjK-pyvnVtiqBG-OIsmQDKw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jwyyM4InO68"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-20T11:52:37Z",
+        "channelId": "UCff7sQ_kjCEPZvr8h8US8ww",
+        "title": "파데 안 발랐는데 이 피부;; 조선미녀 파데프리 선크림 12시간 리뷰",
+        "description": "파데프리 선크림 12시간 팩폭;; 조선미녀 이거 진짜 미쳤다 반갑습니다 여러분, 뷰티 크리에이터 화니입니다   조선미녀 데이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jwyyM4InO68/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jwyyM4InO68/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jwyyM4InO68/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jwyyM4InO68/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jwyyM4InO68/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/jwyyM4InO68/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "화니 HWAN'E",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-20T11:52:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SDWDw7jV7TDYP5ysdjIp-1KhaTg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xd8G9WkoS20"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-23T09:12:18Z",
+        "channelId": "UC5GPiPsswva_tEL1aKvbbAA",
+        "title": "다이소 선크림 10개 중 8개 SPF 미달이라던 유튜버가 역풍 맞은 이유",
+        "description": "다이소 선크림을 저격했던 유튜버가 역풍을 맞았습니다. 사비 3천만 원을 들여 임상을 했다며 다이소 선크림 10개 중 8개가 SPF 미달 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xd8G9WkoS20/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xd8G9WkoS20/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xd8G9WkoS20/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xd8G9WkoS20/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xd8G9WkoS20/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "심플동물",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-23T09:12:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p5rRQXe4GeNhoVdmZHX0BfGlXhg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6iiCQSt5-ao"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-20T05:45:03Z",
+        "channelId": "UC_5iRDr9L8mISVLkjHtRqyQ",
+        "title": "여배우들 메이크업전 꼭 필수로 바른다는 선크림",
+        "description": "손담비선크림 #여배우선크림 #연예인선크림 #선크림 #연예인뷰티 손담비가 사용하는 모습으로 관심을 받은 선크림입니다. 매일 사용 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6iiCQSt5-ao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6iiCQSt5-ao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6iiCQSt5-ao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6iiCQSt5-ao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6iiCQSt5-ao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "셀럽잇템",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-20T05:45:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tf_n-WS3w26rAARQ4cOd9QRcV-w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NfK6TDyg410"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-21T01:06:59Z",
+        "channelId": "UCSJH3yRBxjVz4qh4ufcyCbg",
+        "title": "백탁 없는 선크림 추천, 윤혜진이 메이크업 샵에서도 쓴다고 알게 된 것 #선크림 #윤혜진",
+        "description": "발레리나 윤혜진의 스킨케어 루틴에 나온 백탁 없는 선크림입니다. 메이크업 샵에서도 쓰는 제품이라고 소개했고 에센스와 크림도 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NfK6TDyg410/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NfK6TDyg410/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NfK6TDyg410/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NfK6TDyg410/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NfK6TDyg410/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "굿레터",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-21T01:06:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s8v4_MCPZ81GRTVDoa3sojbVRJ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EU0mVm3eLeI"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-21T09:00:32Z",
+        "channelId": "UC2bglG-SJXPUtZduhbjiHFw",
+        "title": "최화정이 민낯에 이것만 바르고 나간다는 인생 선크림 선쿠션 조합 추천해요",
+        "description": "최화정이 방송에서 PPL 오해받을 정도로 매일 바른다는 내돈내산 인생 선크림과 선쿠션 조합을 가져왔어요! 눈시림 전혀 없이 촉촉 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EU0mVm3eLeI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EU0mVm3eLeI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EU0mVm3eLeI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EU0mVm3eLeI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EU0mVm3eLeI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "샤인템",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-21T09:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jOblUSWULjsbWqS_Sz_0l20VuvU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k3-jE6BN3Es"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-21T09:03:32Z",
+        "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+        "title": "&quot;다이소 선크림, 뭘 믿고 바르냐&quot; 유튜버 주장에…&quot;전부 기준 충족&quot; 반격 [포크뉴스]",
+        "description": "지금 이 시간 가장 뜨거운 뉴스를 '콕' 찍어 전해드립니다] 지난 7월, 한 뷰티 관련 유튜브 채널이 '다이소 선크림'에 의혹을 제기한 영상 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k3-jE6BN3Es/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k3-jE6BN3Es/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k3-jE6BN3Es/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k3-jE6BN3Es/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k3-jE6BN3Es/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/k3-jE6BN3Es/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "MBN News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-21T09:03:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Mrls-93N-_nrdtMLchdBAl3PhdA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "60pEO1VNF2Q"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-13T02:20:28Z",
+        "channelId": "UCFJoi6WNr_IGU752oe5TwNg",
+        "title": "장나라 20년째 동안 유지하는 피부 비결이라는 기미 톤업 선크림 추천",
+        "description": "장나라 20년째 동안 유지하는 피부 비결이라는 기미 톤업 선크림 추천! 40대라는 게 믿기지 않는 장나라의 피부 비밀이 궁금하셨나요?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/60pEO1VNF2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/60pEO1VNF2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/60pEO1VNF2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/60pEO1VNF2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/60pEO1VNF2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀픽",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-13T02:20:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s7Zufc7Gv-okK8b3qxnbkjyqiSI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4wl6j2Fmat0"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-15T09:00:24Z",
+        "channelId": "UC120Dx91wwLlbOjxCMBpZiQ",
+        "title": "선크림 매일 발라도 소용없던 이유..",
+        "description": "선크림, 매일 바르기만 하면 제대로 차단되고 있을까요? 생각보다 중요한 건 바로 '바르는 양'입니다. 더 자세한 내용은 풀 영상을 확인 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4wl6j2Fmat0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4wl6j2Fmat0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4wl6j2Fmat0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4wl6j2Fmat0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4wl6j2Fmat0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "빛나는 피부 닥터영",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-15T09:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6FcskzWjVY-zxpcVHjz5yC2rUvw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aa0IWzk7w_s"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-18T09:00:07Z",
+        "channelId": "UC_1ETgrcrLjHOP0YJmkWLVQ",
+        "title": "[SUB] 광고❌ 가을맞이 톤업템 20개 탈탈 털었다!🔥직접 발라보고 찐 추천템만 골라옴 | 톤업 선크림•파데프리•톤업 쿠션•바디 톤업 (+시꾸들 선물🎁).mov",
+        "description": "시안이의 편지] 안녕 시꾸들~! 시안이에요   이번 영상은 시꾸들의 맑고 화사한 피부를 위한 톤업템 총정리 영상으로 찾아왔어요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aa0IWzk7w_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aa0IWzk7w_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aa0IWzk7w_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aa0IWzk7w_s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aa0IWzk7w_s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/aa0IWzk7w_s/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "최종시안",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-18T09:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UTq-oZnK7dQejfxTwIGUbb3NCdE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sKMEvlKFPOc"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-26T06:00:19Z",
+        "channelId": "UCYLP6wtJDUwvs2HlMIEDb6A",
+        "title": "혜리가 태국 더위에 쿠션 버리고 바른 톤업 선크림 정체 #혜리 #혜리선크림 #선크림추천 #톤업선크림 #파데프리 #쇼핑쇼츠",
+        "description": "혜리가 태국 더위 속에서도 쿠션 버리고 바른 비밀 톤업 베이스 공개✨ 땀 뻘뻘 흘려도 안 지워지고 노란기 싹 없애주는 미친 피부 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sKMEvlKFPOc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sKMEvlKFPOc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sKMEvlKFPOc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sKMEvlKFPOc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sKMEvlKFPOc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "연득템",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-26T06:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PNJLxmQK92MMurv0oxirCvuqPhk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XdZlDy4J-b8"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-20T06:00:26Z",
+        "channelId": "UCNfSnezBu6D0qe3lSx1cvug",
+        "title": "여배우들 선크림",
+        "description": "채정안 #박하선 #채정안선크림 #박하선선크림 #연예인선크림 #셀럽뷰티 #채정안뷰티 #박하선뷰티 #디에이이펙트 #포렌코즈 #테라 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XdZlDy4J-b8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XdZlDy4J-b8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XdZlDy4J-b8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XdZlDy4J-b8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XdZlDy4J-b8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "쇼핑내비",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-20T06:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XWFbUnQW-D37udLDVxThRjysOdY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DoZzh9TD4UE"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-21T12:03:41Z",
+        "channelId": "UC19SPv5v4SU_2IYVm7qXj2g",
+        "title": "효과 없다던 다이소 선크림 8개 임상기관 시험 결과",
+        "description": "다이소 선크림 10종 중 8개가 표시된 SPF 50+ 수준에 못 미친다는 주장이 나왔습니다. 다이소 쪽은 전문 임상기관 4곳에서 식약처 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DoZzh9TD4UE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DoZzh9TD4UE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DoZzh9TD4UE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DoZzh9TD4UE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DoZzh9TD4UE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뇌빼구",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-21T12:03:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gSVFPSGJqZwtpbl66w5sP9HxhC0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MrG3U6gHDnQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-09T11:00:29Z",
+        "channelId": "UC7qcymuKyQQO3iW3HrNgBTg",
+        "title": "함익병원장 강추 10년 차이나는 선크림",
+        "description": "1️⃣피부 전문가 함익병 추천!   2️⃣끈적임 없이 촉촉하고 산뜻하게 밀착   3️⃣번들거림 없이 깔끔한 마무리감을 원하시는 분   ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MrG3U6gHDnQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MrG3U6gHDnQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MrG3U6gHDnQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MrG3U6gHDnQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MrG3U6gHDnQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "픽셀럽픽",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-09T11:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u2vBUm3noZkl4CRVRn9x4Dd3W6s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cz_QkVqznv4"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-05T11:30:10Z",
+        "channelId": "UCiiYM77UGrWIdOmMopc0KHA",
+        "title": "2026년 선크림, 아직도 무기자차만 고집하세요? #수리얼 #skincare #kbeauty #선크림추천 #선크림",
+        "description": "아직도 \"무기자차는 순하고, 유기자차는 나쁘다\"는 공식에 갇혀 계신가요? 2026년 선크림 시장의 판도는 완전히 바뀌었습니다! 속건조 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cz_QkVqznv4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cz_QkVqznv4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cz_QkVqznv4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cz_QkVqznv4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cz_QkVqznv4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "수리얼 SUREAL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-05T11:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r5XrsexrSV9Fjd_3ig1XIVqkzEE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0Axwg-5YEKQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-17T02:30:21Z",
+        "channelId": "UCxR4o2eiQz_nc2dUXGyysCw",
+        "title": "잘맞는 선크림 찾는 “최단 루트&quot;",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0Axwg-5YEKQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0Axwg-5YEKQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Axwg-5YEKQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0Axwg-5YEKQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0Axwg-5YEKQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "잠티",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-17T02:30:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IFGbAr2Ema6j96DfWAT-um4_Snk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NZW6oA3hvWk"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-01T10:16:07Z",
+        "channelId": "UCiNYFC4aTo4J26muy9xZ4bQ",
+        "title": "바를수록 피부에 광나는 김고은 선크림",
+        "description": "김고은 채정안이 쓴다는 여배우 광 선크림으로 촉촉하게 발라져 덧발라도 무너짐 없고 바르면 바를수록 피부에 광이 차오르는 선크림 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NZW6oA3hvWk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NZW6oA3hvWk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NZW6oA3hvWk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NZW6oA3hvWk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NZW6oA3hvWk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "픽바이브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-01T10:16:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZCpzAv5DQlfPFQkonumSNPLjbDI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NyaBbjZMiUc"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-02T09:00:36Z",
+        "channelId": "UCCl4m0n2HukfK3fWU7iFpSA",
+        "title": "채정안이 반한 부드럽고 촉촉한 선크림",
+        "description": "채정안이 매일 바르며 극찬한 스킨케어까지 가능한 선크림! 바를수록 피부가 좋아지고 자연스러운 광채가 살아난다고 이거 요즘 유행 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NyaBbjZMiUc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NyaBbjZMiUc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NyaBbjZMiUc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NyaBbjZMiUc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NyaBbjZMiUc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "셀럽바이블",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-02T09:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ho_4AyMkxesUdFyEJAT4nkANngQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V8Od45A2MtM"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-07T10:39:01Z",
+        "channelId": "UCiiYM77UGrWIdOmMopc0KHA",
+        "title": "피부 타입별 100% 징크 무기자차 4종 완벽 정리! #선크림추천 #무기자차 #지성피부 #건성피부 #선크림 #유기자차",
+        "description": "무기자차 특유의 백탁이랑 속건조 때문에 망설이셨나요? 피부 자극은 줄이고 피부 장벽은 지켜주는 '100% 순수 징크옥사이드' 베스트 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V8Od45A2MtM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V8Od45A2MtM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V8Od45A2MtM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V8Od45A2MtM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V8Od45A2MtM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "수리얼 SUREAL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-07T10:39:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YorjNDig2Ar41ZWxzXhfjpWfFqU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KUmBARxXN7o"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-29T03:00:04Z",
+        "channelId": "UC2HjLkOVuv7B5en4JAprOBQ",
+        "title": "다이소 선크림 저격한 50만 유튜버?!",
+        "description": "구독자 50만 뷰티 유튜버 피부는민동성이 다이소 선크림 10개를 검사했습니다. 대출까지 받아 3천만 원을 들여 임상을 맡겼고, 10개 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KUmBARxXN7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KUmBARxXN7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KUmBARxXN7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KUmBARxXN7o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KUmBARxXN7o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이불밖은 위험",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-29T03:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fMMgpybHqoY35eLT-p7KcUH8S0k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Upz72CKi_b4"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-17T09:00:38Z",
+        "channelId": "UC120Dx91wwLlbOjxCMBpZiQ",
+        "title": "비 오는 날도 선크림 꼭 발라야 할까?",
+        "description": "비 오는 날, 흐린 날에도 선크림을 꼭 발라야 할까요? 선크림에 대한 더 재밌는 내용들은 풀 영상을 확인해주세요 :) 시술에 대한 모든 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Upz72CKi_b4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Upz72CKi_b4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Upz72CKi_b4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Upz72CKi_b4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Upz72CKi_b4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "빛나는 피부 닥터영",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-17T09:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GhNuoXMabHUZWG5Rcw5Zex3mLQY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LhG9Pemqkig"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-03T12:00:19Z",
+        "channelId": "UCrlUlicedicJ5mlibqC62Eg",
+        "title": "3년째 쓰고 있는 1만원대 최고 무기자차 선크림 이거...",
+        "description": "이 영상은 '구달' 유료 광고 계약 사항'이 포함되어 있습니다. 인씨 인스타그램 : https://www.instagram.com/incworld/ 비즈니스 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LhG9Pemqkig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LhG9Pemqkig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LhG9Pemqkig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LhG9Pemqkig/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LhG9Pemqkig/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뷰드름 유튜버 인씨",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-03T12:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t7CSkQEBZLG_F5GbnWCwsFnOHEY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rIhN6msEsWs"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-22T11:00:17Z",
+        "channelId": "UC_1ETgrcrLjHOP0YJmkWLVQ",
+        "title": "가을에도 놓칠 수 없는 톤업 선크림 추천🍂#shorts",
+        "description": "이시안 #LEESIAN #선크림 추천.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rIhN6msEsWs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rIhN6msEsWs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rIhN6msEsWs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rIhN6msEsWs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rIhN6msEsWs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "최종시안",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-22T11:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c-3zs2jXFGU1uJqPK3rUfffJls8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wFqorSiJyko"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-17T09:00:27Z",
+        "channelId": "UCJ6swbl2ORHIhKfxScUxW_A",
+        "title": "품절대란 예감! 태연이 극찬한 4가지 컬러 톤업 선크림",
+        "description": "메이크업 필수 단계! 수분감 폭발에 톤보정까지 완벽한 태연의 인생 선크림을 소개합니다. 2~3시간마다 덧발라도 뭉침 없이 촉촉한 깐 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wFqorSiJyko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wFqorSiJyko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wFqorSiJyko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wFqorSiJyko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wFqorSiJyko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "잇템버니",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-17T09:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MMhiaE0YEEOvEgCSZYD_K9YcjW0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Rha7MaotG74"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-09T15:12:37Z",
+        "channelId": "UCU27k-Lw3t0Tag-GH0i4f7w",
+        "title": "올 때 선크림 #sbsplus #나는솔로 #EP_270",
+        "description": "여기는 어디? [나는 SOLO]❣ 매주 수요일 밤 10시 30분 SBSPlus 본방 사수   #나는솔로 #나는SOLO #나는솔로33기 #모태솔로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rha7MaotG74/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rha7MaotG74/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rha7MaotG74/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rha7MaotG74/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rha7MaotG74/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SBS Plus 스플스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-09T15:12:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_EkgJbnG1KpSNZX-vzUCJDLDgLE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ruNBIHDtsso"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-18T05:39:48Z",
+        "channelId": "UCrBqq4kIg1iFWScrFokGkTw",
+        "title": "알고 보니 피부과에서 만든 찐템! 발레리나 출신 윤혜진의 쌩얼 선크림🤍 #윤혜진 #윤혜진추천 #피부과스킨케어 #선크림추천 #피부과선크림 #윤혜진선크림",
+        "description": "발레리나 출신 윤혜진이 우연히 썼다가 깜짝 놀란 피부과 찐템 선크림! 백탁 없이 맑은 쌩얼 피부 연출하고 싶다면 꼭 확인해 보세요.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ruNBIHDtsso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ruNBIHDtsso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ruNBIHDtsso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ruNBIHDtsso/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ruNBIHDtsso/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스타가쓴대",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-18T05:39:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u-An1c6QvupiV-k3nP2Ggo0dIq0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wG6iDIoie1s"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-18T23:00:21Z",
+        "channelId": "UC7hNqbyhyN5FLro2pbbc_tw",
+        "title": "선크림 찬양하게 된 김아영  #메이크업 #makeup #메이크업튜토리얼 #선크림",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wG6iDIoie1s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wG6iDIoie1s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wG6iDIoie1s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wG6iDIoie1s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wG6iDIoie1s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스타템픽",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-18T23:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EQdMAk2L_RscVXjlGGZhE6uHoE4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pRxlsSunI_A"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-15T11:00:27Z",
+        "channelId": "UCxAdlKnB5u0a7A-iqRa5jYw",
+        "title": "선크림 발라도 기미가 올라온 이유. mov #선크림 #기미 #선크림바르는법",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pRxlsSunI_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pRxlsSunI_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pRxlsSunI_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pRxlsSunI_A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pRxlsSunI_A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "단이 DANI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-15T11:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z1ImHMXLEJ3onHcQIaDDBdjHw98",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qKUqyvCwcYc"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-17T11:00:15Z",
+        "channelId": "UCF24NMvY6K0wUUaRR2jscQA",
+        "title": "살면서 한 번쯤 느껴본 물놀이 선크림 특",
+        "description": "5.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qKUqyvCwcYc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qKUqyvCwcYc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qKUqyvCwcYc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qKUqyvCwcYc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qKUqyvCwcYc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "일분일초",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-17T11:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bEFGIheH-jBpzrrYVqphhb9TMsY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XVnggkW41Po"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-28T11:00:27Z",
+        "channelId": "UCSEjzQoMvHMp-6cXiXGpyWw",
+        "title": "선크림만 수백개 써본 덕후 인생선크림",
+        "description": "선크림 #뷰티 #메이크업 #올리브영 #동안메이크업 #컨실러 #파운데이션 #베이스.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XVnggkW41Po/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XVnggkW41Po/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XVnggkW41Po/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XVnggkW41Po/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XVnggkW41Po/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "트렌드바구니",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-28T11:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xwaf-Dm0N28k9ywqZllNgLqBMJM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PSnOKj1hgIE"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-21T09:16:21Z",
+        "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+        "title": "&quot;다이소 선크림, 뭘 믿고 바르냐&quot; 유튜버 주장에…&quot;전부 기준 충족&quot; 반격",
+        "description": "아성다이소는 자외선차단제 기준 부적합 의혹이 제기된 8개 상품에 대해 전문 임상기관에서 시험한 결과, 모두 식품의약품안전처 기준 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PSnOKj1hgIE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PSnOKj1hgIE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PSnOKj1hgIE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PSnOKj1hgIE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PSnOKj1hgIE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MBN News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-21T09:16:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lll_x6IbORk9qUTP0Sn4azrHu1U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "L8Ip0KMNSNw"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-20T09:00:01Z",
+        "channelId": "UCt20usEzI4JDTNndUM9JkdQ",
+        "title": "선크림, 이만큼 안 바르면 소용없어요 #shorts #선크림 #자외선차단",
+        "description": "선크림, 한 번에 얼마나 바르고 계세요? SPF 수치는 피부 1㎠당 2mg을 발랐을 때를 기준으로 측정합니다. 우리나라 성인 얼굴 면적이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L8Ip0KMNSNw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L8Ip0KMNSNw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L8Ip0KMNSNw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L8Ip0KMNSNw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L8Ip0KMNSNw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "서울대학교병원 피부과 명예교수 정진호",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-20T09:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HlcE_COWlpOpEDgFQs4xpGyYyWk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2hYYg2dBPd4"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-15T22:00:29Z",
+        "channelId": "UCLvLhbzEyq6XDWXKHryb56w",
+        "title": "파데 안 하는 황신혜가 2년째 바르는 선크림 정체",
+        "description": "60대 황신혜가 2년째 얼굴에 바른다는 선크림 파운데이션 없이 선크림을 직접 바르는 이유, 따로 있었네요 60대에도 자연스럽고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2hYYg2dBPd4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2hYYg2dBPd4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2hYYg2dBPd4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2hYYg2dBPd4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2hYYg2dBPd4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "슬기로울 소비생활",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-15T22:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C94aVEefER-9B7CraYKXGyfPleI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oeSMyPa2ztY"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-30T08:00:24Z",
+        "channelId": "UCsov8raraKIBr51sTaiVNxw",
+        "title": "선크림 바르고 30분 기다리기는 괴담입니다 #선크림",
+        "description": "선크림 필터는 바르는 순간 바로 일해요 막이 피부 위에 고르게 자리 잡는 데는 30초에서 1분이면 됩니다 스킨케어 끝나면 선크림부터 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oeSMyPa2ztY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oeSMyPa2ztY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oeSMyPa2ztY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oeSMyPa2ztY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oeSMyPa2ztY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "천정욱의 TMI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-30T08:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zbsp4bWw1WHZTySMTex58YoHcQc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oMdw2MtK2Hc"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-04T10:31:21Z",
+        "channelId": "UCrsAwsy2NfLOfXBw3qhaRYQ",
+        "title": "올리브영 1등 선크림 #올영세일 #올영추천템 #화잘먹",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oMdw2MtK2Hc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oMdw2MtK2Hc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oMdw2MtK2Hc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oMdw2MtK2Hc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oMdw2MtK2Hc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/oMdw2MtK2Hc/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "블링수 뷰티",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-04T10:31:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cGnWQxjZS7WVdcH81wLnAmSx5J0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5N_8C64ttXI"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-04T12:26:12Z",
+        "channelId": "UC1ZhBh-iwdIFgnGemfm8ODQ",
+        "title": "선크림 얼마나 발라야 할까?☀️올영세일 선크림 추천 #shorts",
+        "description": "제품제공 요즘 선크림은 양껏 바르는 게 중요하다고 해서 듬뿍듬뿍 바르는 중☁️! 그런데 많이 바르면 답답한 제품도 있어서 여름엔 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5N_8C64ttXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5N_8C64ttXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5N_8C64ttXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5N_8C64ttXI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5N_8C64ttXI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리쮸 LIZZU ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-04T12:26:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "db9K3ewzESMNuuKgMH0ggimt7CU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7-YGbVke6zE"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-11T10:00:32Z",
+        "channelId": "UC4if1dzfKPBJ-p_08LCpfFA",
+        "title": "태연이 직접 말하는 찐 애정템! 달바 톤업 선크림 추천 및 메이크업 꿀팁 ☀️",
+        "description": "태연이 해외 출장 때도 꼭 챙겨 다니는 진짜 애정 아이템! 달바(d'Alba) 톤업 선크림 소개 및 사용 꿀팁 모음입니다. ☀️ 수분감 넘치고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7-YGbVke6zE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7-YGbVke6zE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7-YGbVke6zE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7-YGbVke6zE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7-YGbVke6zE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "매일셀럽템",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-11T10:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4BCQlja_APYm_h34LuEPAbY0Acs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "plZmdAjMKBk"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-18T09:00:09Z",
+        "channelId": "UCqe4H_kLeWLFRUBrdVotljg",
+        "title": "어릴 때 선크림 바르고 30분 기다릴 때 심정 ㅋㅋㅋ #Shorts",
+        "description": "어릴 때 수영장 가기 전 선크림 바르고 기다리는 거 진짜 영원의 시간이었음 ㅋㅋㅋ 겨우 다 말라서 수영장에 들어갔더니 바로 점심 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/plZmdAjMKBk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/plZmdAjMKBk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/plZmdAjMKBk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/plZmdAjMKBk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/plZmdAjMKBk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "웃음주의보",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-18T09:00:09Z"
+      }
+    }
+  ]
+}
