@@ -103,8 +103,8 @@ weekly.sort(key=lambda record: (record[0], record[1]))
 regional.sort(key=lambda record: (record[0], record[1]))
 related_queries.sort(key=lambda record: (record[0], record[1], record[2], record[3]))
 related_topics.sort(key=lambda record: (record[0], record[1], record[2], record[3]))
-write("검색관심도/구글트렌드_검색관심도_주간_2025-2026_조회별정규화.csv",
-      ["조회구분연도", "주간시작일", *TERMS, "원본파일"], weekly)
+write("검색관심도/구글트렌드_검색관심도.csv",
+      ["조회구분연도", "주간시작일", *TERMS], [row[:-1] for row in weekly])
 write("지역별관심도/구글트렌드_지역별관심도_2025-2026_조회별정규화.csv",
       ["조회구분연도", "지역", *TERMS, "원본파일"], regional)
 write("연관검색어/구글트렌드_연관검색어_2025-2026_통합.csv",
@@ -113,5 +113,11 @@ write("연관주제/구글트렌드_연관주제_2025-2026_통합.csv",
       ["조회구분연도", "기준검색어_추정", "구분", "원본순위", "연관주제", "상대관심도", "증가율", "원본파일"], related_topics)
 write("관리/구글트렌드_파일명변경목록.csv",
       ["기존파일명", "변경파일명", "조회구분연도", "자료유형", "기준검색어", "행수", "원본SHA256", "기준검색어확인방법"], manifest)
+for _, target, _, metric, *_ in renames:
+    if metric == "time_series":
+        target.unlink()
+weekly_raw = ROOT / "검색관심도/원본"
+if weekly_raw.exists() and not any(weekly_raw.iterdir()):
+    weekly_raw.rmdir()
 print("renamed", len(renames), "weekly", len(weekly), "regional", len(regional),
       "related_queries", len(related_queries), "related_topics", len(related_topics))
