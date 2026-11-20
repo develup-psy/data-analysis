@@ -40,7 +40,7 @@ def rows(path):
         return reader.fieldnames, list(reader)
 
 files = sorted(p for p in ROOT.glob("*.csv") if PATTERN.match(p.name))
-if not files and (ROOT / "구글트렌드_파일명변경목록.csv").exists():
+if not files and (ROOT / "관리/구글트렌드_파일명변경목록.csv").exists():
     print("Google Trends files have already been organized.")
     sys.exit(0)
 assert len(files) == 62, f"Expected 62 Google exports, found {len(files)}"
@@ -54,17 +54,24 @@ for source in files:
     else:
         kind, subject = metric.split("_")
         new_name = f"구글트렌드_연관{'검색어' if subject == 'queries' else '주제'}_{'상위' if kind == 'top' else '급상승'}_{term}_{year}조회_원본.csv"
-    target = ROOT / new_name
+    category = {
+        "time_series": "검색관심도",
+        "by_region": "지역별관심도",
+    }.get(metric, "연관검색어" if metric.endswith("queries") else "연관주제")
+    target = ROOT / category / "원본" / new_name
     assert not target.exists(), f"Target already exists: {target}"
     header, data = rows(source)
     renames.append((source, target, year, metric, term, header, data, hashlib.sha256(source.read_bytes()).hexdigest()))
 assert len({item[1] for item in renames}) == 62, "Renamed file names collide"
 
 for source, target, *_ in renames:
+    target.parent.mkdir(parents=True, exist_ok=True)
     source.rename(target)
 
 def write(name, header, data):
-    with (ROOT / name).open("w", encoding="utf-8-sig", newline="") as stream:
+    output = ROOT / name
+    output.parent.mkdir(parents=True, exist_ok=True)
+    with output.open("w", encoding="utf-8-sig", newline="") as stream:
         writer = csv.writer(stream)
         writer.writerow(header)
         writer.writerows(data)
@@ -96,15 +103,15 @@ weekly.sort(key=lambda record: (record[0], record[1]))
 regional.sort(key=lambda record: (record[0], record[1]))
 related_queries.sort(key=lambda record: (record[0], record[1], record[2], record[3]))
 related_topics.sort(key=lambda record: (record[0], record[1], record[2], record[3]))
-write("구글트렌드_검색관심도_주간_2025-2026_조회별정규화.csv",
+write("검색관심도/구글트렌드_검색관심도_주간_2025-2026_조회별정규화.csv",
       ["조회구분연도", "주간시작일", *TERMS, "원본파일"], weekly)
-write("구글트렌드_지역별관심도_2025-2026_조회별정규화.csv",
+write("지역별관심도/구글트렌드_지역별관심도_2025-2026_조회별정규화.csv",
       ["조회구분연도", "지역", *TERMS, "원본파일"], regional)
-write("구글트렌드_연관검색어_2025-2026_통합.csv",
+write("연관검색어/구글트렌드_연관검색어_2025-2026_통합.csv",
       ["조회구분연도", "기준검색어_추정", "구분", "원본순위", "연관검색어", "상대관심도", "증가율", "원본파일"], related_queries)
-write("구글트렌드_연관주제_2025-2026_통합.csv",
+write("연관주제/구글트렌드_연관주제_2025-2026_통합.csv",
       ["조회구분연도", "기준검색어_추정", "구분", "원본순위", "연관주제", "상대관심도", "증가율", "원본파일"], related_topics)
-write("구글트렌드_파일명변경목록.csv",
+write("관리/구글트렌드_파일명변경목록.csv",
       ["기존파일명", "변경파일명", "조회구분연도", "자료유형", "기준검색어", "행수", "원본SHA256", "기준검색어확인방법"], manifest)
 print("renamed", len(renames), "weekly", len(weekly), "regional", len(regional),
       "related_queries", len(related_queries), "related_topics", len(related_topics))
